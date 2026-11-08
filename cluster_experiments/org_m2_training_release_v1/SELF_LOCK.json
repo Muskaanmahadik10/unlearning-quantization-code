@@ -1,0 +1,85 @@
+{
+  "files": [
+    {
+      "bytes": 598,
+      "path": "ACCEPTED_METRIC_AUDIT.json",
+      "sha256": "6a430678301bb648e9905e7cbb1886aad42bfb44f803bedc07b70fb7ff60fe0e"
+    },
+    {
+      "bytes": 2149,
+      "path": "ACCEPTED_PILOT_AUDIT.json",
+      "sha256": "68902980ea13224b4bcbd0eed677aad6dc1ac23f68eb02bbf601bb0b4fe41079"
+    },
+    {
+      "bytes": 311,
+      "path": "BUILD_STATUS.json",
+      "sha256": "d6e60ab9186b42f8836f9110bf667d2b50806a4c901414a0196425a4f5e6e0b3"
+    },
+    {
+      "bytes": 1727,
+      "path": "LOCAL_CPU_TESTS.txt",
+      "sha256": "df0e582be9cb75e2b7f4dcbdd55593195f925e192d4190eaaa7c8d1b07b939e6"
+    },
+    {
+      "bytes": 456,
+      "path": "LOCAL_DATA_ROUTE_AUDIT.json",
+      "sha256": "d3042432163bbfb699e7b0ecb6b4fd29878aec782dc163ef4d1e15b91f7905e1"
+    },
+    {
+      "bytes": 6015,
+      "path": "m2_collect_or_v1.py",
+      "sha256": "ff873ddc186a0d65212e83560617ee54eb0b2e3a56ac6c5624bdb05bc3be3d3c"
+    },
+    {
+      "bytes": 4582,
+      "path": "m2_real_data_v1.py",
+      "sha256": "8100d57981eb6f56aa0c6c1c1bfc8239fc5a62a7c1e1b0fea10e08d53be2634e"
+    },
+    {
+      "bytes": 6455,
+      "path": "m2_real_evaluator_v1.py",
+      "sha256": "eb8268e20a87ef379068632145765ed073d51d1d1a05939034c33277bfb5da20"
+    },
+    {
+      "bytes": 4566,
+      "path": "m2_stage_common_v1.py",
+      "sha256": "f8182453bec24b4e555c942ccee51b84ee5c81c53275a99f8543b0223e84581f"
+    },
+    {
+      "bytes": 1315,
+      "path": "m2_train_or.slurm",
+      "sha256": "d0e225079d08947af4465cbf0499dafe3f28ea2f1ae720377684aca609df6230"
+    },
+    {
+      "bytes": 8206,
+      "path": "m2_train_or_v1.py",
+      "sha256": "29737b0486ff58e34fc522168ff8973b76e94a21bddd55119c6562ea649772e1"
+    },
+    {
+      "bytes": 4866,
+      "path": "m2_training_release_v1.py",
+      "sha256": "a0bb267abdd4e93d1b70fcd845873eb1317715baeead8e290d7720d04b9c5641"
+    },
+    {
+      "bytes": 2606,
+      "path": "RELEASE.json",
+      "sha256": "83ffcdf8528e752d600c5470ef896c01aeb27a96ee653023b46e4ddba65e0123"
+    },
+    {
+      "bytes": 4418,
+      "path": "START_HERE.md",
+      "sha256": "8cdb5596a58f4ecb3e5296cb27977d2c39017cf5cdfdedbdb0a4982c18e697ae"
+    },
+    {
+      "bytes": 2680,
+      "path": "test_m2_real_evaluator_torch_v1.py",
+      "sha256": "15a1fd7e9bdb76853e36aaf127224a27d8e3f8ce96adeea3dd177ee2412dd633"
+    },
+    {
+      "bytes": 4856,
+      "path": "test_m2_training_release_stdlib_v1.py",
+      "sha256": "39516dd75346c6abf0c3c12d0fa2d0c4089407081ca41503e02ab5ea58b7f4cb"
+    }
+  ],
+  "schema": "m2_training_release_source_v1"
+}

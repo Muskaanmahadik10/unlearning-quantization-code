@@ -1,0 +1,265 @@
+{
+  "adaptation": "AST-selected unchanged function/class bodies; omit registration decorators and unrelated imports only",
+  "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+  "files": [
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/utils.py",
+      "sha256": "650f30143228e14cc47b70704b66a4425fe03d8d9cfab0ae315602041bb7d89c",
+      "upstream_path": "src/evals/metrics/utils.py"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/memorization.py",
+      "sha256": "5d04d81e45ab6eac6fe6ee659f355a1ba57e6809dff860bcb8acebc8be764e9a",
+      "upstream_path": "src/evals/metrics/memorization.py"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/utility.py",
+      "sha256": "2dc70dcf54b06944dddaa3938b8eeceb3e91eb2d706389061fc04bf80a3eaa0e",
+      "upstream_path": "src/evals/metrics/utility.py"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/privacy.py",
+      "sha256": "05527a628cc1ba72b2dceeb8e895c5238acbae894243e1bb5d491c280edce03d",
+      "upstream_path": "src/evals/metrics/privacy.py"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/all_attacks.py",
+      "sha256": "c7a618f5089d54c55ab27a24d1fc64ea53be6a789eb9271002cb4abe5af9e7e1",
+      "upstream_path": "src/evals/metrics/mia/all_attacks.py"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/min_k.py",
+      "sha256": "85b0af7d3df72e0d237ada103111974ebe2609d822a13488867d2755b23eadd5",
+      "upstream_path": "src/evals/metrics/mia/min_k.py"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/mia_utils.py",
+      "sha256": "f6e441b258e6fde3253d8437f009088bbef6f9e046892490da7f3e941de64218",
+      "upstream_path": "src/evals/metrics/mia/utils.py"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/exact_memorization.yaml",
+      "sha256": "6c564ee91ed01827f55f425b184b817a37d4abfd6381007549f39682d69dc099",
+      "upstream_path": "configs/eval/tofu_metrics/exact_memorization.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/extraction_strength.yaml",
+      "sha256": "6e69edebd653c6a38fd3767826172d99ff02c2304fd0b53e83da9af69fa1ba68",
+      "upstream_path": "configs/eval/tofu_metrics/extraction_strength.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/forget_Q_A_PARA_Prob.yaml",
+      "sha256": "bf7f33c07dba4d9b2d40d72f8759c27bc90197ef062b8c740b279823a8788a31",
+      "upstream_path": "configs/eval/tofu_metrics/forget_Q_A_PARA_Prob.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/forget_Q_A_PARA_ROUGE.yaml",
+      "sha256": "f1e153f2ead00503059b658377c3b69db8938bf1c459a953668c62326832f37e",
+      "upstream_path": "configs/eval/tofu_metrics/forget_Q_A_PARA_ROUGE.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/forget_Q_A_PERT_Prob.yaml",
+      "sha256": "ef2b941445c7b38da6520770c45130a9d53bd52e5445952fbe1cb0b8847e43fa",
+      "upstream_path": "configs/eval/tofu_metrics/forget_Q_A_PERT_Prob.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/forget_Q_A_PERT_ROUGE.yaml",
+      "sha256": "6a13ac94a862db0ebb4a127fc45f1fd5f8677f9586c8721e4578a254fb476ad3",
+      "upstream_path": "configs/eval/tofu_metrics/forget_Q_A_PERT_ROUGE.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/forget_Q_A_Prob.yaml",
+      "sha256": "bb342b24d322880000d7201c6388ef79a6902382d96bff1d227bc4a6a9110db7",
+      "upstream_path": "configs/eval/tofu_metrics/forget_Q_A_Prob.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/forget_Q_A_ROUGE.yaml",
+      "sha256": "523e5d00ad6be5c638cfb49d548b0cf99090db50a53c2e9e73cf0b723570119d",
+      "upstream_path": "configs/eval/tofu_metrics/forget_Q_A_ROUGE.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/forget_Q_A_gibberish.yaml",
+      "sha256": "afa81669c91744c5b8b5a3d6ec41b924788a0379368fb7121a20df0e18f67e2a",
+      "upstream_path": "configs/eval/tofu_metrics/forget_Q_A_gibberish.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/forget_Truth_Ratio.yaml",
+      "sha256": "0a8a94a146c7d4e95c4335be0c07007e96f10189afef27b3450dd6146d810e35",
+      "upstream_path": "configs/eval/tofu_metrics/forget_Truth_Ratio.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/forget_quality.yaml",
+      "sha256": "03d0852189b303aab1540a9da3916bf7ae7c0f3243b18fedb7a462a719dddb18",
+      "upstream_path": "configs/eval/tofu_metrics/forget_quality.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/mia_gradnorm.yaml",
+      "sha256": "e775584e378976db02f13abd4632e780915cc9ac9c7238f039575888ca2c11bd",
+      "upstream_path": "configs/eval/tofu_metrics/mia_gradnorm.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/mia_loss.yaml",
+      "sha256": "c8bfa2b9c4a352f4f6449714f50bab84f6a1bf0b82205d3b4d34ec344f951538",
+      "upstream_path": "configs/eval/tofu_metrics/mia_loss.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/mia_min_k.yaml",
+      "sha256": "580f63879007c4db61ff2fe575b4f7b822de5174da7c84a3a49c3bd00a0b3efe",
+      "upstream_path": "configs/eval/tofu_metrics/mia_min_k.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/mia_min_k_plus_plus.yaml",
+      "sha256": "bf9db611270cdc4caf93d13d084ea0871d2c9bfac8dfb4d8d626177a88dd210b",
+      "upstream_path": "configs/eval/tofu_metrics/mia_min_k_plus_plus.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/mia_reference.yaml",
+      "sha256": "cc079968ce0023c5cb80b0a87243e305e27e38970f8fe2900749fbe6fb9e3d51",
+      "upstream_path": "configs/eval/tofu_metrics/mia_reference.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/mia_zlib.yaml",
+      "sha256": "ef4e6bf056048e679d8e267d4a15d3b6ae65276140ded983772121e84d650ceb",
+      "upstream_path": "configs/eval/tofu_metrics/mia_zlib.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/model_utility.yaml",
+      "sha256": "34d95475601379e0f23846239710a18682437e383bdc239f243380c600aaf20c",
+      "upstream_path": "configs/eval/tofu_metrics/model_utility.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/privleak.yaml",
+      "sha256": "27062fdb9f6d402b31176c49c9237d795893b179f5db981d045fedf47b121a5b",
+      "upstream_path": "configs/eval/tofu_metrics/privleak.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/ra_Q_A_PERT_Prob.yaml",
+      "sha256": "859a3730b0f82c08430688fe4b986abe4e4283b0dd1893ad2a1ece10f1cffe65",
+      "upstream_path": "configs/eval/tofu_metrics/ra_Q_A_PERT_Prob.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/ra_Q_A_Prob.yaml",
+      "sha256": "62d64a2010b4abe3584d0041dfed8a042ed73c1ebf30dd0ebc8eb65a3aa2ec49",
+      "upstream_path": "configs/eval/tofu_metrics/ra_Q_A_Prob.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/ra_Q_A_Prob_normalised.yaml",
+      "sha256": "19135f6627a31647b670ec76dd37ade6e8d8c2e99217097b909b13dc2a43eb36",
+      "upstream_path": "configs/eval/tofu_metrics/ra_Q_A_Prob_normalised.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/ra_Q_A_ROUGE.yaml",
+      "sha256": "32e117a03ba8531569b7b0944b321f3b1b11a388cfe4afca739c743da8ee8ea8",
+      "upstream_path": "configs/eval/tofu_metrics/ra_Q_A_ROUGE.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/ra_Truth_Ratio.yaml",
+      "sha256": "b327edfcb9925ec7a64194b47f64f4242182f2ca2635b4663d246e00f0a08737",
+      "upstream_path": "configs/eval/tofu_metrics/ra_Truth_Ratio.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/retain_Q_A_PARA_Prob.yaml",
+      "sha256": "3cf7aa89d18509bb144b658285f7e3df95f86416c1b1774703b56f834b3845c1",
+      "upstream_path": "configs/eval/tofu_metrics/retain_Q_A_PARA_Prob.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/retain_Q_A_PERT_Prob.yaml",
+      "sha256": "0a091075f92649c821f308ce7049dba530a7ec3369efab0f97646b62be1b52fb",
+      "upstream_path": "configs/eval/tofu_metrics/retain_Q_A_PERT_Prob.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/retain_Q_A_Prob.yaml",
+      "sha256": "d26738bd905faae48489cca79f0483382b8795b223bd5601e25ba242b490da94",
+      "upstream_path": "configs/eval/tofu_metrics/retain_Q_A_Prob.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/retain_Q_A_ROUGE.yaml",
+      "sha256": "1543bad34a4202b2d7630e0ccbf97909ff5ee0ff5482bd470c4f783657d414c3",
+      "upstream_path": "configs/eval/tofu_metrics/retain_Q_A_ROUGE.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/retain_Truth_Ratio.yaml",
+      "sha256": "c6e39a052ddd1af1d05c8cdc3f8b6c7cca667ad332dc65ee302849126a96e8c0",
+      "upstream_path": "configs/eval/tofu_metrics/retain_Truth_Ratio.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/wf_Q_A_PERT_Prob.yaml",
+      "sha256": "a1c6f4c862a4c0f3d25ad29761b9d7a7218b0a5af9474a5ded62a9a9d019c36d",
+      "upstream_path": "configs/eval/tofu_metrics/wf_Q_A_PERT_Prob.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/wf_Q_A_Prob.yaml",
+      "sha256": "b7495bd79dc14e4517118e49956da0650bf893e8f31dc586e61348d87d4130ee",
+      "upstream_path": "configs/eval/tofu_metrics/wf_Q_A_Prob.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/wf_Q_A_Prob_normalised.yaml",
+      "sha256": "e4abce5a0cc2a75f0050ae54081377c84722fa8e4a6fc4a1c6f3cd3d06c48a89",
+      "upstream_path": "configs/eval/tofu_metrics/wf_Q_A_Prob_normalised.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/wf_Q_A_ROUGE.yaml",
+      "sha256": "7c010f5bb573a16d4c84cda56c4dc34b721975ac7580245d94b0b9ca569409f1",
+      "upstream_path": "configs/eval/tofu_metrics/wf_Q_A_ROUGE.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu_metrics/wf_Truth_Ratio.yaml",
+      "sha256": "a88685e5f3f38e2f2f5ae96ad1dde8ee5a6b2dec5af8aaaf089ad64663965452",
+      "upstream_path": "configs/eval/tofu_metrics/wf_Truth_Ratio.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/configs/eval/tofu.yaml",
+      "sha256": "5f123c3d984100e80a0e398de68a5a1959346a43de1e50f0f907776497230a1e",
+      "upstream_path": "configs/eval/tofu.yaml"
+    },
+    {
+      "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+      "path": "upstream/LICENSE",
+      "sha256": "2f6df7a76faaefa1a6b50bdcf4191c1c2fcb72454964266f0210c2f452291dea",
+      "upstream_path": "LICENSE"
+    }
+  ],
+  "repository": "https://github.com/locuslab/open-unlearning"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/LICENSE",
+    "sha256": "2f6df7a76faaefa1a6b50bdcf4191c1c2fcb72454964266f0210c2f452291dea",
+    "reference": "code/org_m2_metric_integration_v1/UPSTREAM_PROVENANCE.json",
+    "local_origin": "unframed original dratf and documents\\library\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\UPSTREAM_LICENSE"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/UPSTREAM_LICENSE",
+    "sha256": "2f6df7a76faaefa1a6b50bdcf4191c1c2fcb72454964266f0210c2f452291dea",
+    "reference": "code/org_m2_model_pilot_v2/UPSTREAM_PROVENANCE.json",
+    "local_origin": "unframed original dratf and documents\\library\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\UPSTREAM_LICENSE"
+  }
+]

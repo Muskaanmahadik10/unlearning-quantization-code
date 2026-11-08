@@ -1,0 +1,271 @@
+{
+  "atlas_production_authorized": false,
+  "b05_behavior_authorized": false,
+  "behavior_launcher_certified": false,
+  "cells": {
+    "adverse_muse_gdr_seed2024/gptq_int4": {
+      "conditions": {
+        "abstention": {
+          "alias_of": "full_packed",
+          "protected_layers": []
+        },
+        "bf16": {
+          "alias_of": null,
+          "protected_layers": "ALL_TARGETS"
+        },
+        "full_packed": {
+          "alias_of": null,
+          "protected_layers": []
+        },
+        "pair": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.17.mlp.down_proj.weight",
+            "model.layers.6.mlp.gate_proj.weight"
+          ]
+        },
+        "risky_looking_singleton": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.8.self_attn.v_proj.weight"
+          ]
+        },
+        "safe_looking_singleton": {
+          "abstained": false,
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.17.mlp.down_proj.weight"
+          ]
+        }
+      },
+      "per_layer_sha256": "ac7978378fd8c309b2a36db295e4b7850f4521cd05e8b80d9400367b5106e7e7",
+      "receipt": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_feature_cells_v2/production_adverse_muse_gdr_seed2024_gptq_int4_349007.json",
+        "sha256": "121a05d6740e2260e01cd7f1de0cb5bbad5b631a76fb9f2d3d1aafaa1926143f"
+      },
+      "target_parameters": 6476005376
+    },
+    "adverse_muse_gdr_seed2024/nf4": {
+      "conditions": {
+        "abstention": {
+          "alias_of": "full_packed",
+          "protected_layers": []
+        },
+        "bf16": {
+          "alias_of": null,
+          "protected_layers": "ALL_TARGETS"
+        },
+        "full_packed": {
+          "alias_of": null,
+          "protected_layers": []
+        },
+        "pair": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.13.mlp.up_proj.weight",
+            "model.layers.14.self_attn.o_proj.weight"
+          ]
+        },
+        "risky_looking_singleton": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.1.mlp.down_proj.weight"
+          ]
+        },
+        "safe_looking_singleton": {
+          "abstained": false,
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.13.mlp.up_proj.weight"
+          ]
+        }
+      },
+      "per_layer_sha256": "c2e4a5bc3fae30315e13c9bdee5296828fd77b767ba2792035dd8f972a31f95e",
+      "receipt": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_feature_cells_v2/production_adverse_muse_gdr_seed2024_nf4_349006.json",
+        "sha256": "387ee50f6db0e64f9eda4e83e3167b9168bf62a023ad744baee0c5431f768413"
+      },
+      "target_parameters": 6476005376
+    },
+    "adverse_muse_gdr_seed2024/rtn_int8": {
+      "conditions": {
+        "abstention": {
+          "alias_of": "full_packed",
+          "protected_layers": []
+        },
+        "bf16": {
+          "alias_of": null,
+          "protected_layers": "ALL_TARGETS"
+        },
+        "full_packed": {
+          "alias_of": null,
+          "protected_layers": []
+        },
+        "pair": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.4.self_attn.o_proj.weight",
+            "model.layers.0.mlp.down_proj.weight"
+          ]
+        },
+        "risky_looking_singleton": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.1.mlp.down_proj.weight"
+          ]
+        },
+        "safe_looking_singleton": {
+          "abstained": false,
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.4.self_attn.o_proj.weight"
+          ]
+        }
+      },
+      "per_layer_sha256": "c43c9c4f237f30dd6fc133687f9fb799a1c45034c002f909baf4635b352a0af8",
+      "receipt": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_feature_cells_v2/production_adverse_muse_gdr_seed2024_rtn_int8_349008.json",
+        "sha256": "21c0a686faa6b1842835aed6adc58d50ab34fbb93128ff078bd31457eddcf534"
+      },
+      "target_parameters": 6476005376
+    },
+    "ordinary_tofu_ga_seed42/gptq_int4": {
+      "conditions": {
+        "abstention": {
+          "alias_of": "full_packed",
+          "protected_layers": []
+        },
+        "bf16": {
+          "alias_of": null,
+          "protected_layers": "ALL_TARGETS"
+        },
+        "full_packed": {
+          "alias_of": null,
+          "protected_layers": []
+        },
+        "pair": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.26.mlp.gate_proj.weight",
+            "model.layers.30.mlp.up_proj.weight"
+          ]
+        },
+        "risky_looking_singleton": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.0.self_attn.v_proj.weight"
+          ]
+        },
+        "safe_looking_singleton": {
+          "abstained": false,
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.26.mlp.gate_proj.weight"
+          ]
+        }
+      },
+      "per_layer_sha256": "f74e92cee16a17f3c3cab8fff1c4c8c90b23c2ba477d01c9ff82d29d4f6a1a32",
+      "receipt": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_feature_cells_v2/production_ordinary_tofu_ga_seed42_gptq_int4_348869.json",
+        "sha256": "b6701e855ee254795612cc59037ddf7a5a99090783258487c9540954c0f6aaf8"
+      },
+      "target_parameters": 6476005376
+    },
+    "ordinary_tofu_ga_seed42/nf4": {
+      "conditions": {
+        "abstention": {
+          "alias_of": "full_packed",
+          "protected_layers": []
+        },
+        "bf16": {
+          "alias_of": null,
+          "protected_layers": "ALL_TARGETS"
+        },
+        "full_packed": {
+          "alias_of": null,
+          "protected_layers": []
+        },
+        "pair": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.31.self_attn.v_proj.weight",
+            "model.layers.30.mlp.up_proj.weight"
+          ]
+        },
+        "risky_looking_singleton": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.0.self_attn.v_proj.weight"
+          ]
+        },
+        "safe_looking_singleton": {
+          "abstained": false,
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.31.self_attn.v_proj.weight"
+          ]
+        }
+      },
+      "per_layer_sha256": "54afea808eb0a3bb2b9da36f1f8a737e57e6bc9e60160cd4d6b973db64fe3c82",
+      "receipt": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_feature_cells_v2/production_ordinary_tofu_ga_seed42_nf4_349004.json",
+        "sha256": "2fb27275e82b028a8ead4fd848d5a73dea9e87796f42acdcb9602d04955570a1"
+      },
+      "target_parameters": 6476005376
+    },
+    "ordinary_tofu_ga_seed42/rtn_int8": {
+      "conditions": {
+        "abstention": {
+          "alias_of": "full_packed",
+          "protected_layers": []
+        },
+        "bf16": {
+          "alias_of": null,
+          "protected_layers": "ALL_TARGETS"
+        },
+        "full_packed": {
+          "alias_of": null,
+          "protected_layers": []
+        },
+        "pair": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.28.mlp.down_proj.weight",
+            "model.layers.29.self_attn.v_proj.weight"
+          ]
+        },
+        "risky_looking_singleton": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.0.self_attn.o_proj.weight"
+          ]
+        },
+        "safe_looking_singleton": {
+          "abstained": false,
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.28.mlp.down_proj.weight"
+          ]
+        }
+      },
+      "per_layer_sha256": "58dbf1284da56d2f4e72b0343318ec94b685939c3cdcd695f3644ade244c7636",
+      "receipt": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_feature_cells_v2/production_ordinary_tofu_ga_seed42_rtn_int8_349005.json",
+        "sha256": "2d546dbf9560189e3ae2d4e1fcba0c36e3c5d6ba17be9f184aa8a1155b55bcc0"
+      },
+      "target_parameters": 6476005376
+    }
+  },
+  "condition_count_per_cell": 6,
+  "feature_cell_count": 6,
+  "feature_prerequisite_pass": true,
+  "protected_outcomes_inspected": false,
+  "reference_manifest": {
+    "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_current_runtime_reference_v1/current_runtime_reference_manifest_v1.json",
+    "sha256": "d8b30f2a00b8aaae176148fd64d57434d08bcfb93a8fe2c36a060ca21216fd22"
+  },
+  "schema_version": "org_e2b_b05_selector_lock_v2",
+  "selector_definitions_frozen": true,
+  "status": "PASS",
+  "validator_sha256": "cbd3f910cbc8fad13ac77bb7be8e3aeeccad363fae10afb8bd638952e721de5b"
+}

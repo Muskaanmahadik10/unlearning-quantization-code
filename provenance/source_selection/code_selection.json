@@ -1,0 +1,278 @@
+[
+  {
+    "path": "code/LATEST_RESEARCH_EXAMINATION_20260904/ORG_PLAN_PAYLOAD_AUDIT/drafts/PAYLOAD_METRICS_GQDP_SELECTED24_AUDIT.md",
+    "cluster_path": "LATEST_RESEARCH_EXAMINATION_20260904/ORG_PLAN_PAYLOAD_AUDIT/drafts/PAYLOAD_METRICS_GQDP_SELECTED24_AUDIT.md",
+    "sha256": "c076bd6e1baf1a792b8c88feb8507d6d1827dc7f1e32687600cd6b1014e5d04d",
+    "bytes": 30683,
+    "provenance": "DIRECT_REGISTERED_IDENTITY"
+  },
+  {
+    "path": "code/LATEST_RESEARCH_EXAMINATION_20260904/ORG_PLAN_PAYLOAD_AUDIT/drafts/PAYLOAD_MITIGATION_PILOT24_BRIDGE48_AUDIT.md",
+    "cluster_path": "LATEST_RESEARCH_EXAMINATION_20260904/ORG_PLAN_PAYLOAD_AUDIT/drafts/PAYLOAD_MITIGATION_PILOT24_BRIDGE48_AUDIT.md",
+    "sha256": "4cfa576d06bf7224a993ae900952df96c365ee2d04a3c5a6300c210c5454550b",
+    "bytes": 23370,
+    "provenance": "DIRECT_REGISTERED_IDENTITY"
+  },
+  {
+    "path": "code/org_m1_core_v1/CORE_PLAN.json",
+    "cluster_path": "org_m1_core_v1/CORE_PLAN.json",
+    "sha256": "2517ee3058486cd5b78ce03155fba8e56a4442b8c47ff003f136768f693bec3a",
+    "bytes": 1929,
+    "provenance": "DIRECT_REGISTERED_IDENTITY"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/m2_training_core_v1.py",
+    "cluster_path": "org_m2_model_pilot_v2/m2_training_core_v1.py",
+    "sha256": "262e819a2ae7782d04feda7d5c816a10e36e2145f1f99a4f8c8c560524810153",
+    "bytes": 9254,
+    "provenance": "DIRECT_REGISTERED_IDENTITY",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_development_reuse_v3/PLAN.json",
+    "cluster_path": "org_m2_development_reuse_v3/PLAN.json",
+    "sha256": "ae066095e9be57e4db089a0fe59c78d86a9f0e52c52f693f87276930d33eba14",
+    "bytes": 2236,
+    "provenance": "DIRECT_REGISTERED_IDENTITY"
+  },
+  {
+    "path": "code/org_h200_execution_v1/ORG_H200_E1_SCIENTIFIC_CONTRACT_V1.md",
+    "cluster_path": "org_h200_execution_v1/ORG_H200_E1_SCIENTIFIC_CONTRACT_V1.md",
+    "sha256": "f0cc3459cacb57c813d5fb86d22010a7d76892cb2a9b72acf6bbf907d76b301d",
+    "bytes": 5180,
+    "provenance": "DIRECT_REGISTERED_IDENTITY"
+  },
+  {
+    "path": "code/org_h200_execution_v1/ORG_H200_E1_ANALYSIS_METHOD_AMENDMENT_V1.md",
+    "cluster_path": "org_h200_execution_v1/ORG_H200_E1_ANALYSIS_METHOD_AMENDMENT_V1.md",
+    "sha256": "4c47d2e940fb175881dc29a3cb28dabe4d06508050a2c966dd053991eef7a393",
+    "bytes": 2100,
+    "provenance": "DIRECT_REGISTERED_IDENTITY"
+  },
+  {
+    "path": "code/org_h200_execution_v1/ORG_H200_E2A_ADAPTIVE_TRADEOFF_SCIENTIFIC_CONTRACT_V1.md",
+    "cluster_path": "org_h200_execution_v1/ORG_H200_E2A_ADAPTIVE_TRADEOFF_SCIENTIFIC_CONTRACT_V1.md",
+    "sha256": "873b839e8339a378eb365a57ce1fb22e3d146e45544e40a45e7a65e9204ef538",
+    "bytes": 6135,
+    "provenance": "DIRECT_REGISTERED_IDENTITY"
+  },
+  {
+    "path": "code/org_h200_execution_v1/ORG_H200_E1_COMPLETE_EVIDENCE_LEDGER_20260905.md",
+    "cluster_path": "org_h200_execution_v1/ORG_H200_E1_COMPLETE_EVIDENCE_LEDGER_20260905.md",
+    "sha256": "460463617ac6be48945d85de35416a66c48dce6bdf400bcb018176467a30e8e2",
+    "bytes": 12080,
+    "provenance": "DIRECT_REGISTERED_IDENTITY"
+  },
+  {
+    "path": "code/org_h200_execution_v1/ORG_E2B_B05_CURRENT_RUNTIME_REFERENCE_AMENDMENT_V1.md",
+    "cluster_path": "org_h200_execution_v1/ORG_E2B_B05_CURRENT_RUNTIME_REFERENCE_AMENDMENT_V1.md",
+    "sha256": "d1aa386cdb816f3d4eeef1958240717bc0d4638abc5339b72ebbf59558b96b23",
+    "bytes": 1603,
+    "provenance": "DIRECT_REGISTERED_IDENTITY"
+  },
+  {
+    "path": "code/org_h200_execution_v1/ORG_B05_BEHAVIOR_CELL_CANDIDATE_V1.md",
+    "cluster_path": "org_h200_execution_v1/ORG_B05_BEHAVIOR_CELL_CANDIDATE_V1.md",
+    "sha256": "6351047a9bf812af7ec6904702bb6d98329e35eb1185f4509ad62b861ae36a59",
+    "bytes": 2895,
+    "provenance": "DIRECT_REGISTERED_IDENTITY"
+  },
+  {
+    "path": "code/org_h200_execution_v1/ORG_E2B_B05_HISTORICAL_BEHAVIOR_EXECUTION_PROTOCOL_V1.md",
+    "cluster_path": "org_h200_execution_v1/ORG_E2B_B05_HISTORICAL_BEHAVIOR_EXECUTION_PROTOCOL_V1.md",
+    "sha256": "a5fbe79d89f5e644950a490384f423e8430446cad8291ceccd5ab9fd4b5523d8",
+    "bytes": 4735,
+    "provenance": "DIRECT_REGISTERED_IDENTITY"
+  },
+  {
+    "path": "code/org_h200_execution_v1/ORG_B05_FINISH_WAVE_V1.md",
+    "cluster_path": "org_h200_execution_v1/ORG_B05_FINISH_WAVE_V1.md",
+    "sha256": "82a76313f836c940b3ac491d53113bb36fae8166d821bac3d0446b0fadd40729",
+    "bytes": 3607,
+    "provenance": "DIRECT_REGISTERED_IDENTITY"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/run_gate2_ground_truth_v4.py",
+    "cluster_path": "gate2_v4_final/scripts/run_gate2_ground_truth_v4.py",
+    "sha256": "e08a104d7e9278bf3c041df00c787dc2bd08a1977220107f21f31dc26dbf2fcb",
+    "bytes": 29151,
+    "provenance": "DIRECT_REGISTERED_IDENTITY",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/run_gate2_upqi_v4.py",
+    "cluster_path": "gate2_v4_final/scripts/run_gate2_upqi_v4.py",
+    "sha256": "0a2fb3138d777fccb5a61170176c996955cb380a4dd2f893d219dda5b971ee3a",
+    "bytes": 20244,
+    "provenance": "DIRECT_REGISTERED_IDENTITY",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/gate2_v4_backend.py",
+    "cluster_path": "gate2_v4_final/scripts/gate2_v4_backend.py",
+    "sha256": "a4147dd6fff9ca7a9085a693308df51ca7cc41b6308c9cb1a18a0d0ab4606ddb",
+    "bytes": 10202,
+    "provenance": "DIRECT_REGISTERED_IDENTITY",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/gate2_v4_dataset.py",
+    "cluster_path": "gate2_v4_final/scripts/gate2_v4_dataset.py",
+    "sha256": "084e9cda7b5cb403d82b636a9ddfe0b7ee3cae3536ef6c78b569ffbe4a380307",
+    "bytes": 7334,
+    "provenance": "DIRECT_REGISTERED_IDENTITY",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/gate2_metric_v42_math.py",
+    "cluster_path": "gate2_v4_final/scripts/gate2_metric_v42_math.py",
+    "sha256": "7525248180056429522d8dafc1b799cd8166b2b245651c0bc25c928f1f7358c3",
+    "bytes": 4971,
+    "provenance": "DIRECT_REGISTERED_IDENTITY",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/run_gate2_metric_suite_v42.py",
+    "cluster_path": "gate2_v4_final/scripts/run_gate2_metric_suite_v42.py",
+    "sha256": "9dbd504031e3d5187efe45cfa13d62f6d7a8d94af4cd3069ca2c11667c5976f4",
+    "bytes": 19328,
+    "provenance": "DIRECT_REGISTERED_IDENTITY",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/run_gate2_upqi_star_v42.py",
+    "cluster_path": "gate2_v4_final/scripts/run_gate2_upqi_star_v42.py",
+    "sha256": "eb8f75a9de20e095dbfaa01ac6298d7c509fdf467b3baef6d23e61e3d2e7b2c8",
+    "bytes": 17416,
+    "provenance": "DIRECT_REGISTERED_IDENTITY",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_development_reuse_v3/m2_development_score_v1.py",
+    "cluster_path": "org_m2_development_reuse_v3/m2_development_score_v1.py",
+    "sha256": "26e2cd7f95ad1f4b29f2435b175d8c2bbbbeb73b11f8b582671f1b9ce47f7576",
+    "bytes": 5178,
+    "provenance": "DIRECT_REGISTERED_IDENTITY",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/m2_metric_assembly_v1.py",
+    "cluster_path": "org_m2_metric_integration_v1/m2_metric_assembly_v1.py",
+    "sha256": "af894b650cd90687fafddbfe29e5f2101fc1725f2f5919141c15eaa32472e29b",
+    "bytes": 6491,
+    "provenance": "DIRECT_REGISTERED_IDENTITY",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/m2_eval_oracle_repair_v2.py",
+    "cluster_path": "org_m2_eval_qualification_v2/m2_eval_oracle_repair_v2.py",
+    "sha256": "741d03ae9f3cea7ce4d277b6376a70a0d9d59d62fc8a858ea22441d2313ebe1b",
+    "bytes": 4187,
+    "provenance": "DIRECT_REGISTERED_IDENTITY",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/results/org_h200_execution_v1/b02_h200_environment_v2_345586/ORG_E2B_PACKED_H200_ENVIRONMENT_LOCK_V1.json",
+    "cluster_path": "results/org_h200_execution_v1/b02_h200_environment_v2_345586/ORG_E2B_PACKED_H200_ENVIRONMENT_LOCK_V1.json",
+    "sha256": "9ac5f111ba26aaefbdd104f6e3464b4252aee16daf9c09e3427bf4de56d898f7",
+    "bytes": 16465,
+    "provenance": "results/org_h200_execution_v1/b02_h200_environment_v2_345586/final.json"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/certify_org_e2b_b02_h200_env_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/certify_org_e2b_b02_h200_env_v1.py",
+    "sha256": "5462a235586b071e11f2c69c6ba0c425578f59fa0fe89e73368b0250db09eb89",
+    "bytes": 50965,
+    "provenance": "results/org_h200_execution_v1/b03b_nf4_model_roundtrip/strict_v3_345615/final.json",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/results/org_h200_execution_v1/b02_h200_environment_v2_345586/environment_file_manifest_postprobe.json",
+    "cluster_path": "results/org_h200_execution_v1/b02_h200_environment_v2_345586/environment_file_manifest_postprobe.json",
+    "sha256": "2f9aa6f1932daeff31dafda74a8b8ef0c59abb7bb9e809785788c08d73a53a3b",
+    "bytes": 6348527,
+    "provenance": "results/org_h200_execution_v1/b03b_nf4_model_roundtrip/strict_v3_345615/final.json"
+  },
+  {
+    "path": "code/results/org_h200_execution_v1/b02_h200_environment_v2_345586/B02_H200_ENVIRONMENT_SOURCE_LOCK_V1.json",
+    "cluster_path": "results/org_h200_execution_v1/b02_h200_environment_v2_345586/B02_H200_ENVIRONMENT_SOURCE_LOCK_V1.json",
+    "sha256": "d340903c9097e592d018e3ce0cb0caa8c8fbe28e52d66874c7b5de8285e98b4f",
+    "bytes": 2189,
+    "provenance": "results/org_h200_execution_v1/b03b_nf4_model_roundtrip/strict_v3_345615/final.json"
+  },
+  {
+    "path": "code/results/org_h200_execution_v1/b04_p1_p4_20260906T054910Z/public_identity_download_lock_v2.json",
+    "cluster_path": "results/org_h200_execution_v1/b04_p1_p4_20260906T054910Z/public_identity_download_lock_v2.json",
+    "sha256": "717e914d88206fc6bee8a020efbf6d28ae85484f4688b6c457ba2e5251659d35",
+    "bytes": 9622,
+    "provenance": "results/org_h200_execution_v1/b04_public_inventory/p5_v1_346581/actual_our_module_inventory_v1.json"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/inventory_org_e2b_b04_public_models_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/inventory_org_e2b_b04_public_models_v1.py",
+    "sha256": "b593ccc0ff38bdc3e5aae708bf446738b0e310de2b2dc9b65b8312c44cbfae0e",
+    "bytes": 19535,
+    "provenance": "results/org_h200_execution_v1/b04_public_inventory/p5_v1_346581/actual_our_module_inventory_v1.json",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/gate2_v4_contract.py",
+    "cluster_path": "gate2_v4_final/scripts/gate2_v4_contract.py",
+    "sha256": "205346598106b590357f8d4e07b2f6c9f9a3ab1e560c5f38c9e6384ab070256a",
+    "bytes": 11652,
+    "provenance": "results/org_gb200_execution_v1/parity/gptq_collector_parity_340174.json",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/results/org_h200_execution_v1/b05_selector_locks/behavior_plan_v1.json",
+    "cluster_path": "results/org_h200_execution_v1/b05_selector_locks/behavior_plan_v1.json",
+    "sha256": "97e8ffc7c9a0cce1048f8124eff9210bc1b1c0778216066af19366f3d3fd5e50",
+    "bytes": 19338,
+    "provenance": "org_m1_core_v1/M1_EXPERIMENT_DESIGN_V1.json"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/prepare_org_e2b_b04_public_models_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/prepare_org_e2b_b04_public_models_v1.py",
+    "sha256": "12dab8858475dd68634324ddacedcd0d98e66f37c6e53b539f8c0bb49e2048ce",
+    "bytes": 31301,
+    "provenance": "results/org_h200_execution_v1/b04_p1_p4_20260906T054910Z/public_identity_download_lock_v2.json",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/inductor/aw/cawcms65vw3xl2s7lnvbj7osms6w6i6qww45rp6i33lzryilhccv.py",
+    "cluster_path": "results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/inductor/aw/cawcms65vw3xl2s7lnvbj7osms6w6i6qww45rp6i33lzryilhccv.py",
+    "sha256": "18e3fdea4452b07b427e06e29153bb1372a78a431c33881a920554598649337d",
+    "bytes": 1990,
+    "provenance": "results/org_h200_execution_v1/b02_h200_environment_v2_345586/ORG_E2B_PACKED_H200_ENVIRONMENT_LOCK_V1.json",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/inductor/lq/clq62bdxypjwtzo5sbjpiduujknligvjv5nofzq2zore6e4ixwav.py",
+    "cluster_path": "results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/inductor/lq/clq62bdxypjwtzo5sbjpiduujknligvjv5nofzq2zore6e4ixwav.py",
+    "sha256": "cd1016744dbd68ac63d1b363dbec54c71045b3a0971beb7dcddb0d8591027021",
+    "bytes": 5243,
+    "provenance": "results/org_h200_execution_v1/b02_h200_environment_v2_345586/ORG_E2B_PACKED_H200_ENVIRONMENT_LOCK_V1.json",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_e2b_b02_isolated_env_h200_dev_v2.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_e2b_b02_isolated_env_h200_dev_v2.slurm",
+    "sha256": "cdf84a1f8e7cfb1ae983d89856362e6b2e8425b0bda4445333ee07e17584bf78",
+    "bytes": 8088,
+    "provenance": "results/org_h200_execution_v1/b02_h200_environment_v2_345586/B02_H200_ENVIRONMENT_SOURCE_LOCK_V1.json"
+  },
+  {
+    "path": "code/results/org_h200_execution_v1/b02_h200_environment_v2_345586/environment_file_manifest.json",
+    "cluster_path": "results/org_h200_execution_v1/b02_h200_environment_v2_345586/environment_file_manifest.json",
+    "sha256": "2f9aa6f1932daeff31dafda74a8b8ef0c59abb7bb9e809785788c08d73a53a3b",
+    "bytes": 6348527,
+    "provenance": "results/org_h200_execution_v1/b02_h200_environment_v2_345586/B02_H200_ENVIRONMENT_SOURCE_LOCK_V1.json"
+  },
+  {
+    "path": "code/results/org_h200_execution_v1/b05_selector_locks/selector_lock_current_runtime_v2.json",
+    "cluster_path": "results/org_h200_execution_v1/b05_selector_locks/selector_lock_current_runtime_v2.json",
+    "sha256": "71052c630c3bf9f3b9ec7a7bc99116949f8af4533ded2e2aa2730608323142ef",
+    "bytes": 8922,
+    "provenance": "results/org_h200_execution_v1/b05_selector_locks/behavior_plan_v1.json"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "collator_adapter": "AST removes only data.utils IGNORE_INDEX import; exact class body retained",
+  "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+  "files": [
+    {
+      "path": "upstream_trainer_utils.py",
+      "sha256": "55ac9337111ffe1be0be0b4ab4529ae1471dc19ecda2dee366ac9e10748bf776",
+      "upstream_path": "src/trainer/utils.py"
+    },
+    {
+      "path": "upstream_data_utils.py",
+      "sha256": "128262e291bd738ffa417099fd076a577494b260297fbf5fd4e317888bcc9bd4",
+      "upstream_path": "src/data/utils.py"
+    },
+    {
+      "path": "upstream_collators.py",
+      "sha256": "b7e821c8175e31387c06729a60ff5287a512b681b10379ea21ac72fbff3e786c",
+      "upstream_path": "src/data/collators.py"
+    },
+    {
+      "path": "upstream_model.yaml",
+      "sha256": "0d7fea3a3d6820b4cdbd1c672b5dab1f789bcc868a0734af5389bb254fa54fbe",
+      "upstream_path": "configs/model/Llama-3.2-1B-Instruct.yaml"
+    },
+    {
+      "path": "UPSTREAM_LICENSE",
+      "sha256": "2f6df7a76faaefa1a6b50bdcf4191c1c2fcb72454964266f0210c2f452291dea",
+      "upstream_path": "LICENSE"
+    }
+  ],
+  "license": "MIT",
+  "repo": "https://github.com/locuslab/open-unlearning",
+  "scope": "Objective/tokenizer/collator oracle; no claim of full Trainer bitwise reproduction"
+}

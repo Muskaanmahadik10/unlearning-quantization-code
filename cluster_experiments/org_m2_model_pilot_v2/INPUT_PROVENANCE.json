@@ -1,0 +1,63 @@
+{
+  "accepted_calibration_binding_sha256": "874785420b0cbe7f26fb6d1a1ea2ae18a2e91f1e00ff0b7ee2b395b8e443ab14",
+  "approved_v2_partition_sha256": "7dc215e8a7e7e4a7f34114fc82b3940703b90ae04234e567279b29f2ee3bb8b8",
+  "cpu_return_archive": {
+    "name": "m2_training_cpu_20260908T171417Z_c66bb754.tar.gz",
+    "sha256": "a0b2cea879a4b786df41ca744fd0a17ff64931aeafe5e23fe4c2bcfbddf9d796"
+  },
+  "earlier_frozen_files_modified": false,
+  "previous_cpu_packet_files": [
+    {
+      "path": "C:\\Users\\user\\Downloads\\newer attempts\\17th june lost files work\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\m2_training_core_v1.py",
+      "sha256": "262e819a2ae7782d04feda7d5c816a10e36e2145f1f99a4f8c8c560524810153"
+    },
+    {
+      "path": "C:\\Users\\user\\Downloads\\newer attempts\\17th june lost files work\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\m2_training_cpu_preflight_v1.py",
+      "sha256": "c625a6052c4967668a796d231e24a1840947265402d00b3dc7a8f460da2ffec4"
+    },
+    {
+      "path": "C:\\Users\\user\\Downloads\\newer attempts\\17th june lost files work\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\test_m2_training_contract_v1.py",
+      "sha256": "e191a60464fe38cd0d4bdc337f6e906f6d731ca9e697bca03d1a63610088600b"
+    },
+    {
+      "path": "C:\\Users\\user\\Downloads\\newer attempts\\17th june lost files work\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\test_m2_training_torch_v1.py",
+      "sha256": "6db6848e75765a74ddbbb8df14c05f891e60e0e75b4db4135c17ac4ac96a06b2"
+    },
+    {
+      "path": "C:\\Users\\user\\Downloads\\newer attempts\\17th june lost files work\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\test_m2_training_preflight_v1.py",
+      "sha256": "bf49dfba1900ad428f3b21ae79cc6e64100a088b47b429f05b6f367d04a5bbda"
+    },
+    {
+      "path": "C:\\Users\\user\\Downloads\\newer attempts\\17th june lost files work\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\upstream_collators.py",
+      "sha256": "b7e821c8175e31387c06729a60ff5287a512b681b10379ea21ac72fbff3e786c"
+    },
+    {
+      "path": "C:\\Users\\user\\Downloads\\newer attempts\\17th june lost files work\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\upstream_data_utils.py",
+      "sha256": "128262e291bd738ffa417099fd076a577494b260297fbf5fd4e317888bcc9bd4"
+    },
+    {
+      "path": "C:\\Users\\user\\Downloads\\newer attempts\\17th june lost files work\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\upstream_trainer_utils.py",
+      "sha256": "55ac9337111ffe1be0be0b4ab4529ae1471dc19ecda2dee366ac9e10748bf776"
+    },
+    {
+      "path": "C:\\Users\\user\\Downloads\\newer attempts\\17th june lost files work\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\upstream_model.yaml",
+      "sha256": "0d7fea3a3d6820b4cdbd1c672b5dab1f789bcc868a0734af5389bb254fa54fbe"
+    },
+    {
+      "path": "C:\\Users\\user\\Downloads\\newer attempts\\17th june lost files work\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\UPSTREAM_LICENSE",
+      "sha256": "2f6df7a76faaefa1a6b50bdcf4191c1c2fcb72454964266f0210c2f452291dea"
+    },
+    {
+      "path": "C:\\Users\\user\\Downloads\\newer attempts\\17th june lost files work\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\UPSTREAM_PROVENANCE.json",
+      "sha256": "db131df3406f184c3e9442852d06a4375c08e0712ea52b2b2b33b0bd7f1a9b37"
+    },
+    {
+      "path": "C:\\Users\\user\\Downloads\\newer attempts\\17th june lost files work\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\BASE_INPUT_IDENTITY_LOCK.json",
+      "sha256": "acc4e6e529d8bc1b6158a739a8e8e226a33b24941dfc7a5283e49d510e37d935"
+    },
+    {
+      "path": "C:\\Users\\user\\Downloads\\newer attempts\\17th june lost files work\\outputs\\01a06c6c-fc8f-7b53-af99-24b789ff4755\\m2_training_preparation_20260908_v1\\org_m2_training_cpu_preflight_v1\\RUNTIME_DATA_BINDING.json",
+      "sha256": "4bd38a3e8c1043098ac512d0a52eac265c0700f39446d8f1181767c0ad7f77c1"
+    }
+  ]
+}

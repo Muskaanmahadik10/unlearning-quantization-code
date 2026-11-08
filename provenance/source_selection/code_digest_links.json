@@ -1,0 +1,487 @@
+[
+  {
+    "path": "code/org_m1_core_v1/support/run_gate2_metric_suite_v42.py",
+    "cluster_path": "org_m1_core_v1/support/run_gate2_metric_suite_v42.py",
+    "sha256": "9dbd504031e3d5187efe45cfa13d62f6d7a8d94af4cd3069ca2c11667c5976f4",
+    "bytes": 19328,
+    "reference_file": "evidence/registered_cluster/results/gate2_v4_standard_metrics_v42_full144/llama2_7b_adamw_GA_seed2024/nf4/metrics_v42.json",
+    "reference_pointer": "/provenance/argv/30",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/probe_org_e2b_live_gpu_runtime_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/probe_org_e2b_live_gpu_runtime_v1.py",
+    "sha256": "7b635ab67b0b8996dc5871a1f0c375edc4a8dd53c13bc384f49fa4e7bc91792d",
+    "bytes": 26395,
+    "reference_file": "evidence/registered_cluster/results/org_h200_execution_v1/b03b_nf4_model_roundtrip/strict_v3_345615/final.json",
+    "reference_pointer": "/prerequisites/live_runtime_v2/live_probe_v1_engine_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_e2b_b0_nf4_model_roundtrip_h200_dev_v3.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_e2b_b0_nf4_model_roundtrip_h200_dev_v3.slurm",
+    "sha256": "7d5f02bcaa6a89122b483ce20121b8324b96ad674ee38a78f4bf9130403d84f4",
+    "bytes": 7068,
+    "reference_file": "evidence/registered_cluster/results/org_h200_execution_v1/b03b_nf4_model_roundtrip/strict_v3_345615/final.json",
+    "reference_pointer": "/source/launcher_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/probe_org_e2b_live_gpu_runtime_v2.py",
+    "cluster_path": "org_h200_execution_v1/scripts/probe_org_e2b_live_gpu_runtime_v2.py",
+    "sha256": "50981e52db9bd2a41158f4a2d5e36b28e67663120f6e109328a62e1773b8ba6a",
+    "bytes": 25585,
+    "reference_file": "evidence/registered_cluster/results/org_h200_execution_v1/b03b_nf4_model_roundtrip/strict_v3_345615/final.json",
+    "reference_pointer": "/source/live_probe_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/probe_org_e2b_nf4_fresh_reload_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/probe_org_e2b_nf4_fresh_reload_v1.py",
+    "sha256": "c64f16e8ae794986a3b229bafae9b2639cf63997a9fb1363b583db7464b05b81",
+    "bytes": 40527,
+    "reference_file": "evidence/registered_cluster/results/org_h200_execution_v1/b03b_nf4_model_roundtrip/strict_v3_345615/final.json",
+    "reference_pointer": "/source/low_level_engine_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/probe_org_e2b_nf4_fresh_reload_v2.py",
+    "cluster_path": "org_h200_execution_v1/scripts/probe_org_e2b_nf4_fresh_reload_v2.py",
+    "sha256": "cdca231ff415d166cccb90acc60ffd1d3d1352df9cbe36010b941c97f8a43fdc",
+    "bytes": 13011,
+    "reference_file": "evidence/registered_cluster/results/org_h200_execution_v1/b03b_nf4_model_roundtrip/strict_v3_345615/final.json",
+    "reference_pointer": "/source/low_level_probe_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/probe_org_e2b_nf4_model_roundtrip_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/probe_org_e2b_nf4_model_roundtrip_v1.py",
+    "sha256": "65654e5dd214864ec0ed62fefd5a2bbaef8770c3c34b816ff067b2db9dae5097",
+    "bytes": 118720,
+    "reference_file": "evidence/registered_cluster/results/org_h200_execution_v1/b03b_nf4_model_roundtrip/strict_v3_345615/final.json",
+    "reference_pointer": "/source/script_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/inventory_org_e2b_b04_public_models_v1.py",
+    "cluster_path": "org_m1_core_v1/support/inventory_org_e2b_b04_public_models_v1.py",
+    "sha256": "b593ccc0ff38bdc3e5aae708bf446738b0e310de2b2dc9b65b8312c44cbfae0e",
+    "bytes": 19535,
+    "reference_file": "evidence/registered_cluster/results/org_h200_execution_v1/b04_public_inventory/p5_v1_346581/actual_our_module_inventory_v1.json",
+    "reference_pointer": "/source/sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "cluster_path": "org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "sha256": "9def5f2dde87a01e3f3893c7e9f5a5b75a1af694b700dbc184dff7ce55e82c76",
+    "bytes": 3247,
+    "reference_file": "evidence/registered_analysis/outputs/01a06c6c-fc8f-7b53-af99-24b789ff4755/m2_eval_return_review_20260909_v2/AUDIT.json",
+    "reference_pointer": "/source_lock_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/run_gate2_whole_model_bridge_v4.py",
+    "cluster_path": "gate2_v4_final/scripts/run_gate2_whole_model_bridge_v4.py",
+    "sha256": "5bcc291d4a00eb70ba7c5ee150f6cb0de275787a5e9f44e502112cd3a6a959fb",
+    "bytes": 33029,
+    "reference_file": "evidence/registered_cluster/results/gate2_v4_bridge_standard_v41_diversity12/llama2_7b_adamw_GDR_seed2024/rtn_int8/full_quantized/bridge_v4.json",
+    "reference_pointer": "/provenance/argv/24",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V1.json",
+    "cluster_path": "org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V1.json",
+    "sha256": "9094257845c5887d70ab6a620f6ab9fbc38d06926ade24c19a572611e1fae8f1",
+    "bytes": 2844,
+    "reference_file": "evidence/registered_cluster/results/org_gb200_execution_v1/parity/bundled_canary_validation_v1.json",
+    "reference_pointer": "/bundle_lock_file_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/scripts/validate_org_bundled_canary_v1.py",
+    "cluster_path": "org_gb200_execution_v1/scripts/validate_org_bundled_canary_v1.py",
+    "sha256": "84ed4ed42e0e9b9d85e91c134f421163b99fff95cc6c09c39a0a51401ab1b27d",
+    "bytes": 9121,
+    "reference_file": "evidence/registered_cluster/results/org_gb200_execution_v1/parity/bundled_canary_validation_v1.json",
+    "reference_pointer": "/validator_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V2.json",
+    "cluster_path": "org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V2.json",
+    "sha256": "770d9b24dcb7bbbd6482821f9eb335edb6e9eb88b74b225f2a2f4b37291a2ccb",
+    "bytes": 3946,
+    "reference_file": "evidence/registered_cluster/results/org_gb200_execution_v1/parity/bundled_canary_validation_v2.json",
+    "reference_pointer": "/bundle_lock_file_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/gate2_v4_backend.py",
+    "cluster_path": "org_m1_core_v1/support/gate2_v4_backend.py",
+    "sha256": "a4147dd6fff9ca7a9085a693308df51ca7cc41b6308c9cb1a18a0d0ab4606ddb",
+    "bytes": 10202,
+    "reference_file": "evidence/registered_cluster/results/org_gb200_execution_v1/parity/gptq_collector_parity_340174.json",
+    "reference_pointer": "/dependency_sha256/gate2_v4_final/scripts/gate2_v4_backend.py",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/gate2_v4_contract.py",
+    "cluster_path": "org_m1_core_v1/support/gate2_v4_contract.py",
+    "sha256": "205346598106b590357f8d4e07b2f6c9f9a3ab1e560c5f38c9e6384ab070256a",
+    "bytes": 11652,
+    "reference_file": "evidence/registered_cluster/results/org_gb200_execution_v1/parity/gptq_collector_parity_340174.json",
+    "reference_pointer": "/dependency_sha256/gate2_v4_final/scripts/gate2_v4_contract.py",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/gate2_v4_dataset.py",
+    "cluster_path": "org_m1_core_v1/support/gate2_v4_dataset.py",
+    "sha256": "084e9cda7b5cb403d82b636a9ddfe0b7ee3cae3536ef6c78b569ffbe4a380307",
+    "bytes": 7334,
+    "reference_file": "evidence/registered_cluster/results/org_gb200_execution_v1/parity/gptq_collector_parity_340174.json",
+    "reference_pointer": "/dependency_sha256/gate2_v4_final/scripts/gate2_v4_dataset.py",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/scripts/test_org_gptq_collector_parity_v1.py",
+    "cluster_path": "org_gb200_execution_v1/scripts/test_org_gptq_collector_parity_v1.py",
+    "sha256": "94a991919f40c3cd733eb4bbeb4806c0dde642a3b6b3b7d052f3769736784164",
+    "bytes": 9167,
+    "reference_file": "evidence/registered_cluster/results/org_gb200_execution_v1/parity/gptq_collector_parity_340174.json",
+    "reference_pointer": "/script_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/scripts/test_org_gptq_cpu_boundary_parity_v4.py",
+    "cluster_path": "org_gb200_execution_v1/scripts/test_org_gptq_cpu_boundary_parity_v4.py",
+    "sha256": "e02a9f2e6d193381986fc6a68c1e1e13b9f236963e2c789359a3c767a3290cea",
+    "bytes": 11659,
+    "reference_file": "evidence/registered_cluster/results/org_gb200_execution_v1/parity/gptq_cpu_boundary_parity_v4_340302.json",
+    "reference_pointer": "/script_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/scripts/org_gptq_shared_cpu_finalize_collector_v3.py",
+    "cluster_path": "org_gb200_execution_v1/scripts/org_gptq_shared_cpu_finalize_collector_v3.py",
+    "sha256": "1de6e7e51dcdfab89cfdfb0c6e1ebf6b40fac24dc09626d3f6b22918cd63a3c1",
+    "bytes": 3980,
+    "reference_file": "evidence/registered_cluster/results/org_gb200_execution_v1/parity/gptq_production128_parity_v5_340393.json",
+    "reference_pointer": "/collector_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/scripts/test_org_gptq_production128_parity_v5.py",
+    "cluster_path": "org_gb200_execution_v1/scripts/test_org_gptq_production128_parity_v5.py",
+    "sha256": "b8ab0a976c2710aad16e0035a668588d3e7f371d733dc9d7047cdcbe81d19d63",
+    "bytes": 7252,
+    "reference_file": "evidence/registered_cluster/results/org_gb200_execution_v1/parity/gptq_production128_parity_v5_340393.json",
+    "reference_pointer": "/script_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/scripts/run_org_bridge_bundle_v2.py",
+    "cluster_path": "org_gb200_execution_v1/scripts/run_org_bridge_bundle_v2.py",
+    "sha256": "1efd355fd12a76045333dfc9a5698328f6e045a88defebfdc9661dd5fecb5b26",
+    "bytes": 16730,
+    "reference_file": "evidence/by_sha256/4f2a4a677bc0500fdd32a0911f5830ad80603a2c78b0a11e2aaa4366d183cbe4.json",
+    "reference_pointer": "/provenance/argv/38",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/locks/ORG_H200_ADVERSARIAL_CANARY8_LOCK_V2.json",
+    "cluster_path": "org_h200_execution_v1/locks/ORG_H200_ADVERSARIAL_CANARY8_LOCK_V2.json",
+    "sha256": "6aca94cc2d33bec17c4e192a6f134827af170652fa8fbda536cbc8d016a65333",
+    "bytes": 10138,
+    "reference_file": "evidence/registered_cluster/results/org_h200_execution_v1/parity/h200_adversarial_canary_validation_v2_340505.json",
+    "reference_pointer": "/source_lock_file_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/validate_org_h200_adversarial_canary_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/validate_org_h200_adversarial_canary_v1.py",
+    "sha256": "d8aed1521018c5f4f5b8bf529edc2f5555abfdf5f0b7d3ba94f2592dc321bfab",
+    "bytes": 8610,
+    "reference_file": "evidence/registered_cluster/results/org_h200_execution_v1/parity/h200_adversarial_canary_validation_v2_340505.json",
+    "reference_pointer": "/validator_sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/m2_eval_qualification.slurm",
+    "cluster_path": "org_m2_eval_qualification_v2/m2_eval_qualification.slurm",
+    "sha256": "3346097b4e693d04f1b3c9b3a2c7f7123100b679098278c7ba60a087b91cc56b",
+    "bytes": 1268,
+    "reference_file": "code/org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "reference_pointer": "/files/5/sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/m2_eval_qualification_collect_v1.py",
+    "cluster_path": "org_m2_eval_qualification_v2/m2_eval_qualification_collect_v1.py",
+    "sha256": "452e02fc6660b54a48a76226801733a65fc0a3e3d2a37dccdeddb2471cf35d01",
+    "bytes": 8212,
+    "reference_file": "code/org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "reference_pointer": "/files/6/sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/m2_eval_qualification_common_v1.py",
+    "cluster_path": "org_m2_eval_qualification_v2/m2_eval_qualification_common_v1.py",
+    "sha256": "bb24dd66ae8285ad53af6508fd40df16f59601c0bd074dbe54322670500abadd",
+    "bytes": 7342,
+    "reference_file": "code/org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "reference_pointer": "/files/7/sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/m2_eval_qualification_oracle_v1.py",
+    "cluster_path": "org_m2_eval_qualification_v2/m2_eval_qualification_oracle_v1.py",
+    "sha256": "cf33d1e7b612a84425ac553f3bf0d140138ca59e69c85077c80d5833dbfeb830",
+    "bytes": 10400,
+    "reference_file": "code/org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "reference_pointer": "/files/8/sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/m2_eval_qualification_submit_v1.py",
+    "cluster_path": "org_m2_eval_qualification_v2/m2_eval_qualification_submit_v1.py",
+    "sha256": "cd066d6453b74f56ac888b0ed0c51bbf353fa604acd627641164fdd12c04f37b",
+    "bytes": 5573,
+    "reference_file": "code/org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "reference_pointer": "/files/9/sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/m2_eval_qualification_v1.py",
+    "cluster_path": "org_m2_eval_qualification_v2/m2_eval_qualification_v1.py",
+    "sha256": "70e498dfc7fbf68339e58db0dcf00cbb826c8ec7b440494fa4f48baeeb3d380c",
+    "bytes": 8469,
+    "reference_file": "code/org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "reference_pointer": "/files/10/sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/m2_eval_repair_guard_v2.py",
+    "cluster_path": "org_m2_eval_qualification_v2/m2_eval_repair_guard_v2.py",
+    "sha256": "793d7a68442ca11960a7f41d9e853869cd70b5d5b7df767ed8eb007e27674e0a",
+    "bytes": 4138,
+    "reference_file": "code/org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "reference_pointer": "/files/11/sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/REPAIR_PROVENANCE.json",
+    "cluster_path": "org_m2_eval_qualification_v2/REPAIR_PROVENANCE.json",
+    "sha256": "9d02e58c61dfcce658c2b84d87f0e1220185c302d496309f711a101f37999996",
+    "bytes": 1187,
+    "reference_file": "code/org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "reference_pointer": "/files/13/sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/test_m2_eval_oracle_repair_torch_v2.py",
+    "cluster_path": "org_m2_eval_qualification_v2/test_m2_eval_oracle_repair_torch_v2.py",
+    "sha256": "f194f33b853657cb2c5f4dae95a172f7087ef2957b244597e9e2ebc7f2e636cb",
+    "bytes": 4006,
+    "reference_file": "code/org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "reference_pointer": "/files/16/sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/test_m2_eval_qualification_torch_v1.py",
+    "cluster_path": "org_m2_eval_qualification_v2/test_m2_eval_qualification_torch_v1.py",
+    "sha256": "ead283ca135cf3951fdfb1a528d72a3ec71eb3eb107cfecfb0809668b471792b",
+    "bytes": 3301,
+    "reference_file": "code/org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "reference_pointer": "/files/17/sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/test_m2_eval_qualification_v1.py",
+    "cluster_path": "org_m2_eval_qualification_v2/test_m2_eval_qualification_v1.py",
+    "sha256": "aaeea9f75d15be204438fbb29a97a4a602fd9418b2a540ad1d35c51786787df3",
+    "bytes": 4918,
+    "reference_file": "code/org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "reference_pointer": "/files/18/sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_eval_qualification_v2/test_m2_eval_repair_guard_v2.py",
+    "cluster_path": "org_m2_eval_qualification_v2/test_m2_eval_repair_guard_v2.py",
+    "sha256": "01c0af115ccf55b41791226ea27d92c58a3c025ec473185d65a5935e3dd9091e",
+    "bytes": 2577,
+    "reference_file": "code/org_m2_eval_qualification_v2/SELF_LOCK.json",
+    "reference_pointer": "/files/19/sha256",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/validate_bridge_v4.py",
+    "cluster_path": "gate2_v4_final/scripts/validate_bridge_v4.py",
+    "sha256": "790e404fccd1343654604c338f8fdc96f50b8f64e65bc0be9b92d148419077df",
+    "bytes": 16661,
+    "reference_file": "code/org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V1.json",
+    "reference_pointer": "/files/gate2_v4_final/scripts/validate_bridge_v4.py",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/preregistration/core72_v1/org_canary2_manifest_v1.json",
+    "cluster_path": "org_gb200_execution_v1/preregistration/core72_v1/org_canary2_manifest_v1.json",
+    "sha256": "0b6e68e1b764439a6581e8372513eac742f39e9bb3bfc6e9aa3b911e7ffefac1",
+    "bytes": 2391,
+    "reference_file": "code/org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V1.json",
+    "reference_pointer": "/files/org_gb200_execution_v1/preregistration/core72_v1/org_canary2_manifest_v1.json",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/preregistration/core72_v1/org_core72_manifest_v1.json",
+    "cluster_path": "org_gb200_execution_v1/preregistration/core72_v1/org_core72_manifest_v1.json",
+    "sha256": "c08e63037468d2538126994231fa3910e6a3a5a67e1f7e170d97fc1a5ae59971",
+    "bytes": 63129,
+    "reference_file": "code/org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V1.json",
+    "reference_pointer": "/files/org_gb200_execution_v1/preregistration/core72_v1/org_core72_manifest_v1.json",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/scripts/build_org_bundle_lock_v1.py",
+    "cluster_path": "org_gb200_execution_v1/scripts/build_org_bundle_lock_v1.py",
+    "sha256": "1e7adeac0095caee176f79cae62715358674bed68453d72cfc49641aad49cbb6",
+    "bytes": 4075,
+    "reference_file": "code/org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V1.json",
+    "reference_pointer": "/files/org_gb200_execution_v1/scripts/build_org_bundle_lock_v1.py",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/scripts/run_org_bridge_bundle_v1.py",
+    "cluster_path": "org_gb200_execution_v1/scripts/run_org_bridge_bundle_v1.py",
+    "sha256": "ce721bacb503af89e3dd67f4614dadc2d06d0514cd831737bd0b2f3cdec2142b",
+    "bytes": 16672,
+    "reference_file": "code/org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V1.json",
+    "reference_pointer": "/files/org_gb200_execution_v1/scripts/run_org_bridge_bundle_v1.py",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/scripts/validate_org_core72_v1.py",
+    "cluster_path": "org_gb200_execution_v1/scripts/validate_org_core72_v1.py",
+    "sha256": "54f9e841efbc69822e59e2e6dff811664b99793a64481cf2632cb72e050955a8",
+    "bytes": 3630,
+    "reference_file": "code/org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V1.json",
+    "reference_pointer": "/files/org_gb200_execution_v1/scripts/validate_org_core72_v1.py",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/slurm/org_bundle_canary2_gb200_v1.slurm",
+    "cluster_path": "org_gb200_execution_v1/slurm/org_bundle_canary2_gb200_v1.slurm",
+    "sha256": "6362060819a98b1d96547e618fc3e1955bbd7a5e322afa7d3fd615422447ed1e",
+    "bytes": 3477,
+    "reference_file": "code/org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V1.json",
+    "reference_pointer": "/files/org_gb200_execution_v1/slurm/org_bundle_canary2_gb200_v1.slurm",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/scripts/build_org_bundle_lock_v2.py",
+    "cluster_path": "org_gb200_execution_v1/scripts/build_org_bundle_lock_v2.py",
+    "sha256": "c81b2fe344b1984502c4b16b76028105fbcd267ee3e4ba969afc6c2419453c9c",
+    "bytes": 5916,
+    "reference_file": "code/org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V2.json",
+    "reference_pointer": "/files/org_gb200_execution_v1/scripts/build_org_bundle_lock_v2.py",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/slurm/org_bundle_canary2_gb200_v2.slurm",
+    "cluster_path": "org_gb200_execution_v1/slurm/org_bundle_canary2_gb200_v2.slurm",
+    "sha256": "365b848e59cc3921648096350d9fa43bc737fe2b398c14981970fd3a9ca4288c",
+    "bytes": 4065,
+    "reference_file": "code/org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V2.json",
+    "reference_pointer": "/files/org_gb200_execution_v1/slurm/org_bundle_canary2_gb200_v2.slurm",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_gb200_execution_v1/slurm/org_gptq_cpu_boundary_parity_gb200_v4.slurm",
+    "cluster_path": "org_gb200_execution_v1/slurm/org_gptq_cpu_boundary_parity_gb200_v4.slurm",
+    "sha256": "dd79bfc398ee128f3187eba74be0bae4a7e7e661f015a8fa746662e3ab55ecc7",
+    "bytes": 1682,
+    "reference_file": "code/org_gb200_execution_v1/locks/ORG_BUNDLED_CANARY_GB200_LOCK_V2.json",
+    "reference_pointer": "/files/org_gb200_execution_v1/slurm/org_gptq_cpu_boundary_parity_gb200_v4.slurm",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/locks/ORG_H200_ADVERSARIAL_CANARY8_LOCK_V1.json",
+    "cluster_path": "org_h200_execution_v1/locks/ORG_H200_ADVERSARIAL_CANARY8_LOCK_V1.json",
+    "sha256": "50fd9e5521d64c265c976b89eb65521416e08a4fa33e0c98e8fe72743749cc40",
+    "bytes": 9215,
+    "reference_file": "code/org_h200_execution_v1/locks/ORG_H200_ADVERSARIAL_CANARY8_LOCK_V2.json",
+    "reference_pointer": "/files/org_h200_execution_v1/locks/ORG_H200_ADVERSARIAL_CANARY8_LOCK_V1.json",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/build_org_h200_adversarial_lock_v2.py",
+    "cluster_path": "org_h200_execution_v1/scripts/build_org_h200_adversarial_lock_v2.py",
+    "sha256": "c1c09916ea012f693d9cb76936ad5271ea81cfc468b751e9a3916a4e840fb2bc",
+    "bytes": 10553,
+    "reference_file": "code/org_h200_execution_v1/locks/ORG_H200_ADVERSARIAL_CANARY8_LOCK_V2.json",
+    "reference_pointer": "/files/org_h200_execution_v1/scripts/build_org_h200_adversarial_lock_v2.py",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_h200_adversarial_canary8_v2.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_h200_adversarial_canary8_v2.slurm",
+    "sha256": "d9c60a60745cfa485f36ddf62551da4d96d742023e2196ffa565fca3000e76eb",
+    "bytes": 8472,
+    "reference_file": "code/org_h200_execution_v1/locks/ORG_H200_ADVERSARIAL_CANARY8_LOCK_V2.json",
+    "reference_pointer": "/files/org_h200_execution_v1/slurm/org_h200_adversarial_canary8_v2.slurm",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/build_org_h200_adversarial_lock_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/build_org_h200_adversarial_lock_v1.py",
+    "sha256": "ed1b725fb0a8114d38b03ae4c678bbd72e48305546694a8389f634f2874c9bb5",
+    "bytes": 10096,
+    "reference_file": "code/org_h200_execution_v1/locks/ORG_H200_ADVERSARIAL_CANARY8_LOCK_V1.json",
+    "reference_pointer": "/files/org_h200_execution_v1/scripts/build_org_h200_adversarial_lock_v1.py",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_h200_adversarial_canary8_v1.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_h200_adversarial_canary8_v1.slurm",
+    "sha256": "df6f9b0caf76e90c2a08efa529c0e3c8c4ed40d35014eca7d7377292f739c6b9",
+    "bytes": 8500,
+    "reference_file": "code/org_h200_execution_v1/locks/ORG_H200_ADVERSARIAL_CANARY8_LOCK_V1.json",
+    "reference_pointer": "/files/org_h200_execution_v1/slurm/org_h200_adversarial_canary8_v1.slurm",
+    "selection_basis": "EXACT_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  }
+]

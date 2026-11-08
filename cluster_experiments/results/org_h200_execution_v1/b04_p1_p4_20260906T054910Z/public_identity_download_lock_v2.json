@@ -1,0 +1,265 @@
+{
+  "attestation": {
+    "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b04_p1_p4_20260906T054910Z/internal_research_attestation_v1.json",
+    "sha256": "d0c06e628d2825eaa22fbcc8d6fb88a28c910ebb5bf0e92f5485cd16d5df8279"
+  },
+  "b0_4_gpu_launcher_authorized": false,
+  "created_at_utc": "2026-09-06T06:04:19.377235+00:00",
+  "license_scope": {
+    "downstream_license_declaration_missing_roles": [
+      "U",
+      "R"
+    ],
+    "internal_research_use_permitted": true,
+    "legal_opinion": false,
+    "license_unknown_count": 0,
+    "license_unknown_count_scope": "SCOPED_INTERNAL_USE_DECISIONS_ONLY",
+    "redistribution_permitted": false
+  },
+  "lineage": {
+    "independent_training_lineage_demonstrated": false,
+    "public_u_is_exact_prefix_true_unlearned_repository": true,
+    "repository_revisions_are_immutable_commit_shas": true,
+    "source_o_revision_demonstrated_for_u": false
+  },
+  "model_weight_download_authorized": true,
+  "outcome_inspection_authorized": false,
+  "predownload_report": {
+    "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b04_public_predownload_metadata_20260905T205918Z/evidence/predownload_metadata_report_v1.json",
+    "sha256": "1b85b6dc4feaa32339cb5e150b14590f053d9f40602e9967f26ef558a0e4b934"
+  },
+  "production_authorized": false,
+  "roles": {
+    "O": {
+      "file_count": 10,
+      "files": [
+        {
+          "api_blob_id": "52373fe24473b1aa44333d318f578ae6bf04b49b",
+          "lfs_sha256": null,
+          "path": ".gitattributes",
+          "required_common_model_file": false,
+          "size": 1570
+        },
+        {
+          "api_blob_id": "20c4753c1ba3ef94bfea71c8e3bd302880def67f",
+          "lfs_sha256": null,
+          "path": "README.md",
+          "required_common_model_file": false,
+          "size": 33
+        },
+        {
+          "api_blob_id": "fa2bc5c40dd4f4d5c5389a389ec07c786aca910a",
+          "lfs_sha256": null,
+          "path": "config.json",
+          "required_common_model_file": true,
+          "size": 927
+        },
+        {
+          "api_blob_id": "c48a399aa8034b72beb35864138749bddb403d50",
+          "lfs_sha256": null,
+          "path": "generation_config.json",
+          "required_common_model_file": true,
+          "size": 184
+        },
+        {
+          "api_blob_id": "26d905c6d038981b847b96176e64c27f88f24289",
+          "lfs_sha256": "35b0cd9f7db2735538ff78b4879fab61b23b7ca316df27b059585bf656700a8d",
+          "path": "model.safetensors",
+          "required_common_model_file": true,
+          "size": 2471645608
+        },
+        {
+          "api_blob_id": "b43be96621d147110fb8a18b5776ec6e38516127",
+          "lfs_sha256": null,
+          "path": "special_tokens_map.json",
+          "required_common_model_file": true,
+          "size": 325
+        },
+        {
+          "api_blob_id": "1c1d8d5c9024994f1d3b00f9662b8dd89ca13cf2",
+          "lfs_sha256": "6b9e4e7fb171f92fd137b777cc2714bf87d11576700a1dcd7a399e7bbe39537b",
+          "path": "tokenizer.json",
+          "required_common_model_file": true,
+          "size": 17209920
+        },
+        {
+          "api_blob_id": "de2d513e6c288ad2addc91a16c8cc4fb287d8b90",
+          "lfs_sha256": null,
+          "path": "tokenizer_config.json",
+          "required_common_model_file": true,
+          "size": 54557
+        },
+        {
+          "api_blob_id": "897f826dfef58703271e0215b1d288828cdb0c1f",
+          "lfs_sha256": null,
+          "path": "trainer_state.json",
+          "required_common_model_file": false,
+          "size": 20154
+        },
+        {
+          "api_blob_id": "a3eb92619b0fb478d856c3534ba7e1e059e5cd5b",
+          "lfs_sha256": "c941af7cda405dc7296a44b1a51f96f90a196f9ee32a9ad6b56d18dafc0c94e4",
+          "path": "training_args.bin",
+          "required_common_model_file": false,
+          "size": 6904
+        }
+      ],
+      "model_id": "open-unlearning/tofu_Llama-3.2-1B-Instruct_full",
+      "revision": "88e31200b97e4c0c04ae0d2f0b591f427046d192",
+      "snapshot_bytes": 2488940182
+    },
+    "R": {
+      "file_count": 9,
+      "files": [
+        {
+          "api_blob_id": "52373fe24473b1aa44333d318f578ae6bf04b49b",
+          "lfs_sha256": null,
+          "path": ".gitattributes",
+          "required_common_model_file": false,
+          "size": 1570
+        },
+        {
+          "api_blob_id": "fa2bc5c40dd4f4d5c5389a389ec07c786aca910a",
+          "lfs_sha256": null,
+          "path": "config.json",
+          "required_common_model_file": true,
+          "size": 927
+        },
+        {
+          "api_blob_id": "c48a399aa8034b72beb35864138749bddb403d50",
+          "lfs_sha256": null,
+          "path": "generation_config.json",
+          "required_common_model_file": true,
+          "size": 184
+        },
+        {
+          "api_blob_id": "fb679cdec9bad5fbd9e73c19e26b62cdf37d6f79",
+          "lfs_sha256": "3788e1724ce5563d5bb4cc4e82a985adc85d3c561f05427a63581e7b407c675c",
+          "path": "model.safetensors",
+          "required_common_model_file": true,
+          "size": 2471645608
+        },
+        {
+          "api_blob_id": "b43be96621d147110fb8a18b5776ec6e38516127",
+          "lfs_sha256": null,
+          "path": "special_tokens_map.json",
+          "required_common_model_file": true,
+          "size": 325
+        },
+        {
+          "api_blob_id": "1c1d8d5c9024994f1d3b00f9662b8dd89ca13cf2",
+          "lfs_sha256": "6b9e4e7fb171f92fd137b777cc2714bf87d11576700a1dcd7a399e7bbe39537b",
+          "path": "tokenizer.json",
+          "required_common_model_file": true,
+          "size": 17209920
+        },
+        {
+          "api_blob_id": "de2d513e6c288ad2addc91a16c8cc4fb287d8b90",
+          "lfs_sha256": null,
+          "path": "tokenizer_config.json",
+          "required_common_model_file": true,
+          "size": 54557
+        },
+        {
+          "api_blob_id": "d0359db80b4c891314e6edc016213c961c6064a3",
+          "lfs_sha256": null,
+          "path": "trainer_state.json",
+          "required_common_model_file": false,
+          "size": 19943
+        },
+        {
+          "api_blob_id": "267a36d2fb4176796a6f95a184fa9759da0408a5",
+          "lfs_sha256": "5a420c9f53f4f2d77cf8ef7b4612b837de4e9ff1bced614d708342f7750ea114",
+          "path": "training_args.bin",
+          "required_common_model_file": false,
+          "size": 6904
+        }
+      ],
+      "model_id": "open-unlearning/tofu_Llama-3.2-1B-Instruct_retain90",
+      "revision": "7114300c0049527a71833f5683965c358ad9dcbf",
+      "snapshot_bytes": 2488939938
+    },
+    "U": {
+      "file_count": 8,
+      "files": [
+        {
+          "api_blob_id": "52373fe24473b1aa44333d318f578ae6bf04b49b",
+          "lfs_sha256": null,
+          "path": ".gitattributes",
+          "required_common_model_file": false,
+          "size": 1570
+        },
+        {
+          "api_blob_id": "bc5f30d6632ac0efdc7be2e9095e9e9579af2e33",
+          "lfs_sha256": null,
+          "path": "README.md",
+          "required_common_model_file": false,
+          "size": 5174
+        },
+        {
+          "api_blob_id": "66f1906dbb315e893edafd572e2850e2239ca8af",
+          "lfs_sha256": null,
+          "path": "config.json",
+          "required_common_model_file": true,
+          "size": 1064
+        },
+        {
+          "api_blob_id": "c48a399aa8034b72beb35864138749bddb403d50",
+          "lfs_sha256": null,
+          "path": "generation_config.json",
+          "required_common_model_file": true,
+          "size": 184
+        },
+        {
+          "api_blob_id": "a4e557046587e3a6e1109aeb24b3a8025a11386e",
+          "lfs_sha256": "4e3f0f13950266c964c5b13c9119e55f64a8072092323ed97e5605e5fbad8c6c",
+          "path": "model.safetensors",
+          "required_common_model_file": true,
+          "size": 2471645608
+        },
+        {
+          "api_blob_id": "344c8261025248cbe380e52f8730a03149d599e1",
+          "lfs_sha256": null,
+          "path": "special_tokens_map.json",
+          "required_common_model_file": true,
+          "size": 439
+        },
+        {
+          "api_blob_id": "1c1d8d5c9024994f1d3b00f9662b8dd89ca13cf2",
+          "lfs_sha256": "6b9e4e7fb171f92fd137b777cc2714bf87d11576700a1dcd7a399e7bbe39537b",
+          "path": "tokenizer.json",
+          "required_common_model_file": true,
+          "size": 17209920
+        },
+        {
+          "api_blob_id": "de2d513e6c288ad2addc91a16c8cc4fb287d8b90",
+          "lfs_sha256": null,
+          "path": "tokenizer_config.json",
+          "required_common_model_file": true,
+          "size": 54557
+        }
+      ],
+      "model_id": "open-unlearning/unlearn_tofu_Llama-3.2-1B-Instruct_forget10_AltPO_lr1e-05_beta0.05_alpha1_epoch10",
+      "revision": "a31043513688dea3c878669b63689984e44f2bc6",
+      "snapshot_bytes": 2488918516
+    }
+  },
+  "schema_version": "org_e2b_b04_public_identity_download_lock_v1",
+  "scientific_claim_authorized": false,
+  "selected_u_rule": "lexicographically_first_exact_prefix_true_unlearned_repository",
+  "source": {
+    "path": "/work/anon_user/hessian_unlearning/org_h200_execution_v1/scripts/prepare_org_e2b_b04_public_models_v1.py",
+    "sha256": "12dab8858475dd68634324ddacedcd0d98e66f37c6e53b539f8c0bb49e2048ce"
+  },
+  "storage_pre_download_gate": {
+    "high_water_upper_bound_bytes": 20985241370,
+    "largest_snapshot_bytes": 2488940182,
+    "logs_manifests_receipts_reserve_bytes": 1073741824,
+    "maximum_staging_bytes": 2488940182,
+    "packed_artifact_count": 4,
+    "packed_artifact_each_upper_bound_bytes": 2488940182,
+    "required_available_bytes": 27280813781,
+    "safety_multiplier": 1.3,
+    "snapshot_total_bytes": 7466798636
+  }
+}

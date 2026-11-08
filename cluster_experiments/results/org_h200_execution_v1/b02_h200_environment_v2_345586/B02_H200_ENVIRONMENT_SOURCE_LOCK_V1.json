@@ -1,0 +1,20 @@
+{
+  "candidate_sha256": "c201ffa09a89485835ebf82b7bf57273f8eccef33378cd9bc570f29c8c905956",
+  "complete_requirements_lock_sha256": "4238f5aef53d2ef94f81c3e9f0cf9577d3dc9ce1919a292b222b55f0d1183927",
+  "environment_content_manifest_sha256": "8ddeba9dd58cd7d0aebdde2268a4bf392c7b97ef1f7b04f5291dd04d468e4e0a",
+  "environment_root": "/work/anon_user/.runtime/envs/org-packed-h200-v1",
+  "files": {
+    "/work/anon_user/hessian_unlearning/org_h200_execution_v1/ORG_E2B_B02_H200_PACKED_ENV_CANDIDATE_V1.json": "c201ffa09a89485835ebf82b7bf57273f8eccef33378cd9bc570f29c8c905956",
+    "/work/anon_user/hessian_unlearning/org_h200_execution_v1/scripts/certify_org_e2b_b02_h200_env_v1.py": "5462a235586b071e11f2c69c6ba0c425578f59fa0fe89e73368b0250db09eb89",
+    "/work/anon_user/hessian_unlearning/org_h200_execution_v1/slurm/org_e2b_b02_isolated_env_h200_dev_v2.slurm": "cdf84a1f8e7cfb1ae983d89856362e6b2e8425b0bda4445333ee07e17584bf78",
+    "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/environment_file_manifest.json": "2f9aa6f1932daeff31dafda74a8b8ef0c59abb7bb9e809785788c08d73a53a3b",
+    "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/environment_file_manifest_postprobe.json": "2f9aa6f1932daeff31dafda74a8b8ef0c59abb7bb9e809785788c08d73a53a3b",
+    "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/h200_probe.json": "679fce33022b927bfaed18fdf8b3759bfc38535b5eb848c96e6149614cab9aec",
+    "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/install_receipt.json": "50dac1d9534637ecc428eadcca7e16215816b9dc60fd5d1aadb7f88efe9f4e67",
+    "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/target_claim.json": "7d0d76382ef87d5722a6448d22275af06656cb470920750d8166ee9b141f6a69"
+  },
+  "schema_version": "org_e2b_b02_h200_environment_source_lock_v1",
+  "stage_a_source_lock_sha256": "b664328b6d4fdb70c28eda9b97987666b61f5b64852b09b2a9e7ccb51a5b919b",
+  "status": "PASS",
+  "wheel_manifest_sha256": "48c5a072f0032e89e62e83c3810a3d975688c29a2ced3621c642fc7e53a2f63c"
+}

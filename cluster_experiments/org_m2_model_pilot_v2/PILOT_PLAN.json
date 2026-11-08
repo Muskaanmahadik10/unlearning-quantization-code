@@ -1,0 +1,47 @@
+{
+  "NPO_teacher": "frozen B engineering surrogate only; scientific U must use frozen exact accepted O",
+  "acceptance_scope": "training/resume and probability/ROUGE primitives; all seven benchmark metrics remain a separate pre-production gate",
+  "checkpoint_estimate_scope": "both tasks combined; headroom in free-space gate",
+  "checkpoint_space_estimate_bytes": 26000000000,
+  "cluster_tests": 49,
+  "evaluation": "first three of frozen retain-calibration rows; probability 2+1 batch; first two greedy generation max200; FP32 primitive parity",
+  "gpu_hours_max": 1,
+  "gpus_per_task": 1,
+  "gradient_checkpointing": "non_reentrant",
+  "gradient_clip": 1.0,
+  "local_stdlib_tests": 36,
+  "m3_authorized": false,
+  "max_concurrency": 2,
+  "minutes_per_task": 30,
+  "ntd_max": 30,
+  "ntd_per_gpu_hour": 30,
+  "optimizer_group_policy": "all_parameters_weight_decay_0.01",
+  "production_authorized": false,
+  "rate_source": "user supplied",
+  "release": "two bounded engineering tasks only; --submit required after CPU checks",
+  "repair": "explicit hash-only overlay schema; no changes to source input hashes, training/evaluation methods or tolerance",
+  "resume": "checkpoint after two updates; continue two; fresh process restores and repeats last two exactly",
+  "schema": "org_m2_model_pilot_v2",
+  "scientific_training_authorized": false,
+  "selection": "fixed schedule coverage, not contiguous training; includes partial accumulation; no outcome-based selection",
+  "shared_free_bytes_min": 171798691840,
+  "source_update_indices": {
+    "R": [
+      0,
+      1,
+      2,
+      112
+    ],
+    "U": [
+      0,
+      1,
+      2,
+      12
+    ]
+  },
+  "tasks": [
+    "R",
+    "U"
+  ],
+  "user_quota_certified": false
+}

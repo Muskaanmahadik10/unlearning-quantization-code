@@ -1,0 +1,47 @@
+{
+  "cells": [
+    {
+      "algo": "NPO",
+      "cell_id": "llama3_8b_adamw_NPO_seed5000/gptq_int4",
+      "dataset": "tofu",
+      "model_tag": "llama3_8b_adamw",
+      "panel": "all_full144_cells_outside_pilot24_and_bridge48",
+      "primary_k": 8,
+      "quantizer": "gptq_int4",
+      "seed": "5000",
+      "selectors": "GQDP_signed_v42;GQDP_signed_v42_transport_quantizer_cyclic_v1;legacy_UPQI_signed_v4;matched_random_type_depth_v1_seed00;matched_random_type_depth_v1_seed01;matched_random_type_depth_v1_seed02;matched_random_type_depth_v1_seed03;matched_random_type_depth_v1_seed04;matched_random_type_depth_v1_seed05;matched_random_type_depth_v1_seed06;matched_random_type_depth_v1_seed07",
+      "transport_axis": "quantizer",
+      "transport_source_cell_id": "llama3_8b_adamw_NPO_seed5000/nf4",
+      "transport_source_quantizer": "nf4"
+    },
+    {
+      "algo": "GA",
+      "cell_id": "llama3_muse_adamw_GA_seed2024/nf4",
+      "dataset": "muse_news",
+      "model_tag": "llama3_muse_adamw",
+      "panel": "all_full144_cells_outside_pilot24_and_bridge48",
+      "primary_k": 8,
+      "quantizer": "nf4",
+      "seed": "2024",
+      "selectors": "GQDP_signed_v42;GQDP_signed_v42_transport_quantizer_cyclic_v1;legacy_UPQI_signed_v4;matched_random_type_depth_v1_seed00;matched_random_type_depth_v1_seed01;matched_random_type_depth_v1_seed02;matched_random_type_depth_v1_seed03;matched_random_type_depth_v1_seed04;matched_random_type_depth_v1_seed05;matched_random_type_depth_v1_seed06;matched_random_type_depth_v1_seed07",
+      "transport_axis": "quantizer",
+      "transport_source_cell_id": "llama3_muse_adamw_GA_seed2024/rtn_int8",
+      "transport_source_quantizer": "rtn_int8"
+    }
+  ],
+  "decision": "ORG_CANARY2_FROZEN_READY_FOR_DRY_RUN",
+  "expected_full_quantized_results": 2,
+  "expected_protected_results": 10,
+  "manifest_sha256": "21bf949bda8e5e56709f052481a6289596cc2c5b0d3fcaf17b0dd4fb929ef646",
+  "parent_manifest_sha256": "0e0637e324be42d7be1c36b10735dc6f2e2728cad4d5f09560da1e18c66cd8d1",
+  "primary_k": 8,
+  "schema_version": "org_gb200_canary2_v1",
+  "selection_method": "deterministic hash; one GPTQ cell and one cross-model/dataset NF4 cell",
+  "selectors": [
+    "GQDP_signed_v42",
+    "GQDP_signed_v42_transport_quantizer_cyclic_v1",
+    "legacy_UPQI_signed_v4",
+    "matched_random_type_depth_v1_seed00",
+    "matched_random_type_depth_v1_seed01"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "files": [
+    {
+      "path": "BUILD_STATUS.json",
+      "sha256": "73d127e9d0f24f8cb401555df37ce2a21c360b38db070562d6445ef7f019f457"
+    },
+    {
+      "path": "CORE_PLAN.json",
+      "sha256": "2517ee3058486cd5b78ce03155fba8e56a4442b8c47ff003f136768f693bec3a"
+    },
+    {
+      "path": "CPU_TESTS.txt",
+      "sha256": "871a5cc7a77081bcc3a8259e4e022f7a9cb6e91238310e9b7944608ba0e8e30a"
+    },
+    {
+      "path": "m1_contract_v1.py",
+      "sha256": "412b881529900074619478dfc27abbf1a7411aeb69b3ed11d647617450822218"
+    },
+    {
+      "path": "m1_core.slurm",
+      "sha256": "b3af1aae94af847318ffaac7c6d214515fdceda05a0211cc449df0e5604af62a"
+    },
+    {
+      "path": "m1_core_gate_v1.py",
+      "sha256": "a3bb5991fe0eb98dbe37b8f9ccefba6c79a28d351539e4a27cc617a40f3f3838"
+    },
+    {
+      "path": "m1_core_submit_v1.py",
+      "sha256": "01fc699d3695aab1c0e6dfc7f8cbf2a146f0c8d957226f3346b5ae80adb14b5b"
+    },
+    {
+      "path": "m1_core_v1.py",
+      "sha256": "ad3776a18dd83aa24ed03ecc1eb16a2373256238e2612ac4c5c912a64742cbe2"
+    },
+    {
+      "path": "m1_endpoint_cpu_regression_v3.py",
+      "sha256": "a50b40e4ce8e69e9cdf52e0967de379ebff2870150f27badd32559fc07382758"
+    },
+    {
+      "path": "m1_endpoint_v3.py",
+      "sha256": "69c1388a3b68dd44a2e19fa9f631d954f0676499b7398ac8c901d46dc131f5bd"
+    },
+    {
+      "path": "M1_EXPERIMENT_DESIGN_V1.json",
+      "sha256": "810d0241b7377950cc61d038e1b96e3b448af63c21ace83ae25f16494aa69464"
+    },
+    {
+      "path": "preservation_manifest_v2.json",
+      "sha256": "90fa4ef9d8ac7b2056be3afd3758bb19c28c41f67006c3f8319c06b65c96c3ab"
+    },
+    {
+      "path": "PRODUCTION_README.md",
+      "sha256": "134b4e8d3195fd711bf861ce7db0ed5248d8825e6b94d0eb0a1eb0e2e5945aad"
+    },
+    {
+      "path": "reconcile_m1_smokes_v1.py",
+      "sha256": "66ca907854714c7661fec7c4fd9ab10c5d774026a7e6eebfda671a1307b6604c"
+    },
+    {
+      "path": "RETENTION_DECISION.json",
+      "sha256": "52dae7ad5e3bdda52c02cf0fae11feb3c590323a5f9deecf510772ed1eb5eb08"
+    },
+    {
+      "path": "support/b05_same_artifact_v1.py",
+      "sha256": "d3f1f9ab9fada36b532b06253e451299db8dc0c3571b5c73bf1334548b966d0c"
+    },
+    {
+      "path": "support/certify_org_e2b_b05_feature_wave_v1.py",
+      "sha256": "e3f45ed1d71cc6756b2ee3a53167e62504c92c425eadd13cf5ba713fd4563b4b"
+    },
+    {
+      "path": "support/diagnose_org_b05_rtn_reload_v1.py",
+      "sha256": "15f8146f9e298a9f3330bffc53fce7ce72c3cb6a632e218a6ca8792b6fe20db9"
+    },
+    {
+      "path": "support/gate2_metric_v42_contracts.py",
+      "sha256": "637a20d4b081214ec63b84f92e95deab6e237279b38d8d356b7a657a8a2cf34b"
+    },
+    {
+      "path": "support/gate2_metric_v42_math.py",
+      "sha256": "7525248180056429522d8dafc1b799cd8166b2b245651c0bc25c928f1f7358c3"
+    },
+    {
+      "path": "support/gate2_v4_backend.py",
+      "sha256": "a4147dd6fff9ca7a9085a693308df51ca7cc41b6308c9cb1a18a0d0ab4606ddb"
+    },
+    {
+      "path": "support/gate2_v4_contract.py",
+      "sha256": "205346598106b590357f8d4e07b2f6c9f9a3ab1e560c5f38c9e6384ab070256a"
+    },
+    {
+      "path": "support/gate2_v4_dataset.py",
+      "sha256": "084e9cda7b5cb403d82b636a9ddfe0b7ee3cae3536ef6c78b569ffbe4a380307"
+    },
+    {
+      "path": "support/inventory_org_e2b_b04_public_models_v1.py",
+      "sha256": "b593ccc0ff38bdc3e5aae708bf446738b0e310de2b2dc9b65b8312c44cbfae0e"
+    },
+    {
+      "path": "support/org_b05_behavior_evaluator_v1.py",
+      "sha256": "6a8708ad6a464f676729ff7e9e6d73c868579ec713a9828a3902f5e24b9f8516"
+    },
+    {
+      "path": "support/org_b05_packed_lifecycle_v2.py",
+      "sha256": "68d8e12c4b5727dcb609cfc525db677c3b01b48c95303a41681a04dd36e433dc"
+    },
+    {
+      "path": "support/prepare_org_e2b_b04_public_models_v1.py",
+      "sha256": "12dab8858475dd68634324ddacedcd0d98e66f37c6e53b539f8c0bb49e2048ce"
+    },
+    {
+      "path": "support/probe_org_e2b_packed_backend_roundtrip_v3.py",
+      "sha256": "40a81e2f08f8a95882eb1f6d17e4741eb3d9bc009e0ef50063387e256763e04d"
+    },
+    {
+      "path": "support/run_gate2_metric_suite_v42.py",
+      "sha256": "9dbd504031e3d5187efe45cfa13d62f6d7a8d94af4cd3069ca2c11667c5976f4"
+    },
+    {
+      "path": "support/run_org_b05_real_model_smoke_v1.py",
+      "sha256": "7c66c6f969e3aae5d389ca65161c3df7bb7be0bd4a10c542602168395da09f88"
+    },
+    {
+      "path": "support/run_org_e2b_b04_packed_public_canary_v1.py",
+      "sha256": "a400ac29830aaf738bff4ed1ba29a55e8088a8058311207bd299f3eb3dcf98bb"
+    },
+    {
+      "path": "support/run_org_e2b_b04_representation_canary_v1.py",
+      "sha256": "e004e6b2bb3498abc312cd669613145fd94ca64f4b893e28024a6cb18cb3c463"
+    },
+    {
+      "path": "support/validate_gate2_metric_suite_v42.py",
+      "sha256": "b008def96bfbb0843bea08e9ef11c7e5953e74249dc86a1f173bc064e30aa613"
+    },
+    {
+      "path": "SUPPORT_PROVENANCE.json",
+      "sha256": "461ce7c51ffca865d2c2f8fa275faea2bb58e050a8c8c51e72fc1761eff71dfb"
+    },
+    {
+      "path": "test_m1_core_v1.py",
+      "sha256": "aa3249f8e8123d05855fee86dbf51e6a621219cc8399b0d2c684e48fe8cfe4b4"
+    },
+    {
+      "path": "test_reconcile_m1_v1.py",
+      "sha256": "949472b25d9e05c1f8e43a4f6870c2a5d7cb32e06c0aa5858252e317533a72a8"
+    },
+    {
+      "path": "verification.json",
+      "sha256": "ae390501102a4f3160f5f932ac41159e91f891232909eddb5d1653c84424bdfe"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "4ad738aaf60f6a4385f6e2506d01da99e76c31f3",
+  "full_benchmark_evaluator_certified": false,
+  "paged_source_review": [
+    "https://raw.githubusercontent.com/bitsandbytes-foundation/bitsandbytes/0.47.0/bitsandbytes/optim/optimizer.py",
+    "https://raw.githubusercontent.com/bitsandbytes-foundation/bitsandbytes/0.47.0/bitsandbytes/functional.py"
+  ],
+  "path": "src/evals/metrics/utils.py",
+  "repository": "https://github.com/locuslab/open-unlearning",
+  "sha256": "650f30143228e14cc47b70704b66a4425fe03d8d9cfab0ae315602041bb7d89c",
+  "usage": "unmodified source; AST extraction of probability and greedy-ROUGE primitives; FP32 logits view"
+}

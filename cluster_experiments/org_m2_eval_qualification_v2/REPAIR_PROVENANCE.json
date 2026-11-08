@@ -1,0 +1,43 @@
+{
+  "changed_files": [
+    "m2_eval_oracle_repair_v2.py",
+    "m2_eval_qualification.slurm",
+    "m2_eval_qualification_collect_v1.py",
+    "m2_eval_qualification_common_v1.py",
+    "m2_eval_qualification_oracle_v1.py",
+    "m2_eval_qualification_submit_v1.py",
+    "m2_eval_qualification_v1.py",
+    "m2_eval_repair_guard_v2.py",
+    "RELEASE.json",
+    "test_m2_eval_oracle_repair_torch_v2.py",
+    "test_m2_eval_qualification_v1.py",
+    "test_m2_eval_repair_guard_v2.py"
+  ],
+  "full_gpu_failure_cause_confirmed": false,
+  "no_tolerance_or_scientific_scope_relaxation": true,
+  "original_upstream_and_training_packages_unchanged": true,
+  "parent_source_sha256": "a606edac9b76b7adcd876897ce1b1e65757355960afc50a7da7feb0f79b68532",
+  "prior_jobs": {
+    "0": {
+      "exit": "1:0",
+      "seconds": 133,
+      "state": "FAILED"
+    },
+    "1": {
+      "exit": "1:0",
+      "seconds": 107,
+      "state": "FAILED"
+    },
+    "2": {
+      "exit": "1:0",
+      "seconds": 96,
+      "state": "FAILED"
+    },
+    "3": {
+      "exit": "1:0",
+      "seconds": 89,
+      "state": "FAILED"
+    }
+  },
+  "user_trace_sha256": "f1f084b1b36ff5d9c50e17492ccfa71ee08fd5aba1f56df0a18dae7e5b28a383"
+}

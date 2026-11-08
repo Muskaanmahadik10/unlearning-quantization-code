@@ -1,0 +1,75 @@
+{
+  "files": [
+    {
+      "bytes": 2012,
+      "path": "ACCEPTED_OR_AUDIT.json",
+      "sha256": "caec7824b3ee9bbb7f920aa28389b6d29d9b40a56f6b9389104c346ef00ef53a"
+    },
+    {
+      "bytes": 314,
+      "path": "BUILD_STATUS.json",
+      "sha256": "444ef49d453e1667a0f52e90b46b57dd16192db24a1ffe88d72bbe2ea23bfa4f"
+    },
+    {
+      "bytes": 836,
+      "path": "LOCAL_CPU_TESTS.txt",
+      "sha256": "da5fdd12e88f4cebcfb26be2b6b32d549c0cd3b09579bdaa67f67125669b8906"
+    },
+    {
+      "bytes": 310,
+      "path": "LOCAL_SCHEDULE_AUDIT.json",
+      "sha256": "c9b0ceabd7bbc087a24c365ec4f22b541d676a64aac9be8b5dd5462ae69b67fd"
+    },
+    {
+      "bytes": 6053,
+      "path": "m2_collect_u_v1.py",
+      "sha256": "d8f00e621f411f7b8a077e43c2a0c5b58c723d8bcc3e04eb5e8295209dc42c50"
+    },
+    {
+      "bytes": 3767,
+      "path": "m2_submit_u_v1.py",
+      "sha256": "b5f6061dce32aa40ca63b4252a82aa7267ad4b37f87e80c94279e546d6b46568"
+    },
+    {
+      "bytes": 1078,
+      "path": "m2_train_u.slurm",
+      "sha256": "539bd89c79032264be0d4a48bd478c196d05a71bda35915bfcddebe108a54e96"
+    },
+    {
+      "bytes": 8097,
+      "path": "m2_train_u_v1.py",
+      "sha256": "c3425de453cc546e7d752f3ecfeac58abb3b93ceca7c088dbcd6a4c00dcfd09e"
+    },
+    {
+      "bytes": 3234,
+      "path": "m2_u_common_v1.py",
+      "sha256": "887637d6d85763ebca780a8cce53b631f6cb3bc982394a5364e037659ca4340a"
+    },
+    {
+      "bytes": 1468,
+      "path": "m2_u_model_io_v1.py",
+      "sha256": "f7ad20b9385dde3453850f0daa191aef77346468b409a3649adaf174d177c104"
+    },
+    {
+      "bytes": 4455,
+      "path": "RELEASE.json",
+      "sha256": "9fdf24ae56f614ea36c4cfc9eedac0f3d0fdb2bd6f99a3ce9daf447d277ff90c"
+    },
+    {
+      "bytes": 3699,
+      "path": "START_HERE.md",
+      "sha256": "9b76961af8d12c7b983e2dea4db317998a11a5a693cdd432d864829b10ec1a71"
+    },
+    {
+      "bytes": 2559,
+      "path": "test_m2_u_stdlib_v1.py",
+      "sha256": "ac34a03351ab807ae9b9f1aee8812ea5fb515109dccefd82972dcb3576e87fa1"
+    },
+    {
+      "bytes": 2392,
+      "path": "test_m2_u_torch_v1.py",
+      "sha256": "f3ae6452cb371234d60bd42149ff9882fd1c269920b2b45106184ace7b798146"
+    }
+  ],
+  "schema": "m2_u_source_lock_v1"
+}

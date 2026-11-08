@@ -1,0 +1,44 @@
+[
+  {
+    "path": "code/results/org_h200_execution_v1/b02_stage_a_resolution_20260905T221857Z/wheel_manifest.json",
+    "cluster_path": "results/org_h200_execution_v1/b02_stage_a_resolution_20260905T221857Z/wheel_manifest.json",
+    "sha256": "48c5a072f0032e89e62e83c3810a3d975688c29a2ced3621c642fc7e53a2f63c",
+    "bytes": 26915,
+    "reference_file": "code/results/org_h200_execution_v1/b02_h200_environment_v2_345586/ORG_E2B_PACKED_H200_ENVIRONMENT_LOCK_V1.json",
+    "reference_pointer": "/wheel_artifacts/manifest_sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "EXACT_DIGEST_CLOSURE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/prepare_org_e2b_b04_public_models_v1.py",
+    "cluster_path": "org_m1_core_v1/support/prepare_org_e2b_b04_public_models_v1.py",
+    "sha256": "12dab8858475dd68634324ddacedcd0d98e66f37c6e53b539f8c0bb49e2048ce",
+    "bytes": 31301,
+    "reference_file": "code/results/org_h200_execution_v1/b04_p1_p4_20260906T054910Z/public_identity_download_lock_v2.json",
+    "reference_pointer": "/source/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "EXACT_DIGEST_CLOSURE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/results/org_h200_execution_v1/b05_current_runtime_reference_v1/current_runtime_reference_manifest_v1.json",
+    "cluster_path": "results/org_h200_execution_v1/b05_current_runtime_reference_v1/current_runtime_reference_manifest_v1.json",
+    "sha256": "d8b30f2a00b8aaae176148fd64d57434d08bcfb93a8fe2c36a060ca21216fd22",
+    "bytes": 2497,
+    "reference_file": "code/results/org_h200_execution_v1/b05_selector_locks/selector_lock_current_runtime_v2.json",
+    "reference_pointer": "/reference_manifest/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "EXACT_DIGEST_CLOSURE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/certify_org_e2b_b05_feature_wave_v2.py",
+    "cluster_path": "org_h200_execution_v1/scripts/certify_org_e2b_b05_feature_wave_v2.py",
+    "sha256": "cbd3f910cbc8fad13ac77bb7be8e3aeeccad363fae10afb8bd638952e721de5b",
+    "bytes": 5468,
+    "reference_file": "code/results/org_h200_execution_v1/b05_selector_locks/selector_lock_current_runtime_v2.json",
+    "reference_pointer": "/validator_sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "EXACT_DIGEST_CLOSURE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  }
+]

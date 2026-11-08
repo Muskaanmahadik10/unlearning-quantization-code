@@ -1,0 +1,50 @@
+{
+  "atlas_production_authorized": false,
+  "b05_behavior_authorized": false,
+  "b05_feature_v2_authorized": true,
+  "created_at_utc": "2026-09-06T16:13:54.965922+00:00",
+  "historical_transport_status": "HISTORICAL_TRANSPORT_FAIL",
+  "pre_outcome": true,
+  "protected_outcomes_inspected": false,
+  "reference_count": 6,
+  "references": [
+    {
+      "cell_id": "adverse_muse_gdr_seed2024",
+      "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_current_runtime_reference_v1/adverse_muse_gdr_seed2024_gptq_int4_current_reference_v1.json",
+      "quantizer": "gptq_int4",
+      "sha256": "0da150719d24a4e5772ada99284c7834506e1c203ba6402dd160492308e7302c"
+    },
+    {
+      "cell_id": "adverse_muse_gdr_seed2024",
+      "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_current_runtime_reference_v1/adverse_muse_gdr_seed2024_nf4_current_reference_v1.json",
+      "quantizer": "nf4",
+      "sha256": "8cea4358254f6966b63e99e9fb0b659cf88aba43253799f37e835013eece78a1"
+    },
+    {
+      "cell_id": "adverse_muse_gdr_seed2024",
+      "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_current_runtime_reference_v1/adverse_muse_gdr_seed2024_rtn_int8_current_reference_v1.json",
+      "quantizer": "rtn_int8",
+      "sha256": "efa0ce1145b67bf2ae4b0e8f3ba062e234f0c5b814feeb21a2c8a7f039fbf307"
+    },
+    {
+      "cell_id": "ordinary_tofu_ga_seed42",
+      "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_current_runtime_reference_v1/ordinary_tofu_ga_seed42_gptq_int4_current_reference_v1.json",
+      "quantizer": "gptq_int4",
+      "sha256": "70fec48705c36628766223c490ab452394ab3a162393ff25e4bcebfaf638b7d1"
+    },
+    {
+      "cell_id": "ordinary_tofu_ga_seed42",
+      "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_current_runtime_reference_v1/ordinary_tofu_ga_seed42_nf4_current_reference_v1.json",
+      "quantizer": "nf4",
+      "sha256": "60f6312f57a215818ef175d36114634efe8a98e461cef9d89e27db98dfe05673"
+    },
+    {
+      "cell_id": "ordinary_tofu_ga_seed42",
+      "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_current_runtime_reference_v1/ordinary_tofu_ga_seed42_rtn_int8_current_reference_v1.json",
+      "quantizer": "rtn_int8",
+      "sha256": "e2f4070808ad6c4c65e71baf4b06e8a01b49678433e51adfc46157e39d85bac8"
+    }
+  ],
+  "schema_version": "org_e2b_b05_current_runtime_reference_manifest_v1",
+  "status": "PASS"
+}

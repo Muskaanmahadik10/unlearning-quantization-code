@@ -1,0 +1,509 @@
+{
+  "behavior_launch_authorized": false,
+  "behavior_launcher_certified": false,
+  "cell_count": 6,
+  "cells": [
+    {
+      "cell_id": "adverse_muse_gdr_seed2024",
+      "checkpoint": {
+        "certified_relative_path": "checkpoints/llama2_muse_adamw/unlearned/GDR/seed_2024",
+        "path": "/work/anon_user/hessian_unlearning/checkpoints/llama2_muse_adamw/unlearned/GDR/seed_2024"
+      },
+      "condition_count": 6,
+      "conditions": {
+        "abstention": {
+          "alias_of": "full_packed",
+          "protected_layers": []
+        },
+        "bf16": {
+          "alias_of": null,
+          "protected_layers": "ALL_TARGETS"
+        },
+        "full_packed": {
+          "alias_of": null,
+          "protected_layers": []
+        },
+        "pair": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.17.mlp.down_proj.weight",
+            "model.layers.6.mlp.gate_proj.weight"
+          ]
+        },
+        "risky_looking_singleton": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.8.self_attn.v_proj.weight"
+          ]
+        },
+        "safe_looking_singleton": {
+          "abstained": false,
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.17.mlp.down_proj.weight"
+          ]
+        }
+      },
+      "cross_implementation_agreement_required": true,
+      "environment_lock": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/ORG_E2B_PACKED_H200_ENVIRONMENT_LOCK_V1.json",
+        "sha256": "9ac5f111ba26aaefbdd104f6e3464b4252aee16daf9c09e3427bf4de56d898f7"
+      },
+      "feature_intervention": "gate2_v4_backend.quantize_dequantize",
+      "feature_receipt": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_feature_cells_v2/production_adverse_muse_gdr_seed2024_gptq_int4_349007.json",
+        "sha256": "121a05d6740e2260e01cd7f1de0cb5bbad5b631a76fb9f2d3d1aafaa1926143f"
+      },
+      "manifests": {
+        "calibration_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/muse_news_retain_gptq_calib128_seed20260625.json",
+          "sha256": "69c4a510af45b7ad9c3bf06ecbc16fb3cd51aab9b78d27d799800a6fd165c99b"
+        },
+        "forget_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/muse_news_forget_core128_seed20260625.json",
+          "sha256": "a45223b4196f8759c0df7db3acf099a28e5ac0a43d12e477b2b14e2618b8fe16"
+        },
+        "retain_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/muse_news_retain_gptq_calib128_seed20260625.json",
+          "sha256": "69c4a510af45b7ad9c3bf06ecbc16fb3cd51aab9b78d27d799800a6fd165c99b"
+        }
+      },
+      "packed_intervention": "GPTQModel_INT4",
+      "quantizer": "gptq_int4",
+      "unique_packed_sets": [
+        [],
+        [
+          "model.layers.17.mlp.down_proj.weight"
+        ],
+        [
+          "model.layers.17.mlp.down_proj.weight",
+          "model.layers.6.mlp.gate_proj.weight"
+        ],
+        [
+          "model.layers.8.self_attn.v_proj.weight"
+        ]
+      ]
+    },
+    {
+      "cell_id": "adverse_muse_gdr_seed2024",
+      "checkpoint": {
+        "certified_relative_path": "checkpoints/llama2_muse_adamw/unlearned/GDR/seed_2024",
+        "path": "/work/anon_user/hessian_unlearning/checkpoints/llama2_muse_adamw/unlearned/GDR/seed_2024"
+      },
+      "condition_count": 6,
+      "conditions": {
+        "abstention": {
+          "alias_of": "full_packed",
+          "protected_layers": []
+        },
+        "bf16": {
+          "alias_of": null,
+          "protected_layers": "ALL_TARGETS"
+        },
+        "full_packed": {
+          "alias_of": null,
+          "protected_layers": []
+        },
+        "pair": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.13.mlp.up_proj.weight",
+            "model.layers.14.self_attn.o_proj.weight"
+          ]
+        },
+        "risky_looking_singleton": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.1.mlp.down_proj.weight"
+          ]
+        },
+        "safe_looking_singleton": {
+          "abstained": false,
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.13.mlp.up_proj.weight"
+          ]
+        }
+      },
+      "cross_implementation_agreement_required": true,
+      "environment_lock": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/ORG_E2B_PACKED_H200_ENVIRONMENT_LOCK_V1.json",
+        "sha256": "9ac5f111ba26aaefbdd104f6e3464b4252aee16daf9c09e3427bf4de56d898f7"
+      },
+      "feature_intervention": "gate2_v4_backend.quantize_dequantize",
+      "feature_receipt": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_feature_cells_v2/production_adverse_muse_gdr_seed2024_nf4_349006.json",
+        "sha256": "387ee50f6db0e64f9eda4e83e3167b9168bf62a023ad744baee0c5431f768413"
+      },
+      "manifests": {
+        "calibration_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/muse_news_retain_gptq_calib128_seed20260625.json",
+          "sha256": "69c4a510af45b7ad9c3bf06ecbc16fb3cd51aab9b78d27d799800a6fd165c99b"
+        },
+        "forget_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/muse_news_forget_core128_seed20260625.json",
+          "sha256": "a45223b4196f8759c0df7db3acf099a28e5ac0a43d12e477b2b14e2618b8fe16"
+        },
+        "retain_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/muse_news_retain_gptq_calib128_seed20260625.json",
+          "sha256": "69c4a510af45b7ad9c3bf06ecbc16fb3cd51aab9b78d27d799800a6fd165c99b"
+        }
+      },
+      "packed_intervention": "bitsandbytes_NF4",
+      "quantizer": "nf4",
+      "unique_packed_sets": [
+        [],
+        [
+          "model.layers.1.mlp.down_proj.weight"
+        ],
+        [
+          "model.layers.13.mlp.up_proj.weight"
+        ],
+        [
+          "model.layers.13.mlp.up_proj.weight",
+          "model.layers.14.self_attn.o_proj.weight"
+        ]
+      ]
+    },
+    {
+      "cell_id": "adverse_muse_gdr_seed2024",
+      "checkpoint": {
+        "certified_relative_path": "checkpoints/llama2_muse_adamw/unlearned/GDR/seed_2024",
+        "path": "/work/anon_user/hessian_unlearning/checkpoints/llama2_muse_adamw/unlearned/GDR/seed_2024"
+      },
+      "condition_count": 6,
+      "conditions": {
+        "abstention": {
+          "alias_of": "full_packed",
+          "protected_layers": []
+        },
+        "bf16": {
+          "alias_of": null,
+          "protected_layers": "ALL_TARGETS"
+        },
+        "full_packed": {
+          "alias_of": null,
+          "protected_layers": []
+        },
+        "pair": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.4.self_attn.o_proj.weight",
+            "model.layers.0.mlp.down_proj.weight"
+          ]
+        },
+        "risky_looking_singleton": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.1.mlp.down_proj.weight"
+          ]
+        },
+        "safe_looking_singleton": {
+          "abstained": false,
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.4.self_attn.o_proj.weight"
+          ]
+        }
+      },
+      "cross_implementation_agreement_required": true,
+      "environment_lock": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/ORG_E2B_PACKED_H200_ENVIRONMENT_LOCK_V1.json",
+        "sha256": "9ac5f111ba26aaefbdd104f6e3464b4252aee16daf9c09e3427bf4de56d898f7"
+      },
+      "feature_intervention": "gate2_v4_backend.quantize_dequantize",
+      "feature_receipt": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_feature_cells_v2/production_adverse_muse_gdr_seed2024_rtn_int8_349008.json",
+        "sha256": "21c0a686faa6b1842835aed6adc58d50ab34fbb93128ff078bd31457eddcf534"
+      },
+      "manifests": {
+        "calibration_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/muse_news_retain_gptq_calib128_seed20260625.json",
+          "sha256": "69c4a510af45b7ad9c3bf06ecbc16fb3cd51aab9b78d27d799800a6fd165c99b"
+        },
+        "forget_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/muse_news_forget_core128_seed20260625.json",
+          "sha256": "a45223b4196f8759c0df7db3acf099a28e5ac0a43d12e477b2b14e2618b8fe16"
+        },
+        "retain_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/muse_news_retain_gptq_calib128_seed20260625.json",
+          "sha256": "69c4a510af45b7ad9c3bf06ecbc16fb3cd51aab9b78d27d799800a6fd165c99b"
+        }
+      },
+      "packed_intervention": "B04_packed_RTN_INT8",
+      "quantizer": "rtn_int8",
+      "unique_packed_sets": [
+        [],
+        [
+          "model.layers.1.mlp.down_proj.weight"
+        ],
+        [
+          "model.layers.4.self_attn.o_proj.weight"
+        ],
+        [
+          "model.layers.4.self_attn.o_proj.weight",
+          "model.layers.0.mlp.down_proj.weight"
+        ]
+      ]
+    },
+    {
+      "cell_id": "ordinary_tofu_ga_seed42",
+      "checkpoint": {
+        "certified_relative_path": "checkpoints/llama2_7b_adamw/unlearned/GA/seed_42",
+        "path": "/work/anon_user/hessian_unlearning/checkpoints/llama2_7b_adamw/unlearned/GA/seed_42"
+      },
+      "condition_count": 6,
+      "conditions": {
+        "abstention": {
+          "alias_of": "full_packed",
+          "protected_layers": []
+        },
+        "bf16": {
+          "alias_of": null,
+          "protected_layers": "ALL_TARGETS"
+        },
+        "full_packed": {
+          "alias_of": null,
+          "protected_layers": []
+        },
+        "pair": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.26.mlp.gate_proj.weight",
+            "model.layers.30.mlp.up_proj.weight"
+          ]
+        },
+        "risky_looking_singleton": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.0.self_attn.v_proj.weight"
+          ]
+        },
+        "safe_looking_singleton": {
+          "abstained": false,
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.26.mlp.gate_proj.weight"
+          ]
+        }
+      },
+      "cross_implementation_agreement_required": true,
+      "environment_lock": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/ORG_E2B_PACKED_H200_ENVIRONMENT_LOCK_V1.json",
+        "sha256": "9ac5f111ba26aaefbdd104f6e3464b4252aee16daf9c09e3427bf4de56d898f7"
+      },
+      "feature_intervention": "gate2_v4_backend.quantize_dequantize",
+      "feature_receipt": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_feature_cells_v2/production_ordinary_tofu_ga_seed42_gptq_int4_348869.json",
+        "sha256": "b6701e855ee254795612cc59037ddf7a5a99090783258487c9540954c0f6aaf8"
+      },
+      "manifests": {
+        "calibration_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/tofu_retain_gptq_calib128_seed20260625.json",
+          "sha256": "80c174d9c26ad3eadefceee3760d4428261c0d5d4927b311e8afb937af72c8ab"
+        },
+        "forget_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/tofu_forget_core128_seed20260625.json",
+          "sha256": "2dab65f665bf56d8b83c08a4f4f12f97289ac1ba0719c09811ec9c70ec160d6a"
+        },
+        "retain_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/tofu_retain_gptq_calib128_seed20260625.json",
+          "sha256": "80c174d9c26ad3eadefceee3760d4428261c0d5d4927b311e8afb937af72c8ab"
+        }
+      },
+      "packed_intervention": "GPTQModel_INT4",
+      "quantizer": "gptq_int4",
+      "unique_packed_sets": [
+        [],
+        [
+          "model.layers.0.self_attn.v_proj.weight"
+        ],
+        [
+          "model.layers.26.mlp.gate_proj.weight"
+        ],
+        [
+          "model.layers.26.mlp.gate_proj.weight",
+          "model.layers.30.mlp.up_proj.weight"
+        ]
+      ]
+    },
+    {
+      "cell_id": "ordinary_tofu_ga_seed42",
+      "checkpoint": {
+        "certified_relative_path": "checkpoints/llama2_7b_adamw/unlearned/GA/seed_42",
+        "path": "/work/anon_user/hessian_unlearning/checkpoints/llama2_7b_adamw/unlearned/GA/seed_42"
+      },
+      "condition_count": 6,
+      "conditions": {
+        "abstention": {
+          "alias_of": "full_packed",
+          "protected_layers": []
+        },
+        "bf16": {
+          "alias_of": null,
+          "protected_layers": "ALL_TARGETS"
+        },
+        "full_packed": {
+          "alias_of": null,
+          "protected_layers": []
+        },
+        "pair": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.31.self_attn.v_proj.weight",
+            "model.layers.30.mlp.up_proj.weight"
+          ]
+        },
+        "risky_looking_singleton": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.0.self_attn.v_proj.weight"
+          ]
+        },
+        "safe_looking_singleton": {
+          "abstained": false,
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.31.self_attn.v_proj.weight"
+          ]
+        }
+      },
+      "cross_implementation_agreement_required": true,
+      "environment_lock": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/ORG_E2B_PACKED_H200_ENVIRONMENT_LOCK_V1.json",
+        "sha256": "9ac5f111ba26aaefbdd104f6e3464b4252aee16daf9c09e3427bf4de56d898f7"
+      },
+      "feature_intervention": "gate2_v4_backend.quantize_dequantize",
+      "feature_receipt": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_feature_cells_v2/production_ordinary_tofu_ga_seed42_nf4_349004.json",
+        "sha256": "2fb27275e82b028a8ead4fd848d5a73dea9e87796f42acdcb9602d04955570a1"
+      },
+      "manifests": {
+        "calibration_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/tofu_retain_gptq_calib128_seed20260625.json",
+          "sha256": "80c174d9c26ad3eadefceee3760d4428261c0d5d4927b311e8afb937af72c8ab"
+        },
+        "forget_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/tofu_forget_core128_seed20260625.json",
+          "sha256": "2dab65f665bf56d8b83c08a4f4f12f97289ac1ba0719c09811ec9c70ec160d6a"
+        },
+        "retain_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/tofu_retain_gptq_calib128_seed20260625.json",
+          "sha256": "80c174d9c26ad3eadefceee3760d4428261c0d5d4927b311e8afb937af72c8ab"
+        }
+      },
+      "packed_intervention": "bitsandbytes_NF4",
+      "quantizer": "nf4",
+      "unique_packed_sets": [
+        [],
+        [
+          "model.layers.0.self_attn.v_proj.weight"
+        ],
+        [
+          "model.layers.31.self_attn.v_proj.weight"
+        ],
+        [
+          "model.layers.31.self_attn.v_proj.weight",
+          "model.layers.30.mlp.up_proj.weight"
+        ]
+      ]
+    },
+    {
+      "cell_id": "ordinary_tofu_ga_seed42",
+      "checkpoint": {
+        "certified_relative_path": "checkpoints/llama2_7b_adamw/unlearned/GA/seed_42",
+        "path": "/work/anon_user/hessian_unlearning/checkpoints/llama2_7b_adamw/unlearned/GA/seed_42"
+      },
+      "condition_count": 6,
+      "conditions": {
+        "abstention": {
+          "alias_of": "full_packed",
+          "protected_layers": []
+        },
+        "bf16": {
+          "alias_of": null,
+          "protected_layers": "ALL_TARGETS"
+        },
+        "full_packed": {
+          "alias_of": null,
+          "protected_layers": []
+        },
+        "pair": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.28.mlp.down_proj.weight",
+            "model.layers.29.self_attn.v_proj.weight"
+          ]
+        },
+        "risky_looking_singleton": {
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.0.self_attn.o_proj.weight"
+          ]
+        },
+        "safe_looking_singleton": {
+          "abstained": false,
+          "alias_of": null,
+          "protected_layers": [
+            "model.layers.28.mlp.down_proj.weight"
+          ]
+        }
+      },
+      "cross_implementation_agreement_required": true,
+      "environment_lock": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/ORG_E2B_PACKED_H200_ENVIRONMENT_LOCK_V1.json",
+        "sha256": "9ac5f111ba26aaefbdd104f6e3464b4252aee16daf9c09e3427bf4de56d898f7"
+      },
+      "feature_intervention": "gate2_v4_backend.quantize_dequantize",
+      "feature_receipt": {
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_feature_cells_v2/production_ordinary_tofu_ga_seed42_rtn_int8_349005.json",
+        "sha256": "2d546dbf9560189e3ae2d4e1fcba0c36e3c5d6ba17be9f184aa8a1155b55bcc0"
+      },
+      "manifests": {
+        "calibration_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/tofu_retain_gptq_calib128_seed20260625.json",
+          "sha256": "80c174d9c26ad3eadefceee3760d4428261c0d5d4927b311e8afb937af72c8ab"
+        },
+        "forget_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/tofu_forget_core128_seed20260625.json",
+          "sha256": "2dab65f665bf56d8b83c08a4f4f12f97289ac1ba0719c09811ec9c70ec160d6a"
+        },
+        "retain_manifest": {
+          "path": "/work/anon_user/hessian_unlearning/manifests/gate2_v4/tofu_retain_gptq_calib128_seed20260625.json",
+          "sha256": "80c174d9c26ad3eadefceee3760d4428261c0d5d4927b311e8afb937af72c8ab"
+        }
+      },
+      "packed_intervention": "B04_packed_RTN_INT8",
+      "quantizer": "rtn_int8",
+      "unique_packed_sets": [
+        [],
+        [
+          "model.layers.0.self_attn.o_proj.weight"
+        ],
+        [
+          "model.layers.28.mlp.down_proj.weight"
+        ],
+        [
+          "model.layers.28.mlp.down_proj.weight",
+          "model.layers.29.self_attn.v_proj.weight"
+        ]
+      ]
+    }
+  ],
+  "condition_count": 36,
+  "gpu_hours": 0,
+  "pending_execution_contracts": [
+    "behavior evaluator and sample-selection contract",
+    "generalize B04 module inventory from public 112 to historical 224 targets",
+    "producer plus two fresh consumers and per-sample repeatability checks",
+    "packed versus emulated contrasts and frozen non-negligibility definition",
+    "cumulative B05 accounting against protocol cap before further allocation"
+  ],
+  "protected_outcomes_generated": false,
+  "schema_version": "org_b05_behavior_plan_v1",
+  "selector_lock": {
+    "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b05_selector_locks/selector_lock_current_runtime_v2.json",
+    "sha256": "71052c630c3bf9f3b9ec7a7bc99116949f8af4533ded2e2aa2730608323142ef"
+  },
+  "status": "PLAN_PREPARED"
+}

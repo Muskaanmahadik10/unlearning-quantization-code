@@ -1,0 +1,69 @@
+{
+  "files": [
+    {
+      "bytes": 3159,
+      "path": "ACCEPTED_FIRST_PASSES.json",
+      "sha256": "5d72a914957aabf6427602837b4bc07f54089388554b10c33b844fff1e38f7a5"
+    },
+    {
+      "bytes": 1629,
+      "path": "ACCEPTED_QUALIFICATION_AUDIT.json",
+      "sha256": "ca05e8d8e3e2f591f5d5d7d80dc9e2df2f456e0b2aa27f38de34d34f90e181fe"
+    },
+    {
+      "bytes": 165,
+      "path": "BUILD_STATUS.json",
+      "sha256": "ed81bd86fe68be28a98db4f4022fe376fb9b2500b4c464f7d1d605588338f320"
+    },
+    {
+      "bytes": 2147,
+      "path": "LOCAL_CPU_TESTS.txt",
+      "sha256": "fc8bf363a4445b7844edfa3fdcc2a60a7d27b906e5b5316fb3249f77f18e194b"
+    },
+    {
+      "bytes": 1075,
+      "path": "m2_development.slurm",
+      "sha256": "09c5fb3a0ab69a2b4597a5af7ec6c7be6a781761ddbbc61d43599eecc61b1066"
+    },
+    {
+      "bytes": 4660,
+      "path": "m2_development_math_v1.py",
+      "sha256": "d54c79a262ee8c37d8a59c3e650ea8e241e9063572b41667858eca6f08016328"
+    },
+    {
+      "bytes": 20234,
+      "path": "m2_development_run_v1.py",
+      "sha256": "797f2a231fa3a14ae7a9f1fe80c194f5767034b132a0136abfd6aabfa910460d"
+    },
+    {
+      "bytes": 5178,
+      "path": "m2_development_score_v1.py",
+      "sha256": "26e2cd7f95ad1f4b29f2435b175d8c2bbbbeb73b11f8b582671f1b9ce47f7576"
+    },
+    {
+      "bytes": 2236,
+      "path": "PLAN.json",
+      "sha256": "ae066095e9be57e4db089a0fe59c78d86a9f0e52c52f693f87276930d33eba14"
+    },
+    {
+      "bytes": 2345,
+      "path": "START_HERE.md",
+      "sha256": "37eae18f06ed02ed2382c44883a3d3d62e67f5f187ebcf06dba404e44aa40829"
+    },
+    {
+      "bytes": 2325,
+      "path": "test_m2_development_recovery_v2.py",
+      "sha256": "d2f4162ce52403d9e9485f15f451736987089052629cdd817e747ad1a3cd404c"
+    },
+    {
+      "bytes": 1812,
+      "path": "test_m2_development_torch_v1.py",
+      "sha256": "787dd99f7f8fa5853a6250b0ad9395a8e79ed86001f44828e0ace28dff69e03f"
+    },
+    {
+      "bytes": 4174,
+      "path": "test_m2_development_v1.py",
+      "sha256": "587e439282c3cf90fdbe585d8a0faba77bf0bcd12c9c6aca85e8393657b33c2b"
+    }
+  ]
+}

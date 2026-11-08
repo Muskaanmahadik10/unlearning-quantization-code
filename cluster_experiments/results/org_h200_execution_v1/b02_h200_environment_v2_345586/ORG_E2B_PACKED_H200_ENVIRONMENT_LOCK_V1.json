@@ -1,0 +1,276 @@
+{
+  "bitsandbytes_native": {
+    "compiled_with_cuda": true,
+    "library_path": "/work/anon_user/.runtime/envs/org-packed-h200-v1/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda126.so",
+    "library_sha256": "ac1d12029c55933ec5f792518ddc31fa2ec7f909101af3d61a343fa121ce339e"
+  },
+  "builder": {
+    "path": "/work/anon_user/hessian_unlearning/org_h200_execution_v1/scripts/certify_org_e2b_b02_h200_env_v1.py",
+    "sha256": "5462a235586b071e11f2c69c6ba0c425578f59fa0fe89e73368b0250db09eb89"
+  },
+  "collected_utc": "2026-09-05T22:25:34.401588+00:00",
+  "environment_root": "/work/anon_user/.runtime/envs/org-packed-h200-v1",
+  "environment_tree_manifest": {
+    "all_entries_verified": true,
+    "content_manifest_sha256": "8ddeba9dd58cd7d0aebdde2268a4bf392c7b97ef1f7b04f5291dd04d468e4e0a",
+    "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/environment_file_manifest_postprobe.json",
+    "sha256": "2f9aa6f1932daeff31dafda74a8b8ef0c59abb7bb9e809785788c08d73a53a3b"
+  },
+  "failures": [],
+  "gptqmodel_kernel": {
+    "actual_model_pack_deferred_to_b03": true,
+    "class": "gptqmodel.nn_modules.qlinear.torch.TorchQuantLinear",
+    "module_path": "/work/anon_user/.runtime/envs/org-packed-h200-v1/lib/python3.11/site-packages/gptqmodel/nn_modules/qlinear/torch.py",
+    "module_sha256": "72611e301b599d1d4cbeaca051cccdd18a75e832783c488f3f0bc81480edaf52"
+  },
+  "interpreter_identity": {
+    "base_prefix": "/home/anon_user/.conda/envs/unlearn",
+    "contained_in_environment": true,
+    "executable": "/work/anon_user/.runtime/envs/org-packed-h200-v1/bin/python",
+    "executable_sha256": "f958cc2600d8ea3105ec79f7b5b87a2f2148c4c774abeab9490c98a46a46ba2d",
+    "overall_status": "PASS",
+    "pythonhome_absent": true,
+    "pythonpath_absent": true,
+    "source_interpreter": {
+      "path": "/home/anon_user/.conda/envs/unlearn/bin/python3.11",
+      "sha256": "f958cc2600d8ea3105ec79f7b5b87a2f2148c4c774abeab9490c98a46a46ba2d",
+      "version": "3.11.15 (main, Mar 11 2026, 17:20:07) [GCC 14.3.0]"
+    },
+    "sys_prefix": "/work/anon_user/.runtime/envs/org-packed-h200-v1",
+    "user_site_disabled": true,
+    "version": "3.11.15"
+  },
+  "kernel_artifacts": {
+    "all_entries_verified": true,
+    "file_count": 22,
+    "files": [
+      {
+        "bytes": 43847,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/inductor/aotautograd/a3mr7kv6nhwvjpkjkn4ki4tm72o7jdcxiikf5hj4hcxiq6wnl2q4/jel7btalaonixc55drcicnj7cvdtaut22py2hq7hw2qgxrlduzw",
+        "sha256": "4917f0cc0b039a8b8bbd1c4481353f154730527ad3f1a3c3e7b6a06bc563a66c"
+      },
+      {
+        "bytes": 258,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/inductor/aw/76868df75792ac16716c88dc62f11ced4c51907491a8bec1f8c986ae3b4062de.best_config",
+        "sha256": "432fac1e94ef12e08f35ffddc7f89fc173190cab6faf3474182f6d7759c821bd"
+      },
+      {
+        "bytes": 1990,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/inductor/aw/cawcms65vw3xl2s7lnvbj7osms6w6i6qww45rp6i33lzryilhccv.py",
+        "sha256": "18e3fdea4452b07b427e06e29153bb1372a78a431c33881a920554598649337d"
+      },
+      {
+        "bytes": 186529,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/inductor/fxgraph/ro/fromlxkoy2aqyxm7srjv4h2znvwrie7ykqwjlbf625mhcqqfk5sq/gptmzj5nfveqv4dbhfpz4gxiuhg6syve3gbyudil4zlrcqk3mah",
+        "sha256": "33e6cca7ad2d490af061395f9e1ae8a1cde962a4d9838a0d0be65711415b600e"
+      },
+      {
+        "bytes": 5243,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/inductor/lq/clq62bdxypjwtzo5sbjpiduujknligvjv5nofzq2zore6e4ixwav.py",
+        "sha256": "cd1016744dbd68ac63d1b363dbec54c71045b3a0971beb7dcddb0d8591027021"
+      },
+      {
+        "bytes": 1458,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/AOLHQUJSRYL6CQHRASUPB7DDU4LMQGGV5YD35EAQKOES5KSCBCCA/__grp__triton_poi_fused_add_pow_sin_0.json",
+        "sha256": "a93e3a3e00d408eacf0d15fb2f9b4c0927d1d24a00c485bc29611ff136997418"
+      },
+      {
+        "bytes": 11560,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/AOLHQUJSRYL6CQHRASUPB7DDU4LMQGGV5YD35EAQKOES5KSCBCCA/triton_poi_fused_add_pow_sin_0.cubin",
+        "sha256": "efff2e809b9003c66ed95c429b25042d7b043996e05149d5d106ab7f779d09d9"
+      },
+      {
+        "bytes": 1037,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/AOLHQUJSRYL6CQHRASUPB7DDU4LMQGGV5YD35EAQKOES5KSCBCCA/triton_poi_fused_add_pow_sin_0.json",
+        "sha256": "3e754ea3ebd2caea6c10caee6098612caa9f655075183dc622280ea4a5bdf33f"
+      },
+      {
+        "bytes": 17467,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/AOLHQUJSRYL6CQHRASUPB7DDU4LMQGGV5YD35EAQKOES5KSCBCCA/triton_poi_fused_add_pow_sin_0.llir",
+        "sha256": "be4fff57c3f7837b0c244a4d99eac6c7acd8065fcb8b62704f1f57bcc23207a0"
+      },
+      {
+        "bytes": 10259,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/AOLHQUJSRYL6CQHRASUPB7DDU4LMQGGV5YD35EAQKOES5KSCBCCA/triton_poi_fused_add_pow_sin_0.ptx",
+        "sha256": "6750c58c86d9f0f79765512a74e1b850a36a7a33853a9f8e7dce72d0dfbc6601"
+      },
+      {
+        "bytes": 4539,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/AOLHQUJSRYL6CQHRASUPB7DDU4LMQGGV5YD35EAQKOES5KSCBCCA/triton_poi_fused_add_pow_sin_0.source",
+        "sha256": "5dc572a20a1d3817917e4d7ef5c8db12abd16a9cee62818e9d5833b5de8ab345"
+      },
+      {
+        "bytes": 4182,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/AOLHQUJSRYL6CQHRASUPB7DDU4LMQGGV5YD35EAQKOES5KSCBCCA/triton_poi_fused_add_pow_sin_0.ttgir",
+        "sha256": "6014488d57b0dbd4a60ea61183ed1d9350df2214ff1bb45beb3a55a05ef457c1"
+      },
+      {
+        "bytes": 3806,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/AOLHQUJSRYL6CQHRASUPB7DDU4LMQGGV5YD35EAQKOES5KSCBCCA/triton_poi_fused_add_pow_sin_0.ttir",
+        "sha256": "d7761a5a28d459dd24310e067c3a1d4ce432d3dec3d2bdf691769d8b58b29432"
+      },
+      {
+        "bytes": 1458,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/EXXSEMSTV2G7JHFDKXYIFF22ALPNDWJFIWM3O5LPATCLBDOGQJYQ/__grp__triton_poi_fused_add_pow_sin_0.json",
+        "sha256": "4fb4015f1040b6b75168d09489fd00214765eb9d039b4f113b844514be050358"
+      },
+      {
+        "bytes": 16552,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/EXXSEMSTV2G7JHFDKXYIFF22ALPNDWJFIWM3O5LPATCLBDOGQJYQ/triton_poi_fused_add_pow_sin_0.cubin",
+        "sha256": "5ff5bb1f60858fe5e96a7b9b5cd54e7bf69b4f53998579d5f1454ac92175b34a"
+      },
+      {
+        "bytes": 1037,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/EXXSEMSTV2G7JHFDKXYIFF22ALPNDWJFIWM3O5LPATCLBDOGQJYQ/triton_poi_fused_add_pow_sin_0.json",
+        "sha256": "24658287f0e31b2b06abc5b97a837cbc864f22782a0276abc90ed9a923ab7695"
+      },
+      {
+        "bytes": 30133,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/EXXSEMSTV2G7JHFDKXYIFF22ALPNDWJFIWM3O5LPATCLBDOGQJYQ/triton_poi_fused_add_pow_sin_0.llir",
+        "sha256": "91297799039a8a5fa98049bf6ab31834ca8cdb26b36ee8ef90803a59d9d905eb"
+      },
+      {
+        "bytes": 15063,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/EXXSEMSTV2G7JHFDKXYIFF22ALPNDWJFIWM3O5LPATCLBDOGQJYQ/triton_poi_fused_add_pow_sin_0.ptx",
+        "sha256": "dad8789214bac0b36c22af4fdabc18811e48077e8347092099987dbd7f4c70b6"
+      },
+      {
+        "bytes": 4539,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/EXXSEMSTV2G7JHFDKXYIFF22ALPNDWJFIWM3O5LPATCLBDOGQJYQ/triton_poi_fused_add_pow_sin_0.source",
+        "sha256": "95dc4e730e33bbf08fb727304fc3450c066afa7ac4a9231ade8af949bda1088c"
+      },
+      {
+        "bytes": 4182,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/EXXSEMSTV2G7JHFDKXYIFF22ALPNDWJFIWM3O5LPATCLBDOGQJYQ/triton_poi_fused_add_pow_sin_0.ttgir",
+        "sha256": "2d3ef91c8fdeb7f78290d9b4291208a72b62ea78acf85d0bd35f8736b1e54f83"
+      },
+      {
+        "bytes": 3806,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/EXXSEMSTV2G7JHFDKXYIFF22ALPNDWJFIWM3O5LPATCLBDOGQJYQ/triton_poi_fused_add_pow_sin_0.ttir",
+        "sha256": "9eb0f70ff40ca7ad414c7f8dda32e4fa90b779d5e47b09605e861009bb4c45bb"
+      },
+      {
+        "bytes": 27328,
+        "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton/PJQAOAUEBF4K7G2PTZIJJD55WTLUU6NAJCS4RTYMIQEOPXS6RRAA/cuda_utils.cpython-311-x86_64-linux-gnu.so",
+        "sha256": "ca5baee6610536894b295a0d87cae48499fdad30ac9f81b684dcbc4b74735b29"
+      }
+    ],
+    "fingerprint": "09c8bfd7ff1fc578125a6e3705c2e1c5a46cc2efb62b5965c95367693d6bf738",
+    "roots": {
+      "CUDA_CACHE_PATH": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/cuda",
+      "GPTQMODEL_TORCH_EXTENSIONS_DIR": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/gptqmodel",
+      "TORCHINDUCTOR_CACHE_DIR": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/inductor",
+      "TRITON_CACHE_DIR": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/cache/triton"
+    }
+  },
+  "overall_status": "PASS",
+  "packages": {
+    "accelerate": {
+      "module_path": "/work/anon_user/.runtime/envs/org-packed-h200-v1/lib/python3.11/site-packages/accelerate/__init__.py",
+      "module_sha256": "68f56baac9b078db4735567649441ef28932a946b400bf8d8c2519b0a5b94b89",
+      "version": "1.10.1"
+    },
+    "bitsandbytes": {
+      "module_path": "/work/anon_user/.runtime/envs/org-packed-h200-v1/lib/python3.11/site-packages/bitsandbytes/__init__.py",
+      "module_sha256": "d32a8bf9c66080fc94c8844459559f7460c0f54a4a3a42243eee1bbaf647b27f",
+      "version": "0.47.0"
+    },
+    "gptqmodel": {
+      "module_path": "/work/anon_user/.runtime/envs/org-packed-h200-v1/lib/python3.11/site-packages/gptqmodel/__init__.py",
+      "module_sha256": "cdf92df9b91a008f772c17d0a81a62f8a7c3e9b63c995ce54746ae78a0b088f8",
+      "version": "4.2.5"
+    },
+    "safetensors": {
+      "module_path": "/work/anon_user/.runtime/envs/org-packed-h200-v1/lib/python3.11/site-packages/safetensors/__init__.py",
+      "module_sha256": "c1bcca66501582702c8c79aaaf2b922428800efa4367134609f8fc57363402dd",
+      "version": "0.6.2"
+    },
+    "torch": {
+      "module_path": "/work/anon_user/.runtime/envs/org-packed-h200-v1/lib/python3.11/site-packages/torch/__init__.py",
+      "module_sha256": "2f0deb66d5dff6b9c02a62832c3bf3824c2ee031c462a3afeb9ca170466da5bf",
+      "version": "2.8.0+cu126"
+    },
+    "transformers": {
+      "module_path": "/work/anon_user/.runtime/envs/org-packed-h200-v1/lib/python3.11/site-packages/transformers/__init__.py",
+      "module_sha256": "2f92b5a7b85d2cbce640da83b48c032d1bf6b383963a779a1458c94f2f4ae89d",
+      "version": "4.56.2"
+    },
+    "triton": {
+      "module_path": "/work/anon_user/.runtime/envs/org-packed-h200-v1/lib/python3.11/site-packages/triton/__init__.py",
+      "module_sha256": "08441d399eb32c7b84546a09ee497663071f04120f064390cf30e31ebea26ce3",
+      "version": "3.4.0"
+    }
+  },
+  "quantizer_roles": {
+    "gptq_int4": "coprimary",
+    "nf4": "coprimary",
+    "rtn_int8": "separate_custom_packed_control"
+  },
+  "schema": "org_e2b_packed_h200_environment_lock_v1",
+  "schema_version": "org_e2b_packed_h200_environment_lock_v1",
+  "scope_guards": {
+    "atlas_production_authorized": false,
+    "b03_canary_authorized": true,
+    "backend_representation_certified": false,
+    "model_roundtrip_certified": false,
+    "production_authorized": false,
+    "scientific_claim_authorized": false
+  },
+  "source_manifest": {
+    "all_entries_verified": true,
+    "path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_h200_environment_v2_345586/B02_H200_ENVIRONMENT_SOURCE_LOCK_V1.json",
+    "sha256": "d340903c9097e592d018e3ce0cb0caa8c8fbe28e52d66874c7b5de8285e98b4f"
+  },
+  "toolchain": {
+    "compiler_fingerprint": "463da0849cd5a5e6aca9999cb189b1d95901aa879c818599040406f30cd2cc63",
+    "cuda_fingerprint": "4334c30369359b15623f968e6a774bf95bd5986053717a772e0c63ddbe7b2dd5",
+    "cuda_module": "cuda/12.6",
+    "cuda_version": "12.6",
+    "driver_version": "580.65.06",
+    "executables": {
+      "g++": {
+        "available": true,
+        "path": "/usr/bin/g++",
+        "sha256": "21a61ce40af4e3cd6e0e0dc0db63ca3e6933a5801a335d423ac251423e3805f4",
+        "version": "g++ (GCC) 11.5.0 20240719 (Red Hat 11.5.0-5) Copyright (C) 2021 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE."
+      },
+      "gcc": {
+        "available": true,
+        "path": "/usr/bin/gcc",
+        "sha256": "d0f9cb8d76c170e3627dbce994343e9973f84c7eed2825e87f2cf8c51ddb87cd",
+        "version": "gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-5) Copyright (C) 2021 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE."
+      },
+      "ld": {
+        "available": true,
+        "path": "/usr/bin/ld.bfd",
+        "sha256": "fb7cc6bea44139f4531a3305eeec9dd599c5caa58b577b058e7909186a720007",
+        "version": "GNU ld version 2.35.2-63.el9 Copyright (C) 2020 Free Software Foundation, Inc. This program is free software; you may redistribute it under the terms of the GNU General Public License version 3 or (at your option) a later version. This program has absolutely no warranty."
+      },
+      "ninja": {
+        "available": true,
+        "path": "/work/anon_user/.runtime/envs/org-packed-h200-v1/bin/ninja",
+        "sha256": "94f5318756260447ffb88d0bc31b67dbc07119f1dc0c8dc2cb58ea575a471025",
+        "version": "1.11.1.git.kitware.jobserver-1"
+      },
+      "nvcc": {
+        "available": true,
+        "path": "/work/envstack/apps/cuda/12.6/bin/nvcc",
+        "sha256": "874d5124e3a7a32f68873fc7fcb0d8ad41b3fb2730fb18e3bb45544b14c8173d",
+        "version": "nvcc: NVIDIA (R) Cuda compiler driver Copyright (c) 2005-2024 NVIDIA Corporation Built on Tue_Oct_29_23:50:19_PDT_2024 Cuda compilation tools, release 12.6, V12.6.85 Build cuda_12.6.r12.6/compiler.35059454_0"
+      },
+      "nvidia-smi": {
+        "available": true,
+        "path": "/usr/bin/nvidia-smi",
+        "sha256": "738185fe0a3ab4b9e4af264214f35525ac16bf11962d8d22c55d44b782a88b95",
+        "version": "NVIDIA-SMI version : 580.65.06 NVML version : 580.65 DRIVER version : 580.65.06 CUDA Version : 13.0"
+      }
+    }
+  },
+  "wheel_artifacts": {
+    "all_entries_verified": true,
+    "complete_lock_path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_stage_a_resolution_20260905T221857Z/requirements.complete.lock",
+    "complete_lock_sha256": "4238f5aef53d2ef94f81c3e9f0cf9577d3dc9ce1919a292b222b55f0d1183927",
+    "manifest_path": "/work/anon_user/hessian_unlearning/results/org_h200_execution_v1/b02_stage_a_resolution_20260905T221857Z/wheel_manifest.json",
+    "manifest_sha256": "48c5a072f0032e89e62e83c3810a3d975688c29a2ced3621c642fc7e53a2f63c"
+  }
+}

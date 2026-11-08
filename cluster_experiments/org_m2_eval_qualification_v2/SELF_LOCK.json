@@ -1,0 +1,104 @@
+{
+  "files": [
+    {
+      "bytes": 2012,
+      "path": "ACCEPTED_OR_AUDIT.json",
+      "sha256": "497cf081caaed963221592a44c99702e1c8d17c573320d54f042254207714c45"
+    },
+    {
+      "bytes": 1263,
+      "path": "ACCEPTED_U_AUDIT.json",
+      "sha256": "a9053506bf7db8dbfed59274047447d6fab8afe1d0b29897798ef0045ddc0978"
+    },
+    {
+      "bytes": 369,
+      "path": "BUILD_STATUS.json",
+      "sha256": "330a957fbecde7e929402f39c9589aa1359d9e628071576405cd89cebe31ceb4"
+    },
+    {
+      "bytes": 3505,
+      "path": "LOCAL_CPU_TESTS.txt",
+      "sha256": "84764f1b2c2303b665a1116def22793c92c147a38259077e4b605347bc238f45"
+    },
+    {
+      "bytes": 4187,
+      "path": "m2_eval_oracle_repair_v2.py",
+      "sha256": "741d03ae9f3cea7ce4d277b6376a70a0d9d59d62fc8a858ea22441d2313ebe1b"
+    },
+    {
+      "bytes": 1268,
+      "path": "m2_eval_qualification.slurm",
+      "sha256": "3346097b4e693d04f1b3c9b3a2c7f7123100b679098278c7ba60a087b91cc56b"
+    },
+    {
+      "bytes": 8212,
+      "path": "m2_eval_qualification_collect_v1.py",
+      "sha256": "452e02fc6660b54a48a76226801733a65fc0a3e3d2a37dccdeddb2471cf35d01"
+    },
+    {
+      "bytes": 7342,
+      "path": "m2_eval_qualification_common_v1.py",
+      "sha256": "bb24dd66ae8285ad53af6508fd40df16f59601c0bd074dbe54322670500abadd"
+    },
+    {
+      "bytes": 10400,
+      "path": "m2_eval_qualification_oracle_v1.py",
+      "sha256": "cf33d1e7b612a84425ac553f3bf0d140138ca59e69c85077c80d5833dbfeb830"
+    },
+    {
+      "bytes": 5573,
+      "path": "m2_eval_qualification_submit_v1.py",
+      "sha256": "cd066d6453b74f56ac888b0ed0c51bbf353fa604acd627641164fdd12c04f37b"
+    },
+    {
+      "bytes": 8469,
+      "path": "m2_eval_qualification_v1.py",
+      "sha256": "70e498dfc7fbf68339e58db0dcf00cbb826c8ec7b440494fa4f48baeeb3d380c"
+    },
+    {
+      "bytes": 4138,
+      "path": "m2_eval_repair_guard_v2.py",
+      "sha256": "793d7a68442ca11960a7f41d9e853869cd70b5d5b7df767ed8eb007e27674e0a"
+    },
+    {
+      "bytes": 7477,
+      "path": "RELEASE.json",
+      "sha256": "90c2fa3a82a5ce96843f56282c5161bf33c5a8ef790613338f486b678260a011"
+    },
+    {
+      "bytes": 1187,
+      "path": "REPAIR_PROVENANCE.json",
+      "sha256": "9d02e58c61dfcce658c2b84d87f0e1220185c302d496309f711a101f37999996"
+    },
+    {
+      "bytes": 5414,
+      "path": "START_HERE.md",
+      "sha256": "c8b2422220d8273568035710ada7bab99ccce119389dc1baf43140a578ed529c"
+    },
+    {
+      "bytes": 440,
+      "path": "TEST_INVENTORY.json",
+      "sha256": "c11452432ddecde03f9aae4ba5ce637f7b489d1d43ca8e0ab7e6f17c42e9740c"
+    },
+    {
+      "bytes": 4006,
+      "path": "test_m2_eval_oracle_repair_torch_v2.py",
+      "sha256": "f194f33b853657cb2c5f4dae95a172f7087ef2957b244597e9e2ebc7f2e636cb"
+    },
+    {
+      "bytes": 3301,
+      "path": "test_m2_eval_qualification_torch_v1.py",
+      "sha256": "ead283ca135cf3951fdfb1a528d72a3ec71eb3eb107cfecfb0809668b471792b"
+    },
+    {
+      "bytes": 4918,
+      "path": "test_m2_eval_qualification_v1.py",
+      "sha256": "aaeea9f75d15be204438fbb29a97a4a602fd9418b2a540ad1d35c51786787df3"
+    },
+    {
+      "bytes": 2577,
+      "path": "test_m2_eval_repair_guard_v2.py",
+      "sha256": "01c0af115ccf55b41791226ea27d92c58a3c025ec473185d65a5935e3dd9091e"
+    }
+  ]
+}

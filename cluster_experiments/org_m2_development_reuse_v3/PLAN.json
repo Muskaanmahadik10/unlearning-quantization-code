@@ -1,0 +1,85 @@
+{
+  "BF16_bucket_before_this_wave_gpu_hours": 0.3475,
+  "BF16_bucket_cap_superseded": true,
+  "M3_authorized": false,
+  "budget_note": "24 GPU-hours / NTD720 allocation ceiling; scheduler cleanup may add time. Previous attempts accounted separately. Not an ETA or wallet balance.",
+  "cleanup_grace_seconds": 120,
+  "cluster_test_count": 24,
+  "counts": {
+    "forget": 76,
+    "retain": 153,
+    "retain_all": 688
+  },
+  "fresh_processes": 2,
+  "generation_batch_size": 1,
+  "gpus_per_task": 1,
+  "independent_binary_backup_complete": false,
+  "max_gpu_hours": 24,
+  "max_ntd": 720,
+  "minutes_per_task": 120,
+  "packed_launch_authorized": false,
+  "previous_wave_job": "360986",
+  "prior_source_sha256": "369b6cd3165f407f5c56a76a5f619bcd84d74aef675f3291cba3950530c5dd73",
+  "qualification_accounting": {
+    "360917_0": [
+      "FAILED",
+      "1:0",
+      133
+    ],
+    "360917_1": [
+      "FAILED",
+      "1:0",
+      107
+    ],
+    "360917_2": [
+      "FAILED",
+      "1:0",
+      96
+    ],
+    "360917_3": [
+      "FAILED",
+      "1:0",
+      89
+    ],
+    "360949_0": [
+      "COMPLETED",
+      "0:0",
+      290
+    ],
+    "360958_1": [
+      "COMPLETED",
+      "0:0",
+      185
+    ],
+    "360958_2": [
+      "COMPLETED",
+      "0:0",
+      184
+    ],
+    "360958_3": [
+      "COMPLETED",
+      "0:0",
+      167
+    ]
+  },
+  "qualification_evidence": "audit_exports/m2_eval_qualification_repair_v2_20260908T215928Z_ff3b8fc5",
+  "qualification_final_sha256": "c7b0ecbc7ff5f6e31aec6215456e7253c847ef6aa7af7dfd8c705a536c797d32",
+  "qualification_manifest_sha256": "943da981228c2d842dd076b513c57d6f7f82ec5ab7272ff2e8ad7d9363b9bebc",
+  "qualification_source_sha256": "9def5f2dde87a01e3f3893c7e9f5a5b75a1af694b700dbc184dff7ce55e82c76",
+  "rate_user_provided": 30,
+  "recovery_authorization": "User: dont worry about budget, dont put timeouts like that",
+  "recovery_budget_authorized": true,
+  "reuse_first_passes": 12,
+  "roles": [
+    "O",
+    "R",
+    "U"
+  ],
+  "scope": "FIXED_DEVELOPMENT_GATE_ONLY",
+  "scoring_batch_size": 2,
+  "sealed_launch_authorized": false,
+  "selection_sha256": "c32225af13f8a95e885ad89f2c35b93f26be3a80fce5ab6fc1fb624442ebbfe5",
+  "shards_per_role": 4,
+  "tasks": 12,
+  "wallet_live_verified": false
+}

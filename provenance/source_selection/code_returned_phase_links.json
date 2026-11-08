@@ -1,0 +1,1927 @@
+[
+  {
+    "path": "code/org_m1_core_v1/m1_contract_v1.py",
+    "cluster_path": "org_m1_core_v1/m1_contract_v1.py",
+    "sha256": "412b881529900074619478dfc27abbf1a7411aeb69b3ed11d647617450822218",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/147/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/m1_core.slurm",
+    "cluster_path": "org_m1_core_v1/m1_core.slurm",
+    "sha256": "b3af1aae94af847318ffaac7c6d214515fdceda05a0211cc449df0e5604af62a",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/148/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m1_core_v1/m1_core_gate_v1.py",
+    "cluster_path": "org_m1_core_v1/m1_core_gate_v1.py",
+    "sha256": "a3bb5991fe0eb98dbe37b8f9ccefba6c79a28d351539e4a27cc617a40f3f3838",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/149/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/m1_core_submit_v1.py",
+    "cluster_path": "org_m1_core_v1/m1_core_submit_v1.py",
+    "sha256": "01fc699d3695aab1c0e6dfc7f8cbf2a146f0c8d957226f3346b5ae80adb14b5b",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/150/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/m1_core_v1.py",
+    "cluster_path": "org_m1_core_v1/m1_core_v1.py",
+    "sha256": "ad3776a18dd83aa24ed03ecc1eb16a2373256238e2612ac4c5c912a64742cbe2",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/151/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/m1_endpoint_cpu_regression_v3.py",
+    "cluster_path": "org_m1_core_v1/m1_endpoint_cpu_regression_v3.py",
+    "sha256": "a50b40e4ce8e69e9cdf52e0967de379ebff2870150f27badd32559fc07382758",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/152/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/m1_endpoint_v3.py",
+    "cluster_path": "org_m1_core_v1/m1_endpoint_v3.py",
+    "sha256": "69c1388a3b68dd44a2e19fa9f631d954f0676499b7398ac8c901d46dc131f5bd",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/153/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/preservation_manifest_v2.json",
+    "cluster_path": "preservation_manifest_v2.json",
+    "sha256": "90fa4ef9d8ac7b2056be3afd3758bb19c28c41f67006c3f8319c06b65c96c3ab",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/155/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m1_core_v1/preservation_manifest_v2.json",
+    "cluster_path": "org_m1_core_v1/preservation_manifest_v2.json",
+    "sha256": "90fa4ef9d8ac7b2056be3afd3758bb19c28c41f67006c3f8319c06b65c96c3ab",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/155/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m1_core_v1/PRODUCTION_README.md",
+    "cluster_path": "org_m1_core_v1/PRODUCTION_README.md",
+    "sha256": "134b4e8d3195fd711bf861ce7db0ed5248d8825e6b94d0eb0a1eb0e2e5945aad",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/156/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m1_core_v1/reconcile_m1_smokes_v1.py",
+    "cluster_path": "org_m1_core_v1/reconcile_m1_smokes_v1.py",
+    "sha256": "66ca907854714c7661fec7c4fd9ab10c5d774026a7e6eebfda671a1307b6604c",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/157/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/b05_same_artifact_v1.py",
+    "cluster_path": "org_m1_core_v1/support/b05_same_artifact_v1.py",
+    "sha256": "d3f1f9ab9fada36b532b06253e451299db8dc0c3571b5c73bf1334548b966d0c",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/159/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/b05_same_artifact_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/b05_same_artifact_v1.py",
+    "sha256": "d3f1f9ab9fada36b532b06253e451299db8dc0c3571b5c73bf1334548b966d0c",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/159/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/certify_org_e2b_b05_feature_wave_v1.py",
+    "cluster_path": "org_m1_core_v1/support/certify_org_e2b_b05_feature_wave_v1.py",
+    "sha256": "e3f45ed1d71cc6756b2ee3a53167e62504c92c425eadd13cf5ba713fd4563b4b",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/160/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/certify_org_e2b_b05_feature_wave_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/certify_org_e2b_b05_feature_wave_v1.py",
+    "sha256": "e3f45ed1d71cc6756b2ee3a53167e62504c92c425eadd13cf5ba713fd4563b4b",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/160/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/diagnose_org_b05_rtn_reload_v1.py",
+    "cluster_path": "org_m1_core_v1/support/diagnose_org_b05_rtn_reload_v1.py",
+    "sha256": "15f8146f9e298a9f3330bffc53fce7ce72c3cb6a632e218a6ca8792b6fe20db9",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/161/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/diagnose_org_b05_rtn_reload_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/diagnose_org_b05_rtn_reload_v1.py",
+    "sha256": "15f8146f9e298a9f3330bffc53fce7ce72c3cb6a632e218a6ca8792b6fe20db9",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/161/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/gate2_metric_v42_contracts.py",
+    "cluster_path": "gate2_v4_final/scripts/gate2_metric_v42_contracts.py",
+    "sha256": "637a20d4b081214ec63b84f92e95deab6e237279b38d8d356b7a657a8a2cf34b",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/162/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/gate2_metric_v42_contracts.py",
+    "cluster_path": "org_m1_core_v1/support/gate2_metric_v42_contracts.py",
+    "sha256": "637a20d4b081214ec63b84f92e95deab6e237279b38d8d356b7a657a8a2cf34b",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/162/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/gate2_metric_v42_math.py",
+    "cluster_path": "org_m1_core_v1/support/gate2_metric_v42_math.py",
+    "sha256": "7525248180056429522d8dafc1b799cd8166b2b245651c0bc25c928f1f7358c3",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/163/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/org_b05_behavior_evaluator_v1.py",
+    "cluster_path": "org_m1_core_v1/support/org_b05_behavior_evaluator_v1.py",
+    "sha256": "6a8708ad6a464f676729ff7e9e6d73c868579ec713a9828a3902f5e24b9f8516",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/168/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/org_b05_behavior_evaluator_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/org_b05_behavior_evaluator_v1.py",
+    "sha256": "6a8708ad6a464f676729ff7e9e6d73c868579ec713a9828a3902f5e24b9f8516",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/168/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/org_b05_packed_lifecycle_v2.py",
+    "cluster_path": "org_m1_core_v1/support/org_b05_packed_lifecycle_v2.py",
+    "sha256": "68d8e12c4b5727dcb609cfc525db677c3b01b48c95303a41681a04dd36e433dc",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/169/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/org_b05_packed_lifecycle_v2.py",
+    "cluster_path": "org_h200_execution_v1/scripts/org_b05_packed_lifecycle_v2.py",
+    "sha256": "68d8e12c4b5727dcb609cfc525db677c3b01b48c95303a41681a04dd36e433dc",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/169/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/probe_org_e2b_packed_backend_roundtrip_v3.py",
+    "cluster_path": "org_m1_core_v1/support/probe_org_e2b_packed_backend_roundtrip_v3.py",
+    "sha256": "40a81e2f08f8a95882eb1f6d17e4741eb3d9bc009e0ef50063387e256763e04d",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/171/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/probe_org_e2b_packed_backend_roundtrip_v3.py",
+    "cluster_path": "org_h200_execution_v1/scripts/probe_org_e2b_packed_backend_roundtrip_v3.py",
+    "sha256": "40a81e2f08f8a95882eb1f6d17e4741eb3d9bc009e0ef50063387e256763e04d",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/171/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/run_org_b05_real_model_smoke_v1.py",
+    "cluster_path": "org_m1_core_v1/support/run_org_b05_real_model_smoke_v1.py",
+    "sha256": "7c66c6f969e3aae5d389ca65161c3df7bb7be0bd4a10c542602168395da09f88",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/173/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/run_org_b05_real_model_smoke_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/run_org_b05_real_model_smoke_v1.py",
+    "sha256": "7c66c6f969e3aae5d389ca65161c3df7bb7be0bd4a10c542602168395da09f88",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/173/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/run_org_e2b_b04_packed_public_canary_v1.py",
+    "cluster_path": "org_m1_core_v1/support/run_org_e2b_b04_packed_public_canary_v1.py",
+    "sha256": "a400ac29830aaf738bff4ed1ba29a55e8088a8058311207bd299f3eb3dcf98bb",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/174/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/run_org_e2b_b04_packed_public_canary_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/run_org_e2b_b04_packed_public_canary_v1.py",
+    "sha256": "a400ac29830aaf738bff4ed1ba29a55e8088a8058311207bd299f3eb3dcf98bb",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/174/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/run_org_e2b_b04_representation_canary_v1.py",
+    "cluster_path": "org_m1_core_v1/support/run_org_e2b_b04_representation_canary_v1.py",
+    "sha256": "e004e6b2bb3498abc312cd669613145fd94ca64f4b893e28024a6cb18cb3c463",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/175/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/run_org_e2b_b04_representation_canary_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/run_org_e2b_b04_representation_canary_v1.py",
+    "sha256": "e004e6b2bb3498abc312cd669613145fd94ca64f4b893e28024a6cb18cb3c463",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/175/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/validate_gate2_metric_suite_v42.py",
+    "cluster_path": "gate2_v4_final/scripts/validate_gate2_metric_suite_v42.py",
+    "sha256": "b008def96bfbb0843bea08e9ef11c7e5953e74249dc86a1f173bc064e30aa613",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/176/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/support/validate_gate2_metric_suite_v42.py",
+    "cluster_path": "org_m1_core_v1/support/validate_gate2_metric_suite_v42.py",
+    "sha256": "b008def96bfbb0843bea08e9ef11c7e5953e74249dc86a1f173bc064e30aa613",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/176/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/SUPPORT_PROVENANCE.json",
+    "cluster_path": "org_m1_core_v1/SUPPORT_PROVENANCE.json",
+    "sha256": "461ce7c51ffca865d2c2f8fa275faea2bb58e050a8c8c51e72fc1761eff71dfb",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/177/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m1_core_v1/test_m1_core_v1.py",
+    "cluster_path": "org_m1_core_v1/test_m1_core_v1.py",
+    "sha256": "aa3249f8e8123d05855fee86dbf51e6a621219cc8399b0d2c684e48fe8cfe4b4",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/178/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/test_reconcile_m1_v1.py",
+    "cluster_path": "org_m1_core_v1/test_reconcile_m1_v1.py",
+    "sha256": "949472b25d9e05c1f8e43a4f6870c2a5d7cb32e06c0aa5858252e317533a72a8",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/179/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m1_core_v1/SOURCE_LOCK.json",
+    "cluster_path": "org_m1_core_v1/SOURCE_LOCK.json",
+    "sha256": "44311a5b5ea585ba50a24beb8943cb5f1f0864d9a648cce20fb6a5f39ab36b74",
+    "reference_file": "evidence/returned_phase_provenance/da6c1cdf1aabbd95b5ad192cfd5773b9c3b4d49e2a9fd5cb3432af19cc70f8da.json",
+    "reference_pointer": "/files/181/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_development_reuse_v3/SELF_LOCK.json",
+    "cluster_path": "org_m2_development_reuse_v3/SELF_LOCK.json",
+    "sha256": "5bbb343023db43f402c5a2c0b13934872fb4275a2446c2b0182e1d035db88859",
+    "reference_file": "evidence/returned_phase_provenance/5495144026a2e609cdc55af4b3aea44fba74379d3d08d14081080c6a42400460.json",
+    "reference_pointer": "/source_lock_sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "cluster_path": "org_m2_metric_integration_v1/SELF_LOCK.json",
+    "sha256": "d2ced8e9bcb6a3acd854773f3e709c318fb2c88ba76553169dfcb5335aebb045",
+    "reference_file": "evidence/returned_phase_provenance/6d2d8759c94209490418ffc3f097dd00ff84ddc4d20e692d248d69557c4c8d3f.json",
+    "reference_pointer": "/source_lock_sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/SELF_LOCK.json",
+    "cluster_path": "org_m2_model_pilot_v2/SELF_LOCK.json",
+    "sha256": "7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274",
+    "reference_file": "evidence/returned_phase_provenance/6d2d8759c94209490418ffc3f097dd00ff84ddc4d20e692d248d69557c4c8d3f.json",
+    "reference_pointer": "/pilot_source_sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/PILOT_PLAN.json",
+    "cluster_path": "org_m2_model_pilot_v2/PILOT_PLAN.json",
+    "sha256": "2e7a9887cba078f6698fc8078081f55c0c12cbd36c823c6dad3e999ec6e46702",
+    "reference_file": "evidence/returned_phase_provenance/aedaff388c8146e535f7c6c2e84af1e1c3aaf1503ed534d995c99f06ed526d6b.json",
+    "reference_pointer": "/files/0/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/UPSTREAM_EVALUATOR_PROVENANCE.json",
+    "cluster_path": "org_m2_model_pilot_v2/UPSTREAM_EVALUATOR_PROVENANCE.json",
+    "sha256": "48a9e729729cb1d79de880f8441416ced62600e09d915c2697966c59695ae2c2",
+    "reference_file": "evidence/returned_phase_provenance/aedaff388c8146e535f7c6c2e84af1e1c3aaf1503ed534d995c99f06ed526d6b.json",
+    "reference_pointer": "/files/29/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/BASE_INPUT_IDENTITY_LOCK.json",
+    "cluster_path": "org_m2_model_pilot_v2/BASE_INPUT_IDENTITY_LOCK.json",
+    "sha256": "acc4e6e529d8bc1b6158a739a8e8e226a33b24941dfc7a5283e49d510e37d935",
+    "reference_file": "evidence/returned_phase_provenance/4a9f5e2c5d85f14222c66e53505dfc43bbd98f761f7360b3e824808f0811c6ea.json",
+    "reference_pointer": "/identity/base_lock_sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/cpu_evidence/EVIDENCE_MANIFEST.json",
+    "cluster_path": "org_m2_model_pilot_v2/cpu_evidence/EVIDENCE_MANIFEST.json",
+    "sha256": "dd5601f2804e5b7c3b2b73b6d4b341e232b4cd2f64a46b569528907812033509",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/5/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/INPUT_PROVENANCE.json",
+    "cluster_path": "org_m2_model_pilot_v2/INPUT_PROVENANCE.json",
+    "sha256": "11787935e101da6c24fad6b9b5271ecebe22c306ba42b39ff2805f93019de536",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/11/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/m2_ambiguity_contract_v2.py",
+    "cluster_path": "org_m2_model_pilot_v2/m2_ambiguity_contract_v2.py",
+    "sha256": "9631cdf9f7330b97f04b762a162d8d4daeeced7e6ce061a390b6bf7667380f66",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/13/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/m2_model_pilot.slurm",
+    "cluster_path": "org_m2_model_pilot_v2/m2_model_pilot.slurm",
+    "sha256": "4d83ed8475a160665f7f2b9c1eceaa9193975fca123a7543d7aac75daa41e820",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/14/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/m2_model_pilot_v1.py",
+    "cluster_path": "org_m2_model_pilot_v2/m2_model_pilot_v1.py",
+    "sha256": "6880dd8fb1dadf8338f91b4274128a87611975a5a237582b27aac9de24b94790",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/15/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/m2_paged_checkpoint_v1.py",
+    "cluster_path": "org_m2_model_pilot_v2/m2_paged_checkpoint_v1.py",
+    "sha256": "0ec3e7267de6003fc91841492dc58dd96b8781f178bf49ef7f0ab5bde8b4b5d0",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/16/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/m2_pilot_collect_v1.py",
+    "cluster_path": "org_m2_model_pilot_v2/m2_pilot_collect_v1.py",
+    "sha256": "6006868db3ab8c6f878e9a80d5aaa6612e5f577e4b9a09ecf9e49befe8b680e7",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/17/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/m2_pilot_contract_v1.py",
+    "cluster_path": "org_m2_model_pilot_v2/m2_pilot_contract_v1.py",
+    "sha256": "847a9dc68e022f5861c3c44b99542b837f02f84b92415cfc0504d8d8cbe42ab4",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/18/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/m2_pilot_evaluator_v1.py",
+    "cluster_path": "org_m2_model_pilot_v2/m2_pilot_evaluator_v1.py",
+    "sha256": "11d900c7e42d3eea68038e4983440d42873816644c848cc7e5bbd11a488525c9",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/19/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/m2_pilot_submit_v1.py",
+    "cluster_path": "org_m2_model_pilot_v2/m2_pilot_submit_v1.py",
+    "sha256": "34b10bd1191dd9f6648bac3000ee865ebf2f8ac414625d6c11c53d1293376eec",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/20/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/m2_training_cpu_preflight_v1.py",
+    "cluster_path": "org_m2_model_pilot_v2/m2_training_cpu_preflight_v1.py",
+    "sha256": "c625a6052c4967668a796d231e24a1840947265402d00b3dc7a8f460da2ffec4",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/22/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/regression_fixtures/overlay_file_manifest.json",
+    "cluster_path": "org_m2_model_pilot_v2/regression_fixtures/overlay_file_manifest.json",
+    "sha256": "3875c6c937bda7bd53b04c5c1486272569fca995725bc712bf50e63d501b34d6",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/26/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/REPAIR_PROVENANCE.json",
+    "cluster_path": "org_m2_model_pilot_v2/REPAIR_PROVENANCE.json",
+    "sha256": "7a6f468471cb5e8314b11601e88a5661e8bfa6151dedd7f077a369ed5e615132",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/27/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/test_m2_manifest_repair_v2.py",
+    "cluster_path": "org_m2_model_pilot_v2/test_m2_manifest_repair_v2.py",
+    "sha256": "0e005e84694a9008555c35a17f17c40abde2d358e529c075cca95cd86c48d23a",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/30/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/test_m2_model_pilot_v1.py",
+    "cluster_path": "org_m2_model_pilot_v2/test_m2_model_pilot_v1.py",
+    "sha256": "e463aeb7a6872bf141247b711d0b26c42de9aa0bd6714fba828c120fef3e21d1",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/31/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/test_m2_paged_cpu_v1.py",
+    "cluster_path": "org_m2_model_pilot_v2/test_m2_paged_cpu_v1.py",
+    "sha256": "2e0492542d076b9d40af9351afd456ef5bb50a1ea8cd9545d60a400aa59516e8",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/32/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/test_m2_training_contract_v1.py",
+    "cluster_path": "org_m2_model_pilot_v2/test_m2_training_contract_v1.py",
+    "sha256": "e191a60464fe38cd0d4bdc337f6e906f6d731ca9e697bca03d1a63610088600b",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/33/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/test_m2_training_preflight_v1.py",
+    "cluster_path": "org_m2_model_pilot_v2/test_m2_training_preflight_v1.py",
+    "sha256": "bf49dfba1900ad428f3b21ae79cc6e64100a088b47b429f05b6f367d04a5bbda",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/34/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/test_m2_training_torch_v1.py",
+    "cluster_path": "org_m2_model_pilot_v2/test_m2_training_torch_v1.py",
+    "sha256": "6db6848e75765a74ddbbb8df14c05f891e60e0e75b4db4135c17ac4ac96a06b2",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/35/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/upstream_collators.py",
+    "cluster_path": "org_m2_model_pilot_v2/upstream_collators.py",
+    "sha256": "b7e821c8175e31387c06729a60ff5287a512b681b10379ea21ac72fbff3e786c",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/36/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/upstream_data_utils.py",
+    "cluster_path": "org_m2_model_pilot_v2/upstream_data_utils.py",
+    "sha256": "128262e291bd738ffa417099fd076a577494b260297fbf5fd4e317888bcc9bd4",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/37/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/utils.py",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/utils.py",
+    "sha256": "650f30143228e14cc47b70704b66a4425fe03d8d9cfab0ae315602041bb7d89c",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/38/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/upstream_eval_utils.py",
+    "cluster_path": "org_m2_model_pilot_v2/upstream_eval_utils.py",
+    "sha256": "650f30143228e14cc47b70704b66a4425fe03d8d9cfab0ae315602041bb7d89c",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/38/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/upstream_model.yaml",
+    "cluster_path": "org_m2_model_pilot_v2/upstream_model.yaml",
+    "sha256": "0d7fea3a3d6820b4cdbd1c672b5dab1f789bcc868a0734af5389bb254fa54fbe",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/41/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/UPSTREAM_PROVENANCE.json",
+    "cluster_path": "org_m2_model_pilot_v2/UPSTREAM_PROVENANCE.json",
+    "sha256": "db131df3406f184c3e9442852d06a4375c08e0712ea52b2b2b33b0bd7f1a9b37",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/42/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_model_pilot_v2/upstream_trainer_utils.py",
+    "cluster_path": "org_m2_model_pilot_v2/upstream_trainer_utils.py",
+    "sha256": "55ac9337111ffe1be0be0b4ab4529ae1471dc19ecda2dee366ac9e10748bf776",
+    "reference_file": "evidence/returned_phase_provenance/7ff9464e6b13725c1f30fab3e6912060a5ab0b3a345cd72286b6319282ad5274.json",
+    "reference_pointer": "/files/43/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_training_release_v1/SELF_LOCK.json",
+    "cluster_path": "org_m2_training_release_v1/SELF_LOCK.json",
+    "sha256": "23aaecbb5eefb93e78d8c3e8a4e707abffc542695a053cfdc76f3abd22f0287e",
+    "reference_file": "evidence/returned_phase_provenance/d3259c477c47d9652e7156b7f5e1981c04cdd9b2393aba4002caeaf1f5bea589.json",
+    "reference_pointer": "/identity/source_lock_sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_u_training_v1/SELF_LOCK.json",
+    "cluster_path": "org_m2_u_training_v1/SELF_LOCK.json",
+    "sha256": "aeab34e3b254b05e0f3df2ea177add9a2fc94bed7bf4541a583df4487f89bf90",
+    "reference_file": "evidence/returned_phase_provenance/207474b737b7d2b0a32dafb602e0ec1ab8a2f9c7b39fa2b67c14d30895ada052.json",
+    "reference_pointer": "/identity/source_lock_sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/cluster_tools/certify_org_e2b_b05_current_wave_v2.sh",
+    "cluster_path": "org_h200_execution_v1/cluster_tools/certify_org_e2b_b05_current_wave_v2.sh",
+    "sha256": "c456b1ec80a979506f5d38da01f37fcebd22426a9a523b8b0c93425b3213cdbf",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/185/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/cluster_tools/check_org_b05_behavior_readiness_v1.sh",
+    "cluster_path": "org_h200_execution_v1/cluster_tools/check_org_b05_behavior_readiness_v1.sh",
+    "sha256": "3c4822d519b103fd464e1ef38c1631f072ba0ffe7ba1d1da2f18a5e6250d95e8",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/186/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/cluster_tools/collect_b05_same_artifact_inputs_v1.py",
+    "cluster_path": "org_h200_execution_v1/cluster_tools/collect_b05_same_artifact_inputs_v1.py",
+    "sha256": "5ae5a62593d35c088a0df8e1d98b19bb214183c3151738b1e39becc312eaaa62",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/187/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/cluster_tools/submit_org_b05_backend_pairs_v1.sh",
+    "cluster_path": "org_h200_execution_v1/cluster_tools/submit_org_b05_backend_pairs_v1.sh",
+    "sha256": "98d3c49cdcc8a8c54a2a7f194a4c1b55404f0a01e738af531c7ac65e0657f3af",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/188/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/cluster_tools/submit_org_b05_finish_wave_v1.sh",
+    "cluster_path": "org_h200_execution_v1/cluster_tools/submit_org_b05_finish_wave_v1.sh",
+    "sha256": "9a57106328ad30b5542d5a5ddd35ba48c86f92d92e2ef8127bacf2e23ba2d2aa",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/189/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/cluster_tools/submit_org_b05_gptq_pair_repair_v2.sh",
+    "cluster_path": "org_h200_execution_v1/cluster_tools/submit_org_b05_gptq_pair_repair_v2.sh",
+    "sha256": "4caf445a2f0c769dc4cde55ce66e5bb0915f8c1bfab2788ff122354b6557e9cd",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/190/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/cluster_tools/submit_org_b05_parallel_handoff_v1.sh",
+    "cluster_path": "org_h200_execution_v1/cluster_tools/submit_org_b05_parallel_handoff_v1.sh",
+    "sha256": "5d8d337d09adb26c1d5a97d9e7ffdcb20b592eeb8e0613d9c8330746498cf18f",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/191/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/cluster_tools/submit_org_e2b_b05_feature_current_reference_wave_v2.sh",
+    "cluster_path": "org_h200_execution_v1/cluster_tools/submit_org_e2b_b05_feature_current_reference_wave_v2.sh",
+    "sha256": "0eb1cfe29b6b4b74e12bb552810b0b5b2001fe5251546fe9a6530043906ddc6b",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/192/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/cluster_tools/submit_org_e2b_b05_feature_wave_v1.sh",
+    "cluster_path": "org_h200_execution_v1/cluster_tools/submit_org_e2b_b05_feature_wave_v1.sh",
+    "sha256": "f9e7c97053e0ce81104d5a0e3eeabde2836c69e8e4aaa7a8044e659869c42cbd",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/193/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/cluster_tools/submit_org_e2b_b05_gptq_qdp_drift_diagnostics_v2.sh",
+    "cluster_path": "org_h200_execution_v1/cluster_tools/submit_org_e2b_b05_gptq_qdp_drift_diagnostics_v2.sh",
+    "sha256": "47011aab7c7bfa3a31d5152fc1038312593a77318caabfe99269a2555af51eb1",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/194/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/cluster_tools/submit_org_e2b_b05_qdp_drift_diagnostics_v1.sh",
+    "cluster_path": "org_h200_execution_v1/cluster_tools/submit_org_e2b_b05_qdp_drift_diagnostics_v1.sh",
+    "sha256": "8800335111e4da81b9cd8d7916eacf774eb80bf85a04ed348e0df3234afa84ad",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/195/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/cluster_tools/test_org_b05_behavior_cell_candidate_v1.sh",
+    "cluster_path": "org_h200_execution_v1/cluster_tools/test_org_b05_behavior_cell_candidate_v1.sh",
+    "sha256": "dd8e47afa8a26b8af99d4d2b43f5d300d5489889302baab737f35b4c0e57b79e",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/196/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/analyze_org_e2b_b05_qdp_drift_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/analyze_org_e2b_b05_qdp_drift_v1.py",
+    "sha256": "285c74ba8298c4ba8c460f278fcae169299c4e59b278e3e4b9a740ef60acfba4",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/197/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/build_org_e2b_b05_current_runtime_reference_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/build_org_e2b_b05_current_runtime_reference_v1.py",
+    "sha256": "d73a64e1fb9ad4c1b4af65f7969fd47ff27b60e0528f97f26ecb9b0f6f760462",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/199/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/build_org_e2b_b05_legacy_tensor_oracle_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/build_org_e2b_b05_legacy_tensor_oracle_v1.py",
+    "sha256": "8387038b6f91e38910258dbcb58a2b7c2e411803ae022420d0246cdbe78615ec",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/200/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/org_b05_behavior_wave_contract_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/org_b05_behavior_wave_contract_v1.py",
+    "sha256": "f567a85f38a6901ea2d93f8de12be6bce9d1ed3be02a9f4031af6d8fbeca09ce",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/205/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/org_b05_finish_wave_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/org_b05_finish_wave_v1.py",
+    "sha256": "ff92d7197203ec43990dde8c32481087740faa0c1d6c39521f59f06ca32899ac",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/206/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/org_b05_gptq_pair_repair_v2.py",
+    "cluster_path": "org_h200_execution_v1/scripts/org_b05_gptq_pair_repair_v2.py",
+    "sha256": "057b3855e0304e4b06a8ea933d130726dacd4ff1a1ae372ef6dd1d10f42e015e",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/207/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/org_b05_packed_lifecycle_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/org_b05_packed_lifecycle_v1.py",
+    "sha256": "6862b7fc5a3b6e22117bafebfee722a71befcdd2a0ae4a12d94b6089cf0e11fa",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/208/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/org_b05_parallel_handoff_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/org_b05_parallel_handoff_v1.py",
+    "sha256": "5a7ed421d45b7e3bf339485fb7dcd4923a0a1fa6887d6bad4065badbf83b545d",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/210/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/org_b05_remaining_backends_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/org_b05_remaining_backends_v1.py",
+    "sha256": "fe9aa6827b3664604fbe1625614781ad7304b2fe36ba04eb65fd64f24b080d42",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/211/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/prepare_org_b05_behavior_plan_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/prepare_org_b05_behavior_plan_v1.py",
+    "sha256": "260a75f538d452b9561f50449d7212a5c01b38f5b5f2b625fc9eb5a94f3b487d",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/212/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/recover_org_b05_finish_submission_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/recover_org_b05_finish_submission_v1.py",
+    "sha256": "b991ec44699de0ae031ad437625820d314b0b1f1958a685609d3c6a7d6b0a90b",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/213/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/run_org_b05_behavior_cell_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/run_org_b05_behavior_cell_v1.py",
+    "sha256": "eedaa0dc6760610c07799634082b6db7bd7a59f8946d86aae220cfc339080283",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/214/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/run_org_b05_behavior_cell_v2.py",
+    "cluster_path": "org_h200_execution_v1/scripts/run_org_b05_behavior_cell_v2.py",
+    "sha256": "e965e300c7c6b0e51f2e59b32515f5caca12f07464118c9dcd7f1200f27e0a63",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/215/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/run_org_b05_behavior_rtn_canary_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/run_org_b05_behavior_rtn_canary_v1.py",
+    "sha256": "6dcfb8459c7e6dd7d3b1fae309110c7e008035f6ee911cd47e0691acd90702aa",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/216/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/run_org_b05_real_model_smoke_v2.py",
+    "cluster_path": "org_h200_execution_v1/scripts/run_org_b05_real_model_smoke_v2.py",
+    "sha256": "27b1622fc7e4e61ceed9a830e88cdda6c5d074d67885fc3754f1df4a902b6403",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/218/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/run_org_e2b_b05_feature_cell_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/run_org_e2b_b05_feature_cell_v1.py",
+    "sha256": "3348473f2ce684d826032b688faa2cf416ff0cf86b7f9c2041cac2e780229036",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/221/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/run_org_e2b_b05_feature_cell_v2.py",
+    "cluster_path": "org_h200_execution_v1/scripts/run_org_e2b_b05_feature_cell_v2.py",
+    "sha256": "d8d771ea6d884ab4ce07e0e552ad1a8d01d6608c42adde3834d3029c4b804f5b",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/222/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/run_org_e2b_b05_qdp_drift_diagnostic_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/run_org_e2b_b05_qdp_drift_diagnostic_v1.py",
+    "sha256": "56d6ef336a554316906a7c874d8b219e048c0f22503b19e6cacaedbfabecad59",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/223/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/run_org_e2b_b05_qdp_drift_diagnostic_v2.py",
+    "cluster_path": "org_h200_execution_v1/scripts/run_org_e2b_b05_qdp_drift_diagnostic_v2.py",
+    "sha256": "2a9f628977001ead4d3bbee5ea0c96b216f902dda67f736af40c3a78d0c899e3",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/224/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/submit_org_b05_finish_wave_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/submit_org_b05_finish_wave_v1.py",
+    "sha256": "4637ed44f7d0fcf0bb05691af16468cf9fb3d8524ba2bdf817ba1bdcdb967779",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/225/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_b05_same_artifact_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_b05_same_artifact_v1.py",
+    "sha256": "c2e25121ea70faf686e619a08623b6b45bfb170bfd0dbb1d42067ce0063af3f7",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/226/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_build_org_e2b_b05_current_runtime_reference_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_build_org_e2b_b05_current_runtime_reference_v1.py",
+    "sha256": "1e1d47f80fbd38533306b93a7788c38d080b708f06811228b8b09bd5d68694a2",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/227/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_certify_org_e2b_b05_feature_wave_v2.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_certify_org_e2b_b05_feature_wave_v2.py",
+    "sha256": "0ea602d5f9f42361c30a93bc4e9efcfb498da05c7f91db9196f41b9d35da362b",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/228/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_org_b05_behavior_cell_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_org_b05_behavior_cell_v1.py",
+    "sha256": "cfb0a5384adb8f4cd279d24c83422939d3c98cb892f04414c9b044f308b14631",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/229/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_org_b05_behavior_evaluator_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_org_b05_behavior_evaluator_v1.py",
+    "sha256": "b6a9241d5042b1ca50c1a72c35c5edf2ee56df131f2cc3962b6d186ce49f8269",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/230/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_org_b05_behavior_rtn_canary_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_org_b05_behavior_rtn_canary_v1.py",
+    "sha256": "f849ef8aadaa91c84a17f39630a1951c0e3bb692d39cc1b07a5dc7e3aaeef931",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/231/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_org_b05_behavior_wave_contract_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_org_b05_behavior_wave_contract_v1.py",
+    "sha256": "9d24066fb09d13134d7e742538864728936222940dd21341d0d2dd255858927a",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/232/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_org_b05_finish_wave_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_org_b05_finish_wave_v1.py",
+    "sha256": "6fd0a9682c85e5927f6124a961ad0d1b384168a7c09b6473a3cf5b9612c63e10",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/233/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_org_b05_gptq_pair_repair_v2.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_org_b05_gptq_pair_repair_v2.py",
+    "sha256": "3ab9d8d7360932728b874f6d3dbea28b31e8cef8e2eca32ff82d49e727af2e5c",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/234/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_org_b05_parallel_handoff_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_org_b05_parallel_handoff_v1.py",
+    "sha256": "b921d4320e7215a452884609dbc22917ed2c012160d2c24cb2b9335e49fdf10f",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/235/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_org_b05_real_model_smoke_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_org_b05_real_model_smoke_v1.py",
+    "sha256": "4cc78641b94d18ec3e78631fe27d4007e8e6d9e5e956c7de7664118ae9105844",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/236/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_org_b05_real_model_smoke_v2.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_org_b05_real_model_smoke_v2.py",
+    "sha256": "1e3c0210b7cb4fecab65af7c570109035928babea8246ad0b422542208113092",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/237/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_org_b05_remaining_backends_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_org_b05_remaining_backends_v1.py",
+    "sha256": "db384f2ea96423b4e7d013429bd8a5a16daa97858e5827059200bcfa330dec58",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/238/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_org_e2b_b05_feature_contract_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_org_e2b_b05_feature_contract_v1.py",
+    "sha256": "d7c8cd9071210f8a9ed085b3260a93f3737e770e81bc544dc0554d1c024bd0bc",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/239/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_recover_org_b05_finish_submission_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_recover_org_b05_finish_submission_v1.py",
+    "sha256": "d8bad1587b577452af221f5cca2655aee942304f2f11d95771a71596e827184e",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/240/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/b05_same_artifact_v1.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/b05_same_artifact_v1.slurm",
+    "sha256": "19efe57043f266f5d9006b43054b45fc854eef45e73b50b43e024b56983fcd50",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/241/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_b05_backend_pair_parallel_v1.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_b05_backend_pair_parallel_v1.slurm",
+    "sha256": "6a727f46be88d685c74779ffdcf28d32316be8d2f7cd2510a5bc4eb2e57ca99e",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/242/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_b05_behavior_cell_candidate_v1.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_b05_behavior_cell_candidate_v1.slurm",
+    "sha256": "43f0062e8bb5816df78ea1e2983d3bb3fe0ee835be42d862d36d5e861d0f6636",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/243/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_b05_behavior_rtn_canary_v1.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_b05_behavior_rtn_canary_v1.slurm",
+    "sha256": "57b3c04228d4ce584342cc2408c8fd1c9ea5a4b8d1594f6db16f2c335dc26aa6",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/244/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_b05_finish_wave_v1.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_b05_finish_wave_v1.slurm",
+    "sha256": "66931336a34957e7c91626aced6984a8cd047ce26a1779f8045c4bcac2719c95",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/245/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_b05_gptq_pair_repair_v2.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_b05_gptq_pair_repair_v2.slurm",
+    "sha256": "a7abb201708f2eab62f1126269d8280505a9ee31bcaff2e962e7bc4ea98eb90f",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/246/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_b05_parallel_condition_v1.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_b05_parallel_condition_v1.slurm",
+    "sha256": "58b7cb38b1bbdcf7cf59e18e556771e956d7352a9584b1bc7cd820fd7f811314",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/247/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_b05_real_model_smoke_v1.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_b05_real_model_smoke_v1.slurm",
+    "sha256": "5a9171b7b7f28fa6968bd5d46847e69c33b7fcc760dbc1b887d052666384a7e3",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/248/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_b05_real_model_smoke_v2.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_b05_real_model_smoke_v2.slurm",
+    "sha256": "f0fa0adca4c66c2cf7bcddc63bbf4d9dc94f87c080b14559fc63a428bf77ba66",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/249/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_b05_rtn_reload_diag_v1.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_b05_rtn_reload_diag_v1.slurm",
+    "sha256": "d9e562f28dc62911e4954393773e9116060f51648dc5c38259503b6cf2bcc7cd",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/250/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_e2b_b05_feature_cell_h200_dev_v1.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_e2b_b05_feature_cell_h200_dev_v1.slurm",
+    "sha256": "cc5a8c2774fb38ddfb4ba6c6e7c82f56175444bf62a0044cf1cbc691d02e9486",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/251/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_e2b_b05_feature_current_reference_h200_dev_v2.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_e2b_b05_feature_current_reference_h200_dev_v2.slurm",
+    "sha256": "cf842c52f58a06ab4e8b4ef62b0c4081bd9f09147ee60b78d80e4088c71f1f9d",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/252/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_e2b_b05_gptq_qdp_drift_diagnostic_h200_dev_v2.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_e2b_b05_gptq_qdp_drift_diagnostic_h200_dev_v2.slurm",
+    "sha256": "30ffe71f7824571e7e236b07eac71fcfa9f17eb677fd5e1b011bed6fadc44be0",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/253/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_e2b_b05_qdp_drift_diagnostic_h200_dev_v1.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_e2b_b05_qdp_drift_diagnostic_h200_dev_v1.slurm",
+    "sha256": "dcd7b1f55fd3e28d62bfa6daa3664df46528f171934c1ba97ebcacbde05fa1d9",
+    "reference_file": "code/preservation_manifest_v2.json",
+    "reference_pointer": "/files/254/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_development_reuse_v3/m2_development.slurm",
+    "cluster_path": "org_m2_development_reuse_v3/m2_development.slurm",
+    "sha256": "09c5fb3a0ab69a2b4597a5af7ec6c7be6a781761ddbbc61d43599eecc61b1066",
+    "reference_file": "code/org_m2_development_reuse_v3/SELF_LOCK.json",
+    "reference_pointer": "/files/4/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_development_reuse_v3/m2_development_math_v1.py",
+    "cluster_path": "org_m2_development_reuse_v3/m2_development_math_v1.py",
+    "sha256": "d54c79a262ee8c37d8a59c3e650ea8e241e9063572b41667858eca6f08016328",
+    "reference_file": "code/org_m2_development_reuse_v3/SELF_LOCK.json",
+    "reference_pointer": "/files/5/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_development_reuse_v3/m2_development_run_v1.py",
+    "cluster_path": "org_m2_development_reuse_v3/m2_development_run_v1.py",
+    "sha256": "797f2a231fa3a14ae7a9f1fe80c194f5767034b132a0136abfd6aabfa910460d",
+    "reference_file": "code/org_m2_development_reuse_v3/SELF_LOCK.json",
+    "reference_pointer": "/files/6/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_development_reuse_v3/test_m2_development_recovery_v2.py",
+    "cluster_path": "org_m2_development_reuse_v3/test_m2_development_recovery_v2.py",
+    "sha256": "d2f4162ce52403d9e9485f15f451736987089052629cdd817e747ad1a3cd404c",
+    "reference_file": "code/org_m2_development_reuse_v3/SELF_LOCK.json",
+    "reference_pointer": "/files/10/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_development_reuse_v3/test_m2_development_torch_v1.py",
+    "cluster_path": "org_m2_development_reuse_v3/test_m2_development_torch_v1.py",
+    "sha256": "787dd99f7f8fa5853a6250b0ad9395a8e79ed86001f44828e0ace28dff69e03f",
+    "reference_file": "code/org_m2_development_reuse_v3/SELF_LOCK.json",
+    "reference_pointer": "/files/11/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_development_reuse_v3/test_m2_development_v1.py",
+    "cluster_path": "org_m2_development_reuse_v3/test_m2_development_v1.py",
+    "sha256": "587e439282c3cf90fdbe585d8a0faba77bf0bcd12c9c6aca85e8393657b33c2b",
+    "reference_file": "code/org_m2_development_reuse_v3/SELF_LOCK.json",
+    "reference_pointer": "/files/12/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/run_m2_metric_integration_v1.py",
+    "cluster_path": "org_m2_metric_integration_v1/run_m2_metric_integration_v1.py",
+    "sha256": "0105bc0a6788a0aad308bb5cd93dfdb19675082d5606f5eea93174a0d299f70c",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/4/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/test_m2_metric_assembly_stdlib_v1.py",
+    "cluster_path": "org_m2_metric_integration_v1/test_m2_metric_assembly_stdlib_v1.py",
+    "sha256": "f94122772cbd2a6fcadaf7a2e3928c77894d3ca5731196afdc036eb1b89cbd40",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/6/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/test_m2_metric_assembly_torch_v1.py",
+    "cluster_path": "org_m2_metric_integration_v1/test_m2_metric_assembly_torch_v1.py",
+    "sha256": "c7b1f6d766a9dbec73465a9ab5a0c7faec65cfc0b6fe6c23e245b16ecfc38757",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/7/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/all_attacks.py",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/all_attacks.py",
+    "sha256": "c7a618f5089d54c55ab27a24d1fc64ea53be6a789eb9271002cb4abe5af9e7e1",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/8/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu.yaml",
+    "sha256": "5f123c3d984100e80a0e398de68a5a1959346a43de1e50f0f907776497230a1e",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/9/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/exact_memorization.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/exact_memorization.yaml",
+    "sha256": "6c564ee91ed01827f55f425b184b817a37d4abfd6381007549f39682d69dc099",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/10/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/extraction_strength.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/extraction_strength.yaml",
+    "sha256": "6e69edebd653c6a38fd3767826172d99ff02c2304fd0b53e83da9af69fa1ba68",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/11/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_gibberish.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_gibberish.yaml",
+    "sha256": "afa81669c91744c5b8b5a3d6ec41b924788a0379368fb7121a20df0e18f67e2a",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/12/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_PARA_Prob.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_PARA_Prob.yaml",
+    "sha256": "bf7f33c07dba4d9b2d40d72f8759c27bc90197ef062b8c740b279823a8788a31",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/13/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_PARA_ROUGE.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_PARA_ROUGE.yaml",
+    "sha256": "f1e153f2ead00503059b658377c3b69db8938bf1c459a953668c62326832f37e",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/14/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_PERT_Prob.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_PERT_Prob.yaml",
+    "sha256": "ef2b941445c7b38da6520770c45130a9d53bd52e5445952fbe1cb0b8847e43fa",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/15/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_PERT_ROUGE.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_PERT_ROUGE.yaml",
+    "sha256": "6a13ac94a862db0ebb4a127fc45f1fd5f8677f9586c8721e4578a254fb476ad3",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/16/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_Prob.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_Prob.yaml",
+    "sha256": "bb342b24d322880000d7201c6388ef79a6902382d96bff1d227bc4a6a9110db7",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/17/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_ROUGE.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Q_A_ROUGE.yaml",
+    "sha256": "523e5d00ad6be5c638cfb49d548b0cf99090db50a53c2e9e73cf0b723570119d",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/18/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_quality.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_quality.yaml",
+    "sha256": "03d0852189b303aab1540a9da3916bf7ae7c0f3243b18fedb7a462a719dddb18",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/19/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Truth_Ratio.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/forget_Truth_Ratio.yaml",
+    "sha256": "0a8a94a146c7d4e95c4335be0c07007e96f10189afef27b3450dd6146d810e35",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/20/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/mia_gradnorm.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/mia_gradnorm.yaml",
+    "sha256": "e775584e378976db02f13abd4632e780915cc9ac9c7238f039575888ca2c11bd",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/21/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/mia_loss.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/mia_loss.yaml",
+    "sha256": "c8bfa2b9c4a352f4f6449714f50bab84f6a1bf0b82205d3b4d34ec344f951538",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/22/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/mia_min_k.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/mia_min_k.yaml",
+    "sha256": "580f63879007c4db61ff2fe575b4f7b822de5174da7c84a3a49c3bd00a0b3efe",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/23/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/mia_min_k_plus_plus.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/mia_min_k_plus_plus.yaml",
+    "sha256": "bf9db611270cdc4caf93d13d084ea0871d2c9bfac8dfb4d8d626177a88dd210b",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/24/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/mia_reference.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/mia_reference.yaml",
+    "sha256": "cc079968ce0023c5cb80b0a87243e305e27e38970f8fe2900749fbe6fb9e3d51",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/25/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/mia_zlib.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/mia_zlib.yaml",
+    "sha256": "ef4e6bf056048e679d8e267d4a15d3b6ae65276140ded983772121e84d650ceb",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/26/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/model_utility.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/model_utility.yaml",
+    "sha256": "34d95475601379e0f23846239710a18682437e383bdc239f243380c600aaf20c",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/27/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/privleak.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/privleak.yaml",
+    "sha256": "27062fdb9f6d402b31176c49c9237d795893b179f5db981d045fedf47b121a5b",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/28/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/ra_Q_A_PERT_Prob.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/ra_Q_A_PERT_Prob.yaml",
+    "sha256": "859a3730b0f82c08430688fe4b986abe4e4283b0dd1893ad2a1ece10f1cffe65",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/29/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/ra_Q_A_Prob.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/ra_Q_A_Prob.yaml",
+    "sha256": "62d64a2010b4abe3584d0041dfed8a042ed73c1ebf30dd0ebc8eb65a3aa2ec49",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/30/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/ra_Q_A_Prob_normalised.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/ra_Q_A_Prob_normalised.yaml",
+    "sha256": "19135f6627a31647b670ec76dd37ade6e8d8c2e99217097b909b13dc2a43eb36",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/31/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/ra_Q_A_ROUGE.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/ra_Q_A_ROUGE.yaml",
+    "sha256": "32e117a03ba8531569b7b0944b321f3b1b11a388cfe4afca739c743da8ee8ea8",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/32/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/ra_Truth_Ratio.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/ra_Truth_Ratio.yaml",
+    "sha256": "b327edfcb9925ec7a64194b47f64f4242182f2ca2635b4663d246e00f0a08737",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/33/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/retain_Q_A_PARA_Prob.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/retain_Q_A_PARA_Prob.yaml",
+    "sha256": "3cf7aa89d18509bb144b658285f7e3df95f86416c1b1774703b56f834b3845c1",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/34/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/retain_Q_A_PERT_Prob.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/retain_Q_A_PERT_Prob.yaml",
+    "sha256": "0a091075f92649c821f308ce7049dba530a7ec3369efab0f97646b62be1b52fb",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/35/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/retain_Q_A_Prob.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/retain_Q_A_Prob.yaml",
+    "sha256": "d26738bd905faae48489cca79f0483382b8795b223bd5601e25ba242b490da94",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/36/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/retain_Q_A_ROUGE.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/retain_Q_A_ROUGE.yaml",
+    "sha256": "1543bad34a4202b2d7630e0ccbf97909ff5ee0ff5482bd470c4f783657d414c3",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/37/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/retain_Truth_Ratio.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/retain_Truth_Ratio.yaml",
+    "sha256": "c6e39a052ddd1af1d05c8cdc3f8b6c7cca667ad332dc65ee302849126a96e8c0",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/38/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/wf_Q_A_PERT_Prob.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/wf_Q_A_PERT_Prob.yaml",
+    "sha256": "a1c6f4c862a4c0f3d25ad29761b9d7a7218b0a5af9474a5ded62a9a9d019c36d",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/39/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/wf_Q_A_Prob.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/wf_Q_A_Prob.yaml",
+    "sha256": "b7495bd79dc14e4517118e49956da0650bf893e8f31dc586e61348d87d4130ee",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/40/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/wf_Q_A_Prob_normalised.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/wf_Q_A_Prob_normalised.yaml",
+    "sha256": "e4abce5a0cc2a75f0050ae54081377c84722fa8e4a6fc4a1c6f3cd3d06c48a89",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/41/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/wf_Q_A_ROUGE.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/wf_Q_A_ROUGE.yaml",
+    "sha256": "7c010f5bb573a16d4c84cda56c4dc34b721975ac7580245d94b0b9ca569409f1",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/42/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/wf_Truth_Ratio.yaml",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/configs/eval/tofu_metrics/wf_Truth_Ratio.yaml",
+    "sha256": "a88685e5f3f38e2f2f5ae96ad1dde8ee5a6b2dec5af8aaaf089ad64663965452",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/43/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/memorization.py",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/memorization.py",
+    "sha256": "5d04d81e45ab6eac6fe6ee659f355a1ba57e6809dff860bcb8acebc8be764e9a",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/45/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/mia_utils.py",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/mia_utils.py",
+    "sha256": "f6e441b258e6fde3253d8437f009088bbef6f9e046892490da7f3e941de64218",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/46/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/min_k.py",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/min_k.py",
+    "sha256": "85b0af7d3df72e0d237ada103111974ebe2609d822a13488867d2755b23eadd5",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/47/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/privacy.py",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/privacy.py",
+    "sha256": "05527a628cc1ba72b2dceeb8e895c5238acbae894243e1bb5d491c280edce03d",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/48/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/upstream/utility.py",
+    "cluster_path": "org_m2_metric_integration_v1/upstream/utility.py",
+    "sha256": "2dc70dcf54b06944dddaa3938b8eeceb3e91eb2d706389061fc04bf80a3eaa0e",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/49/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_metric_integration_v1/UPSTREAM_PROVENANCE.json",
+    "cluster_path": "org_m2_metric_integration_v1/UPSTREAM_PROVENANCE.json",
+    "sha256": "a11160b8cd4c7ba9f92b6032e961702141f2d000034f3d913b9020423c619014",
+    "reference_file": "code/org_m2_metric_integration_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/51/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_training_release_v1/m2_collect_or_v1.py",
+    "cluster_path": "org_m2_training_release_v1/m2_collect_or_v1.py",
+    "sha256": "ff873ddc186a0d65212e83560617ee54eb0b2e3a56ac6c5624bdb05bc3be3d3c",
+    "reference_file": "code/org_m2_training_release_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/5/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_training_release_v1/m2_real_data_v1.py",
+    "cluster_path": "org_m2_training_release_v1/m2_real_data_v1.py",
+    "sha256": "8100d57981eb6f56aa0c6c1c1bfc8239fc5a62a7c1e1b0fea10e08d53be2634e",
+    "reference_file": "code/org_m2_training_release_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/6/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_training_release_v1/m2_real_evaluator_v1.py",
+    "cluster_path": "org_m2_training_release_v1/m2_real_evaluator_v1.py",
+    "sha256": "eb8268e20a87ef379068632145765ed073d51d1d1a05939034c33277bfb5da20",
+    "reference_file": "code/org_m2_training_release_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/7/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_training_release_v1/m2_stage_common_v1.py",
+    "cluster_path": "org_m2_training_release_v1/m2_stage_common_v1.py",
+    "sha256": "f8182453bec24b4e555c942ccee51b84ee5c81c53275a99f8543b0223e84581f",
+    "reference_file": "code/org_m2_training_release_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/8/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_training_release_v1/m2_train_or.slurm",
+    "cluster_path": "org_m2_training_release_v1/m2_train_or.slurm",
+    "sha256": "d0e225079d08947af4465cbf0499dafe3f28ea2f1ae720377684aca609df6230",
+    "reference_file": "code/org_m2_training_release_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/9/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_training_release_v1/m2_train_or_v1.py",
+    "cluster_path": "org_m2_training_release_v1/m2_train_or_v1.py",
+    "sha256": "29737b0486ff58e34fc522168ff8973b76e94a21bddd55119c6562ea649772e1",
+    "reference_file": "code/org_m2_training_release_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/10/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_training_release_v1/m2_training_release_v1.py",
+    "cluster_path": "org_m2_training_release_v1/m2_training_release_v1.py",
+    "sha256": "a0bb267abdd4e93d1b70fcd845873eb1317715baeead8e290d7720d04b9c5641",
+    "reference_file": "code/org_m2_training_release_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/11/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_training_release_v1/test_m2_real_evaluator_torch_v1.py",
+    "cluster_path": "org_m2_training_release_v1/test_m2_real_evaluator_torch_v1.py",
+    "sha256": "15a1fd7e9bdb76853e36aaf127224a27d8e3f8ce96adeea3dd177ee2412dd633",
+    "reference_file": "code/org_m2_training_release_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/14/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_training_release_v1/test_m2_training_release_stdlib_v1.py",
+    "cluster_path": "org_m2_training_release_v1/test_m2_training_release_stdlib_v1.py",
+    "sha256": "39516dd75346c6abf0c3c12d0fa2d0c4089407081ca41503e02ab5ea58b7f4cb",
+    "reference_file": "code/org_m2_training_release_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/15/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_u_training_v1/m2_collect_u_v1.py",
+    "cluster_path": "org_m2_u_training_v1/m2_collect_u_v1.py",
+    "sha256": "d8f00e621f411f7b8a077e43c2a0c5b58c723d8bcc3e04eb5e8295209dc42c50",
+    "reference_file": "code/org_m2_u_training_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/4/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_u_training_v1/m2_submit_u_v1.py",
+    "cluster_path": "org_m2_u_training_v1/m2_submit_u_v1.py",
+    "sha256": "b5f6061dce32aa40ca63b4252a82aa7267ad4b37f87e80c94279e546d6b46568",
+    "reference_file": "code/org_m2_u_training_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/5/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_u_training_v1/m2_train_u.slurm",
+    "cluster_path": "org_m2_u_training_v1/m2_train_u.slurm",
+    "sha256": "539bd89c79032264be0d4a48bd478c196d05a71bda35915bfcddebe108a54e96",
+    "reference_file": "code/org_m2_u_training_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/6/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_m2_u_training_v1/m2_train_u_v1.py",
+    "cluster_path": "org_m2_u_training_v1/m2_train_u_v1.py",
+    "sha256": "c3425de453cc546e7d752f3ecfeac58abb3b93ceca7c088dbcd6a4c00dcfd09e",
+    "reference_file": "code/org_m2_u_training_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/7/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_u_training_v1/m2_u_common_v1.py",
+    "cluster_path": "org_m2_u_training_v1/m2_u_common_v1.py",
+    "sha256": "887637d6d85763ebca780a8cce53b631f6cb3bc982394a5364e037659ca4340a",
+    "reference_file": "code/org_m2_u_training_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/8/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_u_training_v1/m2_u_model_io_v1.py",
+    "cluster_path": "org_m2_u_training_v1/m2_u_model_io_v1.py",
+    "sha256": "f7ad20b9385dde3453850f0daa191aef77346468b409a3649adaf174d177c104",
+    "reference_file": "code/org_m2_u_training_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/9/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_u_training_v1/test_m2_u_stdlib_v1.py",
+    "cluster_path": "org_m2_u_training_v1/test_m2_u_stdlib_v1.py",
+    "sha256": "ac34a03351ab807ae9b9f1aee8812ea5fb515109dccefd82972dcb3576e87fa1",
+    "reference_file": "code/org_m2_u_training_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/12/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_m2_u_training_v1/test_m2_u_torch_v1.py",
+    "cluster_path": "org_m2_u_training_v1/test_m2_u_torch_v1.py",
+    "sha256": "f3ae6452cb371234d60bd42149ff9882fd1c269920b2b45106184ace7b798146",
+    "reference_file": "code/org_m2_u_training_v1/SELF_LOCK.json",
+    "reference_pointer": "/files/13/sha256",
+    "reference_kind": "VALUE",
+    "selection_basis": "RETURNED_PHASE_DIGEST_REFERENCE_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  }
+]

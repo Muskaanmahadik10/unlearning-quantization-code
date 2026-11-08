@@ -1,0 +1,16 @@
+{
+  "failed_archive_sha256": "f00b131929cb7f51734e00be7c3a6748513c1b337a40a350f534c5bfbf137b14",
+  "failed_packet": "ORG_M2_MODEL_PILOT_V1.tar.gz",
+  "failure": "KeyError bytes in overlay manifest verification before setup(False) returned; sbatch not reached",
+  "gpu_submissions": 0,
+  "old_packet_preserved": true,
+  "overlay_entries": 7270,
+  "overlay_manifest_sha256": "3875c6c937bda7bd53b04c5c1486272569fca995725bc712bf50e63d501b34d6",
+  "overlay_row_fields": [
+    "path",
+    "sha256"
+  ],
+  "parent_source_lock_sha256": "d20a9794ab3dd7e933e8183bb46a54039dbb7bf0166411e468a99e11adce5d3b",
+  "scientific_changes": false,
+  "sized_manifests_remain_strict": true
+}

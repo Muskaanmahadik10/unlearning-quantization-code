@@ -1,0 +1,1063 @@
+[
+  {
+    "path": "code/gate2_v4_final/V4_SOURCE_LOCK.json",
+    "cluster_path": "gate2_v4_final/V4_SOURCE_LOCK.json",
+    "sha256": "49d349e4e9d242198e30ec081236084117523a915854feab2996b24335dd0fed",
+    "reference": {
+      "path": "evidence/registered_cluster/results/gate2_v4_standard/llama2_7b_adamw_GA_seed2024/gptq_int4/ground_truth_v4.json",
+      "pointer": "/provenance/source_lock_sha256",
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/audit_v4_answer_mask_sentries.py",
+    "cluster_path": "gate2_v4_final/scripts/audit_v4_answer_mask_sentries.py",
+    "sha256": "86ade6c82bfad63c474e333980facaccfb1a0715165f3ba04eefa4c7a13f7f84",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/audit_v4_claim_gate_matrix.py",
+    "cluster_path": "gate2_v4_final/scripts/audit_v4_claim_gate_matrix.py",
+    "sha256": "283e962c2e7287a2d0e84fbf121ec9429c3a65e0fcafce79508bc62fc9cf4a2a",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/audit_v4_manifest_truth_ratio.py",
+    "cluster_path": "gate2_v4_final/scripts/audit_v4_manifest_truth_ratio.py",
+    "sha256": "52e75207ceb336f43f714f00c16f68ab7944d5f9722f20b2f2e304c57afdb90d",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/make_gate2_v4_bundle.py",
+    "cluster_path": "gate2_v4_final/scripts/make_gate2_v4_bundle.py",
+    "sha256": "5a533b3b96bac01aaf06f7d177857593b65db621b09bfa50d4820b210482136e",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/make_gate2_v4_manifest.py",
+    "cluster_path": "gate2_v4_final/scripts/make_gate2_v4_manifest.py",
+    "sha256": "23d22c7e36fdad35d7973e0a6eeb34a018b4ead1eb9abdf4b1e45aadaaa0287d",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/validate_upqi_v4.py",
+    "cluster_path": "gate2_v4_final/scripts/validate_upqi_v4.py",
+    "sha256": "ffd481bd7197aa2669b5a441d3ca094d73394afcbb24236e8529938110814a8f",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/write_gate2_v4_source_lock.py",
+    "cluster_path": "gate2_v4_final/scripts/write_gate2_v4_source_lock.py",
+    "sha256": "dff8142107cd74aa795cccd61754495abc7a4886d27b03453da631e8354f0c4b",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/gt_v4_core64_bundle.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/gt_v4_core64_bundle.slurm",
+    "sha256": "0e8614c554af914706aea5e07147bbe0d5d5340faeb1ef60a04860e73308c0ec",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/gt_v4_slotfill.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/gt_v4_slotfill.slurm",
+    "sha256": "ef6b34b8d158edffab6334d26a1b92cabb7ec87517ac257544ea668c17559af4",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/run_internal_slotfill.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/run_internal_slotfill.sh",
+    "sha256": "c8c2eaf7469924b55c03bc2ca22bf58309b4146bc19a95d062ec6bcd4beaa0ed",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_gate2_v4_slotfill.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_gate2_v4_slotfill.sh",
+    "sha256": "fd362e4efe9f10ad57cb4795e65229e77bdb2da84b919969e7212bce62c5c3fc",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/upqi_v4_core64_bundle.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/upqi_v4_core64_bundle.slurm",
+    "sha256": "c7799345e5806a490d2b83bd8621cda769c5f9454d3792cd32e8891417c0c387",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/upqi_v4_core64_muse_bundle.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/upqi_v4_core64_muse_bundle.slurm",
+    "sha256": "334169754273c62904190f9f2af11270485440b8a2c7c67ca2c2253f93888f98",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/upqi_v4_core64_tofu_bundle.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/upqi_v4_core64_tofu_bundle.slurm",
+    "sha256": "04e29bc71706fcc7fe550778a5209a7d1b78e1fe908e6b615548837ee8a3a1a1",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/upqi_v4_slotfill.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/upqi_v4_slotfill.slurm",
+    "sha256": "22f8746c944039a745ea41bfeb7df1b5200c88d33b540b8bed74916b314b3327",
+    "reference": {
+      "lock": "gate2_v4_final/V4_SOURCE_LOCK.json",
+      "canonical_sha256": "b4caaae79a48523b2166a0af4409e78508700a74fc03ee25b36a62bfb461aa7b",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+    "cluster_path": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+    "sha256": "3827ea648c2c5fc3f928cc8b2a6fb7270ed21bdbe37e688ccae7d0b05044e358",
+    "reference": {
+      "path": "evidence/registered_cluster/results/gate2_v4_standard_metrics_v42_full144/llama2_7b_adamw_GA_seed2024/nf4/metrics_v42.json",
+      "pointer": "/provenance/source_lock_sha256",
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/analyze_bridge_v41_combined30.py",
+    "cluster_path": "gate2_v4_final/scripts/analyze_bridge_v41_combined30.py",
+    "sha256": "19f16e94752cff7d240fde3b1b60aa586b54b51e8a9e280099994e97b8cb91a6",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/analyze_bridge_v41_full144.py",
+    "cluster_path": "gate2_v4_final/scripts/analyze_bridge_v41_full144.py",
+    "sha256": "548caf9f299d9bcd42c36a4ef8f72d38abaec6678555103fb7f1792824a05b4c",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/analyze_bridge_v41_pilot18.py",
+    "cluster_path": "gate2_v4_final/scripts/analyze_bridge_v41_pilot18.py",
+    "sha256": "524a1fe14a44c34c26d91d861155081f9f9422cfac86a3fce7bfa358e7b05d75",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/analyze_gate2_metric_suite_v42.py",
+    "cluster_path": "gate2_v4_final/scripts/analyze_gate2_metric_suite_v42.py",
+    "sha256": "45ac552de7b930eac1b6cc979465e493309095322bc6588b549e632ab985ce33",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/analyze_mitigation_pilot24_v42.py",
+    "cluster_path": "gate2_v4_final/scripts/analyze_mitigation_pilot24_v42.py",
+    "sha256": "da9f8ba7eedee3791fab53148ba2c13ab6d3d6218ee49b9adc50fcac5b7d0688",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/analyze_upqi_star_v42_convergence.py",
+    "cluster_path": "gate2_v4_final/scripts/analyze_upqi_star_v42_convergence.py",
+    "sha256": "8e6fca4f0ac6c144ff53d511d61076d700f695b9b2f571ae1e814b0b3cc54b73",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/audit_bridge_v4_destroyer.py",
+    "cluster_path": "gate2_v4_final/scripts/audit_bridge_v4_destroyer.py",
+    "sha256": "cfe1d28279d091bebccccf31613eee29cd8d1c65d12aa6f006317a4d16d879e1",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/audit_bridge_v4_icml.py",
+    "cluster_path": "gate2_v4_final/scripts/audit_bridge_v4_icml.py",
+    "sha256": "abeef227b49f9d1ea2ab2686ff0b2f451bdc9caf90347601a5ff6e926f7ca824",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/audit_full144_publication_gate.py",
+    "cluster_path": "gate2_v4_final/scripts/audit_full144_publication_gate.py",
+    "sha256": "a3f80fb8e854b4b9623be29df4f486f92ccb0cde25ff8708dc697a07d25e32d9",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/audit_gate2_v4_icml_destructive.py",
+    "cluster_path": "gate2_v4_final/scripts/audit_gate2_v4_icml_destructive.py",
+    "sha256": "36761653809720916726853da964320e716c4ff7ade491f6be2dc3e50e21ab9f",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/audit_icml_core_144_v4_status.py",
+    "cluster_path": "gate2_v4_final/scripts/audit_icml_core_144_v4_status.py",
+    "sha256": "da47754462eba5aac49269d302637079775b1e3b76bdeb2eb08d2d2a80988c81",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/build_gate2_v4_bridge_rankings.py",
+    "cluster_path": "gate2_v4_final/scripts/build_gate2_v4_bridge_rankings.py",
+    "sha256": "4627de5acc996ecee4b9c9a99c7aefa6318ef4a72d71667a0d2e52e9e29384e1",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/build_mitigation_pilot24_v42.py",
+    "cluster_path": "gate2_v4_final/scripts/build_mitigation_pilot24_v42.py",
+    "sha256": "58f4784a88d8765fc5e2bcdb8d79af0bb1cedaa5a993e1f2d62cc4f6a29d134a",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/certify_cross_hardware_gt_exception.py",
+    "cluster_path": "gate2_v4_final/scripts/certify_cross_hardware_gt_exception.py",
+    "sha256": "a18936dff4cf6d2ac845a11a51ec39f44d14739c4519fc901ad78b599b04bbee",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/estimate_metric_v42_full_cost.py",
+    "cluster_path": "gate2_v4_final/scripts/estimate_metric_v42_full_cost.py",
+    "sha256": "bc691f3c8750c44abaf558914d26326c004b26bac7bcbdc039827ecc5596148b",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/preflight_bridge_v4_runtime.py",
+    "cluster_path": "gate2_v4_final/scripts/preflight_bridge_v4_runtime.py",
+    "sha256": "96d4fb2f3f10940b3a169869582b414548d9035e94899804ec53f509cece5b2c",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/validate_bridge_join_v4.py",
+    "cluster_path": "gate2_v4_final/scripts/validate_bridge_join_v4.py",
+    "sha256": "4795f8832c1ba2bfc850be61d8265fc5a13f8d7af73f4ea73c2f7b86513819c0",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/validate_gate2_v4_cell_join.py",
+    "cluster_path": "gate2_v4_final/scripts/validate_gate2_v4_cell_join.py",
+    "sha256": "641980ebc9af903dc2a8d7f5741bc22cb61a04feded436bdf30d9bb3c61f9f17",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/validate_gt_v4.py",
+    "cluster_path": "gate2_v4_final/scripts/validate_gt_v4.py",
+    "sha256": "0a497db407c10a5828086a210a538f0e568d5b092c46a6325ddb6af6aa2527ee",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/audit_analyze_freeze_bridge_v41_combined30.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/audit_analyze_freeze_bridge_v41_combined30.sh",
+    "sha256": "771ec5e0c7454983acfcb7040e29d4d780781168f5547980da22f6f13cc78de2",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/audit_analyze_freeze_bridge_v41_full144.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/audit_analyze_freeze_bridge_v41_full144.sh",
+    "sha256": "cd7efed442fe889047e411eb1f646cd011a832714a22caac06c303100c5ad5f9",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/bridge_health_20260801.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/bridge_health_20260801.sh",
+    "sha256": "34cfa0cb81da1404abcbb4eac153aa5af86760763a773ddf99f06e561c77c68b",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/bridge_v41_remainder120_health.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/bridge_v41_remainder120_health.sh",
+    "sha256": "b5b0153649262fa178b54be38d5ff74f717d870ad3ecd5cedb48b6162ce3e2ce",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/bridge_v4_core64_8shard_bundle.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/bridge_v4_core64_8shard_bundle.slurm",
+    "sha256": "63f6e08263700e1ccebc32eed4232ae6c36d955dbb1ffd58fc04e85e63962886",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/bridge_v4_parallel_matrix.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/bridge_v4_parallel_matrix.slurm",
+    "sha256": "42525a926e0f763d0b76a6be56ceadae170817e83a693c2e3c3a03d82b38f29d",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/bridge_v4_slotfill.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/bridge_v4_slotfill.slurm",
+    "sha256": "126b5da3583ccff8c93634bee07210394dceb27aa2965fb5052b6a7074dffd51",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/bridge_v4_smoke_8gpu_bundle.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/bridge_v4_smoke_8gpu_bundle.slurm",
+    "sha256": "a391da05ecd6745620c6d80a825af821c5c6904b8fe11d5e01d6bdbe3ff5606d",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/freeze_bridge_v41_pilot18.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/freeze_bridge_v41_pilot18.sh",
+    "sha256": "0e8ee3537223e041df33dd64095a04a31095b1651345a9e1e1d322699a1be512",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/metric_suite_v42_parallel_matrix.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/metric_suite_v42_parallel_matrix.slurm",
+    "sha256": "a17d73e19da58c391b115e14911f476c33cea62fd9dcb997d71a7350ed9e9f28",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/metric_suite_v42_slotfill.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/metric_suite_v42_slotfill.slurm",
+    "sha256": "81b7e4e975cf48e0d7245dd3b2ff730148de9422cc09f3be10ecb203be741c18",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/mitigation_pilot24_v42_parallel_matrix.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/mitigation_pilot24_v42_parallel_matrix.slurm",
+    "sha256": "8d856f79a537c46f2a1b4ec12e01b6262cd539109344faf30d803392526c6fc6",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/prepare_metric_v42_on_nano4.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/prepare_metric_v42_on_nano4.sh",
+    "sha256": "629087f96c410ab1cccfeba05e0dee836a818e3a26144839a166a6aaab4d79bb",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/run_bridge_phase_abc_20260801.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/run_bridge_phase_abc_20260801.sh",
+    "sha256": "781eea7d1f3d2b463213f7dbf100454a7930943aba69066d829e67e16ad57e84",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/run_full144_publication_audit.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/run_full144_publication_audit.sh",
+    "sha256": "aded0362feec81e274e01ec2f9225d3b118fb4a7b90ccbbf2b90f74a47b914ff",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_bridge_fullq_20260801.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_bridge_fullq_20260801.sh",
+    "sha256": "905b8d1c5296a4257274b2939655a4e6bc67e6d1e90364d1d3896c374a55061b",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_bridge_smoke_20260801.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_bridge_smoke_20260801.sh",
+    "sha256": "79b80cd8156704c55e22bb8c794cf59612f2e6ed23d1bbdb756ea3720c441e4c",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_bridge_v41_diversity12.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_bridge_v41_diversity12.sh",
+    "sha256": "9f4d8860c5f2ba223736100765a8a2a5d14385f99dfa6678a98affbaa905474e",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_bridge_v41_remainder120.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_bridge_v41_remainder120.sh",
+    "sha256": "8224cf2c3f585d8fe4efe84abb17dc9e9e5b58c1966d9404e080c895fcd07216",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_gate2_v4_bridge_slotfill.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_gate2_v4_bridge_slotfill.sh",
+    "sha256": "ce066c5a20efeea891ab979bb3f80b2408853e858aaa846e3e49b779f42013a7",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_metric_v42_full144.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_metric_v42_full144.sh",
+    "sha256": "dacb529cbd43a489ff716267b1055d5d60340e810138a0dc5ca0d0a5301bf055",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_metric_v42_pilot12.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_metric_v42_pilot12.sh",
+    "sha256": "cf94fe1cc6faf5e169449199131b50b14fc265c3910436ef26440c90651cdd13",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_mitigation_pilot24_v42.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_mitigation_pilot24_v42.sh",
+    "sha256": "ae1e2595567b153d8be472462bd5495fa4b7f634f5cb95ea9eff33767cfdc0ac",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_nano5_bridge_smoke.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_nano5_bridge_smoke.sh",
+    "sha256": "7b2e15b8dcc84d2c9a6f1056ea7c31ed097c0752a241f6d2f44daef351f8d4d5",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_nano5_finish_gt_v4.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_nano5_finish_gt_v4.sh",
+    "sha256": "85f6466471af021c1266eb8e850bc44a38b91fe7f9b65c7a40c52230fe43f8f0",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_nano5_finish_gt_v4_b4_compat.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_nano5_finish_gt_v4_b4_compat.sh",
+    "sha256": "285f8098cf2ada9d61256e710013c7f2c7cd9423653ef8a376de5887d0d8856a",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_upqi_star_v42_diagonal12.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_upqi_star_v42_diagonal12.sh",
+    "sha256": "4683f77c7c7d148b2b6115f30cf8d692502dc59deae1971904e0dfc616aacb9b",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_upqi_star_v42_fullgrid48.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_upqi_star_v42_fullgrid48.sh",
+    "sha256": "05e28a30c2c70074ff2d5547778b5fe545afd1e16a0096029a28c3edc96eede0",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_upqi_star_v42_selected24.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_upqi_star_v42_selected24.sh",
+    "sha256": "1e0350589f4d14fe1f2a0fa30c9995f0defc801ce3508c11a2b15477e88d6151",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/upqi_star_v42_convergence_matrix.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/upqi_star_v42_convergence_matrix.slurm",
+    "sha256": "4b37e8418a295d8acd8a5a5cf33cf7bb0d6a5b0fa30f3c669cc801668e432cf4",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/upqi_star_v42_selection_matrix.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/upqi_star_v42_selection_matrix.slurm",
+    "sha256": "bceb408c5f8d0fe37abff45fced2f63908fd62d5bf23664a628c7d65a3fa047b",
+    "reference": {
+      "lock": "gate2_v4_final/metric_locks/V4_METRIC_V42_SOURCE_LOCK_NANO4_20260901_034157.json",
+      "canonical_sha256": "8575edd7ef19d5709a7cf536e643211256849ad9b52848ddbb71cade22057922",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_DIVERSITY12_20260831_022904.json",
+    "cluster_path": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_DIVERSITY12_20260831_022904.json",
+    "sha256": "dd359e70b9b5836f541d84c925b501ddb917616e3317521daa10b6a38e2b2850",
+    "reference": {
+      "path": "evidence/registered_cluster/results/gate2_v4_bridge_standard_v41_diversity12/llama2_7b_adamw_GDR_seed2024/rtn_int8/full_quantized/bridge_v4.json",
+      "pointer": "/provenance/source_lock_sha256",
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_DIVERSITY12_20260831_022904.json"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_V41_VERIFIED_20260831_011901.json",
+    "cluster_path": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_V41_VERIFIED_20260831_011901.json",
+    "sha256": "9794670478eae47b25f3b7426ac8e05c2af91fb741572cb510aeb4811fbddce7",
+    "reference": {
+      "path": "evidence/registered_cluster/results/gate2_v4_bridge_standard_v41_pilot18/llama2_7b_adamw_GA_seed42/gptq_int4/full_quantized/bridge_v4.json",
+      "pointer": "/provenance/source_lock_sha256",
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_V41_VERIFIED_20260831_011901.json"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_REMAINDER120_20260831_161925.json",
+    "cluster_path": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_REMAINDER120_20260831_161925.json",
+    "sha256": "2167603cc2e517ef08c1b3b20a9db0b2262335eb16efd289362beb03c505a468",
+    "reference": {
+      "path": "evidence/registered_cluster/results/gate2_v4_bridge_standard_v41_remainder120/llama2_7b_adamw_GA_seed2024/gptq_int4/full_quantized/bridge_v4.json",
+      "pointer": "/provenance/source_lock_sha256",
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_REMAINDER120_20260831_161925.json"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_BRIDGE48_20260901_195016.json",
+    "cluster_path": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_BRIDGE48_20260901_195016.json",
+    "sha256": "3fd92c9abe07f8962220e97aa583b1fb8e09d8e394c538f7b216aee3da2a68ce",
+    "reference": {
+      "path": "evidence/by_sha256/46e65408bb3c0cba4add5cca343178bdf9fcec965257e62f8b52b0696215eedf.json",
+      "pointer": "/provenance/source_lock_sha256",
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_BRIDGE48_20260901_195016.json"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/analyze_mitigation_bridge48_confirmation_v42.py",
+    "cluster_path": "gate2_v4_final/scripts/analyze_mitigation_bridge48_confirmation_v42.py",
+    "sha256": "b5d3e0f4f2b4a4ed96972cc6d80059fae9a31b73982302fe00d6a87a5e594ae8",
+    "reference": {
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_BRIDGE48_20260901_195016.json",
+      "canonical_sha256": "b905dee4f45be9a1fbe5fbaac4cfa09a0d2a83b0a5077084b456c6a0ad5ad330",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/analyze_mitigation_bridge48_v42.py",
+    "cluster_path": "gate2_v4_final/scripts/analyze_mitigation_bridge48_v42.py",
+    "sha256": "78e419a9c5f22aff3887ab3039a4f3bc65d9fa8312aacdc8cfaaec2f58b630fd",
+    "reference": {
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_BRIDGE48_20260901_195016.json",
+      "canonical_sha256": "b905dee4f45be9a1fbe5fbaac4cfa09a0d2a83b0a5077084b456c6a0ad5ad330",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/build_mitigation_bridge48_confirmation_v42.py",
+    "cluster_path": "gate2_v4_final/scripts/build_mitigation_bridge48_confirmation_v42.py",
+    "sha256": "68db734f934f53ef7f98ec8edb0b677e477c507ac27a6e5c7c89be21a4d01ef5",
+    "reference": {
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_BRIDGE48_20260901_195016.json",
+      "canonical_sha256": "b905dee4f45be9a1fbe5fbaac4cfa09a0d2a83b0a5077084b456c6a0ad5ad330",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/build_mitigation_bridge48_v42.py",
+    "cluster_path": "gate2_v4_final/scripts/build_mitigation_bridge48_v42.py",
+    "sha256": "8148cae9d5fa981f9d434ddd511383c7acddaf78fb5201e2bd8eb5749f39b9a7",
+    "reference": {
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_BRIDGE48_20260901_195016.json",
+      "canonical_sha256": "b905dee4f45be9a1fbe5fbaac4cfa09a0d2a83b0a5077084b456c6a0ad5ad330",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/scripts/validate_upqi_star_v42.py",
+    "cluster_path": "gate2_v4_final/scripts/validate_upqi_star_v42.py",
+    "sha256": "bea3561d63ec1fe4e8ca7425f87fb68962d0b67a554b23c6189e1b71f2a21412",
+    "reference": {
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_BRIDGE48_20260901_195016.json",
+      "canonical_sha256": "b905dee4f45be9a1fbe5fbaac4cfa09a0d2a83b0a5077084b456c6a0ad5ad330",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/mitigation_bridge48_confirmation_v42_parallel_matrix.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/mitigation_bridge48_confirmation_v42_parallel_matrix.slurm",
+    "sha256": "fa5aeaa3c31f48e250d3d3691e51691ed7a6b65d0a31ff4fd77c671a79e1601f",
+    "reference": {
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_BRIDGE48_20260901_195016.json",
+      "canonical_sha256": "b905dee4f45be9a1fbe5fbaac4cfa09a0d2a83b0a5077084b456c6a0ad5ad330",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/mitigation_bridge48_v42_parallel_matrix.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/mitigation_bridge48_v42_parallel_matrix.slurm",
+    "sha256": "30f45458145af3267264c02ee82eed13d5cea39f2375b0a6f8eb46e216ae0567",
+    "reference": {
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_BRIDGE48_20260901_195016.json",
+      "canonical_sha256": "b905dee4f45be9a1fbe5fbaac4cfa09a0d2a83b0a5077084b456c6a0ad5ad330",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_mitigation_bridge48_confirmation_v42.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_mitigation_bridge48_confirmation_v42.sh",
+    "sha256": "95ddeb276ceca8c8d53a338521f8c2c158bb16a23ff93d3a064d819c4770cc51",
+    "reference": {
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_BRIDGE48_20260901_195016.json",
+      "canonical_sha256": "b905dee4f45be9a1fbe5fbaac4cfa09a0d2a83b0a5077084b456c6a0ad5ad330",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/submit_mitigation_bridge48_v42.sh",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/submit_mitigation_bridge48_v42.sh",
+    "sha256": "6c4eaa958db642265d7074397534014301bb57f222a4f5165d106779db0b1027",
+    "reference": {
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_BRIDGE48_20260901_195016.json",
+      "canonical_sha256": "b905dee4f45be9a1fbe5fbaac4cfa09a0d2a83b0a5077084b456c6a0ad5ad330",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/slurm/gate2_v4/upqi_star_v42_slotfill.slurm",
+    "cluster_path": "gate2_v4_final/slurm/gate2_v4/upqi_star_v42_slotfill.slurm",
+    "sha256": "57a40c74a7085e5d885c0bbaaa2e1dfe3c76d9140045824869ad7b98b3e08315",
+    "reference": {
+      "lock": "gate2_v4_final/bridge_locks/V4_BRIDGE_SOURCE_LOCK_NANO4_BRIDGE48_20260901_195016.json",
+      "canonical_sha256": "b905dee4f45be9a1fbe5fbaac4cfa09a0d2a83b0a5077084b456c6a0ad5ad330",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/gate2_v4_final/metric_locks/V4_MITIGATION_V42_SOURCE_LOCK_NANO4_20260901_180006.json",
+    "cluster_path": "gate2_v4_final/metric_locks/V4_MITIGATION_V42_SOURCE_LOCK_NANO4_20260901_180006.json",
+    "sha256": "7e71f60da3388b1281da9191e60889ab231eb6904cd9193bc99bc87ed4f27eb1",
+    "reference": {
+      "path": "evidence/by_sha256/74b43c730e08b6d1de37c5b6cd21f59ec00142a4ffc8c3d1a32376b80132bd24.json",
+      "pointer": "/provenance/source_lock_sha256",
+      "lock": "gate2_v4_final/metric_locks/V4_MITIGATION_V42_SOURCE_LOCK_NANO4_20260901_180006.json"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/locks/ORG_H200_E2A_PRODUCTION_LOCK_V1.json",
+    "cluster_path": "org_h200_execution_v1/locks/ORG_H200_E2A_PRODUCTION_LOCK_V1.json",
+    "sha256": "bc220be9190fb2484f3947b17e43bae7303e00d2e4ed2281cad81d2cd587f8b3",
+    "reference": {
+      "path": "evidence/by_sha256/6e0837e9e77504b025542f8f623c2a1aeac7e1293cfa2e1d4cf961a8292f5cbc.json",
+      "pointer": "/provenance/source_lock_sha256",
+      "lock": "org_h200_execution_v1/locks/ORG_H200_E2A_PRODUCTION_LOCK_V1.json"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/locks/ORG_H200_E2A_CANARY_LOCK_V1.json",
+    "cluster_path": "org_h200_execution_v1/locks/ORG_H200_E2A_CANARY_LOCK_V1.json",
+    "sha256": "173aacc493a93a7b4914867c052c80c44d8caaa3ac799ac298833b66c5f37dcb",
+    "reference": {
+      "lock": "org_h200_execution_v1/locks/ORG_H200_E2A_PRODUCTION_LOCK_V1.json",
+      "canonical_sha256": "7ca87763d6526bdeb8745230fcdc0373d8ffe1519a9a968e1fd3d9bb8f582929",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/analyze_org_h200_e2a_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/analyze_org_h200_e2a_v1.py",
+    "sha256": "dca35e1010221e97b850071ea61c0ea415ca3bcf4500a09d755ecffdaf778be2",
+    "reference": {
+      "lock": "org_h200_execution_v1/locks/ORG_H200_E2A_PRODUCTION_LOCK_V1.json",
+      "canonical_sha256": "7ca87763d6526bdeb8745230fcdc0373d8ffe1519a9a968e1fd3d9bb8f582929",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/build_org_h200_e2_lock_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/build_org_h200_e2_lock_v1.py",
+    "sha256": "1553697224a03fb648379a3671035340c90e843f9b20abdec8c800a470b85d45",
+    "reference": {
+      "lock": "org_h200_execution_v1/locks/ORG_H200_E2A_PRODUCTION_LOCK_V1.json",
+      "canonical_sha256": "7ca87763d6526bdeb8745230fcdc0373d8ffe1519a9a968e1fd3d9bb8f582929",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/build_org_h200_e2a_lock_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/build_org_h200_e2a_lock_v1.py",
+    "sha256": "fb1b115571f03d04323546536b86a5d877f4b5842d954814da10db2488dee769",
+    "reference": {
+      "lock": "org_h200_execution_v1/locks/ORG_H200_E2A_PRODUCTION_LOCK_V1.json",
+      "canonical_sha256": "7ca87763d6526bdeb8745230fcdc0373d8ffe1519a9a968e1fd3d9bb8f582929",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/build_org_h200_e2a_production_lock_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/build_org_h200_e2a_production_lock_v1.py",
+    "sha256": "d7953475bcf5bcfc72652253eb5eab24186c6d9608632209333b102c1c130a18",
+    "reference": {
+      "lock": "org_h200_execution_v1/locks/ORG_H200_E2A_PRODUCTION_LOCK_V1.json",
+      "canonical_sha256": "7ca87763d6526bdeb8745230fcdc0373d8ffe1519a9a968e1fd3d9bb8f582929",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/run_org_h200_e2a_cell_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/run_org_h200_e2a_cell_v1.py",
+    "sha256": "c6b526314f3a5a211c67f559470eac1dcdb16daf707dcd0d85fa1b19e48fa98e",
+    "reference": {
+      "lock": "org_h200_execution_v1/locks/ORG_H200_E2A_PRODUCTION_LOCK_V1.json",
+      "canonical_sha256": "7ca87763d6526bdeb8745230fcdc0373d8ffe1519a9a968e1fd3d9bb8f582929",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/test_org_h200_e2a_contract_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/test_org_h200_e2a_contract_v1.py",
+    "sha256": "0b6dccb73abc5ba3aeafa90e0932c85e81b84c9b91fb661fff3512015616e436",
+    "reference": {
+      "lock": "org_h200_execution_v1/locks/ORG_H200_E2A_PRODUCTION_LOCK_V1.json",
+      "canonical_sha256": "7ca87763d6526bdeb8745230fcdc0373d8ffe1519a9a968e1fd3d9bb8f582929",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/scripts/validate_org_h200_e2a_v1.py",
+    "cluster_path": "org_h200_execution_v1/scripts/validate_org_h200_e2a_v1.py",
+    "sha256": "91c6b91cded33be7ce5ebad5adf09c911f176012e470fc4351ae37184541b4d2",
+    "reference": {
+      "lock": "org_h200_execution_v1/locks/ORG_H200_E2A_PRODUCTION_LOCK_V1.json",
+      "canonical_sha256": "7ca87763d6526bdeb8745230fcdc0373d8ffe1519a9a968e1fd3d9bb8f582929",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION",
+    "syntax": "PASS"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_h200_e2a_canary1_v1.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_h200_e2a_canary1_v1.slurm",
+    "sha256": "ea973aab33d40c55f74ba6bb8a07a0ab57e7ffa39f78e05c755fda38c1f320e2",
+    "reference": {
+      "lock": "org_h200_execution_v1/locks/ORG_H200_E2A_PRODUCTION_LOCK_V1.json",
+      "canonical_sha256": "7ca87763d6526bdeb8745230fcdc0373d8ffe1519a9a968e1fd3d9bb8f582929",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  },
+  {
+    "path": "code/org_h200_execution_v1/slurm/org_h200_e2a_production8_v1.slurm",
+    "cluster_path": "org_h200_execution_v1/slurm/org_h200_e2a_production8_v1.slurm",
+    "sha256": "792123dc65e8724933ed939bdb4275d9aadf39335f11fdd1109b73c4ed305a43",
+    "reference": {
+      "lock": "org_h200_execution_v1/locks/ORG_H200_E2A_PRODUCTION_LOCK_V1.json",
+      "canonical_sha256": "7ca87763d6526bdeb8745230fcdc0373d8ffe1519a9a968e1fd3d9bb8f582929",
+      "field": "files"
+    },
+    "selection_basis": "HISTORICAL_CANONICAL_LOCK_NOT_EXECUTION_CERTIFICATION"
+  }
+]

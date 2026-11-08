@@ -1,0 +1,95 @@
+{
+  "files": [
+    {
+      "original": "org_h200_execution_v1/scripts/b05_same_artifact_v1.py",
+      "path": "support/b05_same_artifact_v1.py",
+      "sha256": "d3f1f9ab9fada36b532b06253e451299db8dc0c3571b5c73bf1334548b966d0c"
+    },
+    {
+      "original": "org_h200_execution_v1/scripts/certify_org_e2b_b05_feature_wave_v1.py",
+      "path": "support/certify_org_e2b_b05_feature_wave_v1.py",
+      "sha256": "e3f45ed1d71cc6756b2ee3a53167e62504c92c425eadd13cf5ba713fd4563b4b"
+    },
+    {
+      "original": "org_h200_execution_v1/scripts/diagnose_org_b05_rtn_reload_v1.py",
+      "path": "support/diagnose_org_b05_rtn_reload_v1.py",
+      "sha256": "15f8146f9e298a9f3330bffc53fce7ce72c3cb6a632e218a6ca8792b6fe20db9"
+    },
+    {
+      "original": "gate2_v4_final/scripts/gate2_metric_v42_contracts.py",
+      "path": "support/gate2_metric_v42_contracts.py",
+      "sha256": "637a20d4b081214ec63b84f92e95deab6e237279b38d8d356b7a657a8a2cf34b"
+    },
+    {
+      "original": "gate2_v4_final/scripts/gate2_metric_v42_math.py",
+      "path": "support/gate2_metric_v42_math.py",
+      "sha256": "7525248180056429522d8dafc1b799cd8166b2b245651c0bc25c928f1f7358c3"
+    },
+    {
+      "original": "gate2_v4_final/scripts/gate2_v4_backend.py",
+      "path": "support/gate2_v4_backend.py",
+      "sha256": "a4147dd6fff9ca7a9085a693308df51ca7cc41b6308c9cb1a18a0d0ab4606ddb"
+    },
+    {
+      "original": "gate2_v4_final/scripts/gate2_v4_contract.py",
+      "path": "support/gate2_v4_contract.py",
+      "sha256": "205346598106b590357f8d4e07b2f6c9f9a3ab1e560c5f38c9e6384ab070256a"
+    },
+    {
+      "original": "gate2_v4_final/scripts/gate2_v4_dataset.py",
+      "path": "support/gate2_v4_dataset.py",
+      "sha256": "084e9cda7b5cb403d82b636a9ddfe0b7ee3cae3536ef6c78b569ffbe4a380307"
+    },
+    {
+      "original": "org_h200_execution_v1/scripts/inventory_org_e2b_b04_public_models_v1.py",
+      "path": "support/inventory_org_e2b_b04_public_models_v1.py",
+      "sha256": "b593ccc0ff38bdc3e5aae708bf446738b0e310de2b2dc9b65b8312c44cbfae0e"
+    },
+    {
+      "original": "org_h200_execution_v1/scripts/org_b05_behavior_evaluator_v1.py",
+      "path": "support/org_b05_behavior_evaluator_v1.py",
+      "sha256": "6a8708ad6a464f676729ff7e9e6d73c868579ec713a9828a3902f5e24b9f8516"
+    },
+    {
+      "original": "org_h200_execution_v1/scripts/org_b05_packed_lifecycle_v2.py",
+      "path": "support/org_b05_packed_lifecycle_v2.py",
+      "sha256": "68d8e12c4b5727dcb609cfc525db677c3b01b48c95303a41681a04dd36e433dc"
+    },
+    {
+      "original": "org_h200_execution_v1/scripts/prepare_org_e2b_b04_public_models_v1.py",
+      "path": "support/prepare_org_e2b_b04_public_models_v1.py",
+      "sha256": "12dab8858475dd68634324ddacedcd0d98e66f37c6e53b539f8c0bb49e2048ce"
+    },
+    {
+      "original": "org_h200_execution_v1/scripts/probe_org_e2b_packed_backend_roundtrip_v3.py",
+      "path": "support/probe_org_e2b_packed_backend_roundtrip_v3.py",
+      "sha256": "40a81e2f08f8a95882eb1f6d17e4741eb3d9bc009e0ef50063387e256763e04d"
+    },
+    {
+      "original": "gate2_v4_final/scripts/run_gate2_metric_suite_v42.py",
+      "path": "support/run_gate2_metric_suite_v42.py",
+      "sha256": "9dbd504031e3d5187efe45cfa13d62f6d7a8d94af4cd3069ca2c11667c5976f4"
+    },
+    {
+      "original": "org_h200_execution_v1/scripts/run_org_b05_real_model_smoke_v1.py",
+      "path": "support/run_org_b05_real_model_smoke_v1.py",
+      "sha256": "7c66c6f969e3aae5d389ca65161c3df7bb7be0bd4a10c542602168395da09f88"
+    },
+    {
+      "original": "org_h200_execution_v1/scripts/run_org_e2b_b04_packed_public_canary_v1.py",
+      "path": "support/run_org_e2b_b04_packed_public_canary_v1.py",
+      "sha256": "a400ac29830aaf738bff4ed1ba29a55e8088a8058311207bd299f3eb3dcf98bb"
+    },
+    {
+      "original": "org_h200_execution_v1/scripts/run_org_e2b_b04_representation_canary_v1.py",
+      "path": "support/run_org_e2b_b04_representation_canary_v1.py",
+      "sha256": "e004e6b2bb3498abc312cd669613145fd94ca64f4b893e28024a6cb18cb3c463"
+    },
+    {
+      "original": "gate2_v4_final/scripts/validate_gate2_metric_suite_v42.py",
+      "path": "support/validate_gate2_metric_suite_v42.py",
+      "sha256": "b008def96bfbb0843bea08e9ef11c7e5953e74249dc86a1f173bc064e30aa613"
+    }
+  ],
+  "status": "FROZEN_HISTORY_BYTE_MATCH"
+}
