@@ -1,5 +1,7 @@
 # Third-party components
 
+The repository's own code and documentation are under the MIT License in [LICENSE](LICENSE). The components below keep their own terms.
+
 ## Code included here
 
 - **OpenUnlearning** (`https://github.com/locuslab/open-unlearning`, commit `4ad738aaf60f6a4385f6e2506d01da99e76c31f3`). MIT License, copyright 2025 CMU Locus Lab.

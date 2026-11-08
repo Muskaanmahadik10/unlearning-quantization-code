@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code or its provenance records, please cite the article and this repository."
+title: "Code and provenance records for: Evaluating Machine Unlearning under Quantization: Layerwise Diagnostics, Execution Comparisons and Manufacturing Knowledge Revision"
+type: software
+authors:
+  - family-names: Mahadik
+    given-names: Muskaan
+  - family-names: Kuo
+    given-names: Tsai-Chi
+  - family-names: Dang
+    given-names: Jr-Fong
+repository-code: "https://github.com/Muskaanmahadik10/unlearning-quantization-code"
+license: MIT
+version: v2.1-review
+date-released: "2026-11-08"
+keywords:
+  - machine unlearning
+  - quantization
+  - large language models
+  - layerwise diagnostics
+  - manufacturing knowledge graph
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "Evaluating Machine Unlearning under Quantization: Layerwise Diagnostics, Execution Comparisons and Manufacturing Knowledge Revision"
+  authors:
+    - family-names: Mahadik
+      given-names: Muskaan
+    - family-names: Kuo
+      given-names: Tsai-Chi
+    - family-names: Dang
+      given-names: Jr-Fong
+  journal: "Journal of Manufacturing Systems"
+  status: submitted
+  year: 2026

@@ -61,6 +61,10 @@ The cluster and notebook code is archived exactly as it ran. It contains the ori
   - Training ran on Colab; the final evaluations and the GQDP probes ran on two A100 GPUs.
   - Seeds 20261101, 20261102 and 20261103.
 
+## Citation
+
+If you use this code or its provenance records, please cite the article and this repository. Citation details are in [CITATION.cff](CITATION.cff) (GitHub's "Cite this repository" button uses it). The version reviewed with the manuscript is tagged `v2.1-review`.
+
 ## Licence
 
-No licence has been granted yet; one will be added on publication. Until then all rights are reserved, and the code is provided so that it can be read and checked. Third-party components are listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+The original code and documentation in this repository are released under the [MIT License](LICENSE). Files adapted from OpenUnlearning keep their own MIT notice, and the models and datasets used are covered by their own terms; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
